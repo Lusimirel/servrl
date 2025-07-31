@@ -22896,3 +22896,42 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [19:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [19:14:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
 [19:14:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Gnekk  Lvl 2 is 0.001
+[19:14:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Balayang  Lvl 2
+[19:14:39] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:14:40] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:14:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Balayang  Lvl 2 is 0.01
+[19:14:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Wraamon  Lvl 2
+[19:14:50] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:14:50] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:14:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Balayang  Lvl 2
+[19:14:53] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:15:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:15:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:15:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:16:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:16:36] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:17:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:18:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:18:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:19:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:20:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:21:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:21:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:22:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:23:02] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:02] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:05] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:23:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:44] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:24:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:24:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Verdant Chupacabra  Lvl 2 is 0.001
