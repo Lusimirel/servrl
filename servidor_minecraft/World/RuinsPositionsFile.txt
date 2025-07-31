@@ -47,6 +47,7 @@
 -3042 70 -662 -3033 73 -653 RuinedSmallFountainDiagonal.tml
 -3041 67 -508 -3036 72 -501 SandstoneRuin.tml
 -3027 8 -252 -3024 150 -249 Beacon.tml
+-3005 61 -168 -2998 71 -161 BridgePilings-sm2.tml
 -2975 63 -352 -2967 73 -344 TallTower.tml
 -2972 32 -899 -2946 44 -891 shipwreck.tml
 -2967 66 -589 -2954 75 -576 VolcanicVent.tml
