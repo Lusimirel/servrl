@@ -4344,3 +4344,11 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [18:02:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [18:13:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu has made the advancement [Stone Age]
 [18:18:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu has made the advancement [Acquire Hardware]
+[18:36:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 60b9472a-bb2c-4142-89cb-0758d2c4d4bb
+[18:40:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Zombie
+[18:40:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[18:40:13] [Thread-217/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[18:40:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[18:40:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [Ice Bucket Challenge]
+[18:41:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Chupacabra
+[18:41:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
