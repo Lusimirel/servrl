@@ -4449,3 +4449,13 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [20:03:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu left the game
 [20:03:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 lost connection: Disconnected
 [20:03:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 left the game
+[20:07:29] [Server thread/INFO] [AUW]: Stopping DS...
+[20:07:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:07:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:07:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:07:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[20:07:29] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[20:07:29] [Server thread/INFO] [FML]: Unloading dimension 0
+[20:07:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:07:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:07:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
