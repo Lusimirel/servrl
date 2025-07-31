@@ -21913,3 +21913,138 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [17:53:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
 [17:53:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
 [17:53:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[17:53:50] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 480 times.
+
+[17:53:50] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 480 times.
+
+[17:53:50] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 480 times.
+
+[17:54:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:54:37] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin3 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@3b2d5d0c
+[17:54:37] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin3
+[17:54:40] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 485 times.
+
+[17:54:40] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 485 times.
+
+[17:54:40] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 485 times.
+
+[17:54:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:54:54] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound' in StructureBoundingBox{x0=-3397, y0=63, z0=-267, x1=-3392, y1=73, z1=-262} (0)
+[17:54:54] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[17:55:30] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 490 times.
+
+[17:55:30] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 490 times.
+
+[17:55:30] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 490 times.
+
+[17:55:31] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin2 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@3b2d5d0c
+[17:55:31] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin2
+[17:55:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:56:20] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 495 times.
+
+[17:56:20] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 495 times.
+
+[17:56:20] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 495 times.
+
+[17:56:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:57:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:57:10] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 500 times.
+
+[17:57:10] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 500 times.
+
+[17:57:10] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 500 times.
+
+[17:57:11] [Server thread/TRACE] [reccomplex]: Generated structure 'ClayWaterMound' in StructureBoundingBox{x0=-3236, y0=66, z0=-140, x1=-3228, y1=68, z1=-133} (0)
+[17:57:11] [Server thread/TRACE] [RLTweaker]: Structure Generated: ClayWaterMound
+[17:57:11] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneBoulder' in StructureBoundingBox{x0=-3282, y0=63, z0=-132, x1=-3273, y1=77, z1=-123} (0)
+[17:57:11] [Server thread/TRACE] [RLTweaker]: Structure Generated: StoneBoulder
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[17:57:17] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-3080, y=52, z=-120}
+[17:57:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [Diamonds!]
+[17:57:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu has made the advancement [Diamonds!]
+[17:57:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:58:00] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 505 times.
+
+[17:58:00] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 505 times.
+
+[17:58:00] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 505 times.
+
+[17:58:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:58:50] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 510 times.
+
+[17:58:50] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 510 times.
+
+[17:58:50] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 510 times.
+
+[17:59:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:59:40] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 515 times.
+
+[17:59:40] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 515 times.
+
+[17:59:40] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 515 times.
+
+[17:59:49] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound1' in StructureBoundingBox{x0=-3395, y0=67, z0=-142, x1=-3389, y1=71, z1=-136} (0)
+[17:59:49] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound1
+[18:00:02] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantBoulder' in StructureBoundingBox{x0=-3225, y0=62, z0=-57, x1=-3215, y1=72, z1=-47} (0)
+[18:00:02] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantBoulder
+[18:00:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:00:30] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 520 times.
+
+[18:00:30] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 520 times.
+
+[18:00:30] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 520 times.
+
+[18:00:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spriggan is 0.01
+[18:00:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:01:20] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 525 times.
+
+[18:01:20] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 525 times.
+
+[18:01:20] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 525 times.
+
+[18:01:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:01:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Triffid
+[18:01:56] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:01:56] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:01:56] [Thread-163/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[18:01:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[18:02:10] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 530 times.
+
+[18:02:10] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 530 times.
+
+[18:02:10] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 530 times.
+
+[18:02:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Triffid
+[18:02:15] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:02:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[18:02:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:02:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Triffid is 0.01
+[18:03:00] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 535 times.
+
+[18:03:00] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 535 times.
+
+[18:03:00] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 535 times.
+
+[18:03:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World

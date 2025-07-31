@@ -4311,3 +4311,34 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [17:47:13] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
 [17:47:13] [Server thread/INFO] [Meson ASM]: Patch result: true
 [17:50:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [Stone Age]
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[17:54:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[17:57:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[17:57:17] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-3080, y=52, z=-120}
+[17:57:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [Diamonds!]
+[17:57:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu has made the advancement [Diamonds!]
+[18:01:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Triffid
+[18:01:56] [Thread-163/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[18:01:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[18:02:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Triffid
+[18:02:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
