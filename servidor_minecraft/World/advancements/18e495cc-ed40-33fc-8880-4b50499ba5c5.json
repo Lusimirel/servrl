@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-07-31 18:31:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-07-31 17:49:49 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-07-31 18:30:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-07-31 16:41:05 +0000"
@@ -242,6 +254,12 @@
   "mujmajnkraftsbettersurvival:diamond_nunchaku": {
     "criteria": {
       "has_diamond": "2025-07-31 17:57:45 +0000"
+    },
+    "done": true
+  },
+  "familiarfauna:recipes/tools/bug_net": {
+    "criteria": {
+      "has_string": "2025-07-31 18:30:03 +0000"
     },
     "done": true
   },
@@ -341,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-31 18:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 18:18:17 +0000"
@@ -395,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-31 18:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-31 17:34:38 +0000"
@@ -422,6 +452,12 @@
   "mujmajnkraftsbettersurvival:gold_battleaxe": {
     "criteria": {
       "has_gold": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-07-31 18:30:46 +0000"
     },
     "done": true
   },
@@ -455,9 +491,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2025-07-31 18:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-31 17:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-31 18:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-07-31 18:30:03 +0000"
     },
     "done": true
   },
@@ -476,6 +530,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-31 17:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-31 18:30:03 +0000"
     },
     "done": true
   },
@@ -500,6 +560,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/season_clock": {
+    "criteria": {
+      "has_redstone": "2025-07-31 18:30:03 +0000"
     },
     "done": true
   },
@@ -603,6 +669,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-31 17:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-31 18:30:03 +0000"
     },
     "done": true
   },
@@ -732,6 +804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-31 18:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-07-31 16:41:05 +0000"
@@ -772,6 +850,24 @@
   "defiledlands:recipes/tools/umbrium_axe": {
     "criteria": {
       "has_material": "2025-07-31 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/iron_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2025-07-31 18:29:02 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:crossbow": {
+    "criteria": {
+      "has_string": "2025-07-31 18:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-31 18:30:03 +0000"
     },
     "done": true
   },
