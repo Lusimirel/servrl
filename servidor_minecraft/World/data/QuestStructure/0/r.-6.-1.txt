@@ -1,0 +1,5 @@
+RLCraft_DecentWitch,-3374,-3374,-705,-705
+RLCraft_UndergroundRuin3,-3379,-3371,-707,-699
+P_IslandCity,-3431,-3097,-906,-600
+RLCraft_DecentSkeleton,-3106,-3106,-565,-565
+RLCraft_UndergroundRuin3,-3109,-3101,-571,-563

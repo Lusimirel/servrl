@@ -1,0 +1,3 @@
+StonePlantMound,7804,7809,-1809,-1804
+UndergroundCrypt,7716,7744,-1917,-1903
+ShrineSmallAir,7686,7694,-1819,-1811

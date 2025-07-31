@@ -1,0 +1,7 @@
+RLCraft_DecentWitch,6464,6464,-8168,-8168
+RLCraft_UndergroundRuin2,6459,6469,-8170,-8163
+StonePlantMound2,6465,6478,-8143,-8131
+SpiderPit,6398,6408,-8144,-8135
+StonePlantMound,6344,6349,-8154,-8149
+DinosaurSkeleton,6630,6676,-8128,-8119
+StoneLeafMound,6611,6618,-8113,-8104

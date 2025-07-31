@@ -1,0 +1,4 @@
+P_WizardTower,6670,6700,-8145,-8115
+StonePlantMound2,6685,6698,-8190,-8178
+RLCraft_DecentZombie,6681,6681,-8084,-8084
+RLCraft_UndergroundRuin2,6676,6683,-8089,-8079

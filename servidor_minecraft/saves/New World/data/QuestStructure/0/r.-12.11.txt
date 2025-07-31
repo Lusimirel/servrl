@@ -1,0 +1,5 @@
+P_SmallShip,-6222,-6202,6097,6103
+StonePlantMound4,-6424,-6417,6082,6089
+RLCraft_BasicSpider,-6438,-6438,6055,6055
+RLCraft_UndergroundRuin1,-6444,-6435,6052,6061
+StoneLeafMound,-6410,-6401,6021,6028

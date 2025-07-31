@@ -1,0 +1,15 @@
+StonePlantMound2,3177,3190,8199,8211
+RLCraft_DecentSkeleton,3175,3175,8218,8218
+RLCraft_UndergroundRuin3,3169,3177,8213,8221
+RLCraft_BasicCaveSpider,3265,3265,8245,8245
+RLCraft_UndergroundRuin1,3262,3271,8242,8251
+RLCraft_FriendlyOutpost,3207,3246,8200,8268
+StonePlantMound4,3422,3429,8251,8258
+RLCraft_BasicSkeleton,3418,3418,8273,8273
+RLCraft_UndergroundRuin1,3412,3421,8270,8279
+StonePlantMound1,3169,3175,8277,8283
+P_RuinedHouse,3134,3159,8290,8307
+RLCraft_DecentZombie,3100,3100,8234,8234
+RLCraft_UndergroundRuin2,3095,3105,8229,8236
+StonePlantMound2,3282,3294,8312,8325
+StonePlantMound2,3400,3412,8306,8319
