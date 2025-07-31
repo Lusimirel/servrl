@@ -22146,3 +22146,100 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 
 [18:13:50] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 600 times.
 
+[18:14:17] [Server thread/TRACE] [RLTweaker]: P_DesertDungeon failed to spawn at [-2987, -136] (incompatible biome edge)
+[18:14:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:14:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[18:14:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[18:14:28] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[18:14:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[18:14:40] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 605 times.
+
+[18:14:40] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 605 times.
+
+[18:14:40] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 605 times.
+
+[18:15:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:15:30] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 610 times.
+
+[18:15:30] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 610 times.
+
+[18:15:30] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 610 times.
+
+[18:15:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:16:20] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 615 times.
+
+[18:16:20] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 615 times.
+
+[18:16:20] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 615 times.
+
+[18:16:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Maka Alpha is 0.001
+[18:16:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Maka is 0.001
+[18:16:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:17:10] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 620 times.
+
+[18:17:10] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 620 times.
+
+[18:17:10] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 620 times.
+
+[18:17:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:18:00] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 625 times.
+
+[18:18:00] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 625 times.
+
+[18:18:00] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 625 times.
+
+[18:18:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:18:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu has made the advancement [Acquire Hardware]
+[18:18:50] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 630 times.
+
+[18:18:50] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 630 times.
+
+[18:18:50] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 630 times.
+
+[18:18:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:19:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:19:40] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 635 times.
+
+[18:19:40] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 635 times.
+
+[18:19:40] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 635 times.
+
+[18:20:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chicken is 0.001
+[18:20:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:20:30] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 640 times.
+
+[18:20:30] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 640 times.
+
+[18:20:30] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 640 times.
+
+[18:21:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:21:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Arisaur is 0.001
+[18:21:20] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 645 times.
+
+[18:21:20] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 645 times.
+
+[18:21:20] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 645 times.
+
+[18:21:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Arisaur is 0.001
+[18:21:37] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Arisaur is 0.001
+[18:21:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:22:10] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 650 times.
+
+[18:22:10] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 650 times.
+
+[18:22:10] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 650 times.
+
+[18:22:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:23:00] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 655 times.
+
+[18:23:00] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 655 times.
+
+[18:23:00] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 655 times.
+
+[18:23:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:23:50] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 660 times.
+
+[18:23:50] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 660 times.
+
+[18:23:50] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 660 times.
+
