@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-31 17:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2025-07-31 16:50:31 +0000"
@@ -319,7 +325,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie": "2025-07-31 16:50:41 +0000"
+      "skeleton": "2025-07-31 17:21:01 +0000",
+      "zombie": "2025-07-31 16:50:41 +0000",
+      "creeper": "2025-07-31 17:05:28 +0000"
     },
     "done": false
   },
@@ -401,6 +409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-31 17:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 16:40:18 +0000"
@@ -467,6 +481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-31 17:08:51 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:wood_battleaxe": {
     "criteria": {
       "has_stick": "2025-07-31 16:48:22 +0000"
@@ -482,6 +502,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-07-31 16:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-07-31 17:07:50 +0000"
     },
     "done": true
   },

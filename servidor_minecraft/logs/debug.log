@@ -18146,3 +18146,327 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [17:02:48] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 175 times.
 
 [17:02:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:03:38] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 180 times.
+
+[17:03:38] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 180 times.
+
+[17:03:38] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 180 times.
+
+[17:03:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:04:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:04:28] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 185 times.
+
+[17:04:28] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 185 times.
+
+[17:04:28] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 185 times.
+
+[17:05:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:05:18] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 190 times.
+
+[17:05:18] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 190 times.
+
+[17:05:18] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 190 times.
+
+[17:05:28] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[17:05:31] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_DecentZombie' in StructureBoundingBox{x0=-3439, y0=26, z0=-696, x1=-3439, y1=26, z1=-696} (0)
+[17:05:31] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_UndergroundRuin3' in StructureBoundingBox{x0=-3445, y0=23, z0=-701, x1=-3437, y1=30, z1=-693} (0)
+[17:05:31] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin3
+[17:05:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePathBig' in StructureBoundingBox{x0=-3441, y0=18, z0=-770, x1=-3433, y1=23, z1=-762} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeStudy' in StructureBoundingBox{x0=-3456, y0=19, z0=-770, x1=-3442, y1=22, z1=-762} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3465, y0=20, z0=-767, x1=-3463, y1=22, z1=-765} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3462, y0=20, z0=-770, x1=-3460, y1=22, z1=-768} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePathBig' in StructureBoundingBox{x0=-3468, y0=18, z0=-773, x1=-3460, y1=23, z1=-765} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3447, y0=19, z0=-755, x1=-3445, y1=22, z1=-753} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3445, y0=20, z0=-757, x1=-3445, y1=21, z1=-757} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3447, y0=20, z0=-757, x1=-3447, y1=21, z1=-757} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3446, y0=20, z0=-758, x1=-3446, y1=21, z1=-758} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3447, y0=19, z0=-758, x1=-3445, y1=22, z1=-756} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3450, y0=19, z0=-788, x1=-3448, y1=22, z1=-786} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeEndChest' in StructureBoundingBox{x0=-3447, y0=19, z0=-788, x1=-3445, y1=22, z1=-786} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3449, y0=20, z0=-755, x1=-3449, y1=21, z1=-755} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3449, y0=20, z0=-753, x1=-3449, y1=21, z1=-753} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3450, y0=19, z0=-755, x1=-3448, y1=22, z1=-753} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3453, y0=20, z0=-754, x1=-3453, y1=21, z1=-754} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3452, y0=20, z0=-753, x1=-3452, y1=21, z1=-753} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3453, y0=19, z0=-755, x1=-3451, y1=22, z1=-753} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeSpiderRoom' in StructureBoundingBox{x0=-3456, y0=19, z0=-761, x1=-3451, y1=22, z1=-756} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3448, y0=20, z0=-784, x1=-3448, y1=21, z1=-784} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3450, y0=20, z0=-784, x1=-3450, y1=21, z1=-784} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3450, y0=19, z0=-785, x1=-3448, y1=22, z1=-783} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeLitRoom' in StructureBoundingBox{x0=-3453, y0=19, z0=-782, x1=-3448, y1=22, z1=-777} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeStudy' in StructureBoundingBox{x0=-3441, y0=19, z0=-785, x1=-3433, y1=22, z1=-771} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3450, y0=19, z0=-776, x1=-3448, y1=22, z1=-774} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3438, y0=19, z0=-761, x1=-3436, y1=22, z1=-759} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3440, y0=20, z0=-759, x1=-3440, y1=21, z1=-759} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3440, y0=20, z0=-761, x1=-3440, y1=21, z1=-761} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3441, y0=19, z0=-761, x1=-3439, y1=22, z1=-759} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3451, y0=20, z0=-784, x1=-3451, y1=21, z1=-784} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3453, y0=19, z0=-785, x1=-3451, y1=22, z1=-783} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3452, y0=20, z0=-788, x1=-3452, y1=21, z1=-788} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3453, y0=20, z0=-787, x1=-3453, y1=21, z1=-787} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3453, y0=19, z0=-788, x1=-3451, y1=22, z1=-786} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3453, y0=20, z0=-775, x1=-3453, y1=21, z1=-775} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3452, y0=20, z0=-774, x1=-3452, y1=21, z1=-774} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3453, y0=19, z0=-776, x1=-3451, y1=22, z1=-774} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3462, y0=20, z0=-779, x1=-3460, y1=22, z1=-777} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3468, y0=20, z0=-779, x1=-3466, y1=22, z1=-777} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePathBig' in StructureBoundingBox{x0=-3468, y0=18, z0=-782, x1=-3460, y1=23, z1=-774} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3434, y0=20, z0=-777, x1=-3434, y1=21, z1=-777} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3434, y0=20, z0=-779, x1=-3434, y1=21, z1=-779} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3433, y0=20, z0=-778, x1=-3433, y1=21, z1=-778} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3435, y0=19, z0=-779, x1=-3433, y1=22, z1=-777} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3443, y0=20, z0=-761, x1=-3443, y1=21, z1=-761} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3444, y0=20, z0=-760, x1=-3444, y1=21, z1=-760} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3444, y0=19, z0=-761, x1=-3442, y1=22, z1=-759} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3455, y0=20, z0=-779, x1=-3455, y1=21, z1=-779} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3456, y0=19, z0=-779, x1=-3454, y1=22, z1=-777} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3443, y0=20, z0=-753, x1=-3443, y1=21, z1=-753} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3442, y0=20, z0=-754, x1=-3442, y1=21, z1=-754} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3444, y0=19, z0=-755, x1=-3442, y1=22, z1=-753} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3448, y0=20, z0=-769, x1=-3448, y1=21, z1=-769} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3450, y0=20, z0=-769, x1=-3450, y1=21, z1=-769} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3450, y0=19, z0=-770, x1=-3448, y1=22, z1=-768} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3455, y0=20, z0=-785, x1=-3455, y1=21, z1=-785} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3456, y0=20, z0=-784, x1=-3456, y1=21, z1=-784} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3456, y0=19, z0=-785, x1=-3454, y1=22, z1=-783} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3438, y0=20, z0=-757, x1=-3438, y1=21, z1=-757} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3437, y0=20, z0=-756, x1=-3437, y1=21, z1=-756} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3438, y0=19, z0=-758, x1=-3436, y1=22, z1=-756} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3465, y0=19, z0=-785, x1=-3463, y1=22, z1=-783} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3434, y0=20, z0=-756, x1=-3434, y1=21, z1=-756} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3434, y0=20, z0=-758, x1=-3434, y1=21, z1=-758} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3433, y0=20, z0=-757, x1=-3433, y1=21, z1=-757} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3435, y0=19, z0=-758, x1=-3433, y1=22, z1=-756} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3456, y0=20, z0=-781, x1=-3456, y1=21, z1=-781} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3455, y0=20, z0=-780, x1=-3455, y1=21, z1=-780} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3456, y0=19, z0=-782, x1=-3454, y1=22, z1=-780} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3459, y0=20, z0=-778, x1=-3459, y1=21, z1=-778} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3459, y0=19, z0=-779, x1=-3457, y1=22, z1=-777} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3459, y0=20, z0=-775, x1=-3459, y1=21, z1=-775} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3457, y0=20, z0=-775, x1=-3457, y1=21, z1=-775} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3459, y0=19, z0=-776, x1=-3457, y1=22, z1=-774} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3444, y0=20, z0=-757, x1=-3444, y1=21, z1=-757} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3442, y0=20, z0=-757, x1=-3442, y1=21, z1=-757} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3444, y0=19, z0=-758, x1=-3442, y1=22, z1=-756} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3459, y0=20, z0=-781, x1=-3459, y1=21, z1=-781} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3457, y0=20, z0=-781, x1=-3457, y1=21, z1=-781} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3459, y0=19, z0=-782, x1=-3457, y1=22, z1=-780} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3461, y0=20, z0=-785, x1=-3461, y1=21, z1=-785} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3461, y0=20, z0=-783, x1=-3461, y1=21, z1=-783} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3462, y0=19, z0=-785, x1=-3460, y1=22, z1=-783} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3450, y0=19, z0=-773, x1=-3448, y1=22, z1=-771} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3446, y0=20, z0=-773, x1=-3446, y1=21, z1=-773} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3446, y0=20, z0=-771, x1=-3446, y1=21, z1=-771} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3447, y0=19, z0=-773, x1=-3445, y1=22, z1=-771} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3457, y0=20, z0=-784, x1=-3457, y1=21, z1=-784} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3458, y0=20, z0=-785, x1=-3458, y1=21, z1=-785} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3459, y0=19, z0=-785, x1=-3457, y1=22, z1=-783} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3447, y0=19, z0=-782, x1=-3445, y1=22, z1=-780} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3456, y0=20, z0=-775, x1=-3456, y1=21, z1=-775} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3454, y0=20, z0=-775, x1=-3454, y1=21, z1=-775} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3456, y0=19, z0=-776, x1=-3454, y1=22, z1=-774} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3468, y0=20, z0=-784, x1=-3468, y1=21, z1=-784} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3467, y0=20, z0=-783, x1=-3467, y1=21, z1=-783} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3468, y0=19, z0=-785, x1=-3466, y1=22, z1=-783} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeEndChest' in StructureBoundingBox{x0=-3447, y0=19, z0=-785, x1=-3445, y1=22, z1=-783} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3443, y0=20, z0=-771, x1=-3443, y1=21, z1=-771} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3442, y0=20, z0=-772, x1=-3442, y1=21, z1=-772} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3444, y0=19, z0=-773, x1=-3442, y1=22, z1=-771} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeEndChest' in StructureBoundingBox{x0=-3468, y0=19, z0=-788, x1=-3466, y1=22, z1=-786} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeEndChest' in StructureBoundingBox{x0=-3435, y0=19, z0=-761, x1=-3433, y1=22, z1=-759} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3447, y0=19, z0=-779, x1=-3445, y1=22, z1=-777} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3452, y0=20, z0=-771, x1=-3452, y1=21, z1=-771} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3452, y0=20, z0=-773, x1=-3452, y1=21, z1=-773} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3453, y0=19, z0=-773, x1=-3451, y1=22, z1=-771} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3442, y0=20, z0=-781, x1=-3442, y1=21, z1=-781} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3444, y0=19, z0=-782, x1=-3442, y1=22, z1=-780} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3443, y0=20, z0=-777, x1=-3443, y1=21, z1=-777} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3442, y0=20, z0=-778, x1=-3442, y1=21, z1=-778} (0)
+[17:05:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3444, y0=19, z0=-779, x1=-3442, y1=22, z1=-777} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3464, y0=20, z0=-788, x1=-3464, y1=21, z1=-788} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3465, y0=20, z0=-787, x1=-3465, y1=21, z1=-787} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3465, y0=19, z0=-788, x1=-3463, y1=22, z1=-786} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3442, y0=20, z0=-775, x1=-3442, y1=21, z1=-775} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3443, y0=20, z0=-776, x1=-3443, y1=21, z1=-776} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3444, y0=19, z0=-776, x1=-3442, y1=22, z1=-774} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3446, y0=20, z0=-774, x1=-3446, y1=21, z1=-774} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3447, y0=19, z0=-776, x1=-3445, y1=22, z1=-774} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3461, y0=20, z0=-786, x1=-3461, y1=21, z1=-786} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3461, y0=20, z0=-788, x1=-3461, y1=21, z1=-788} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3462, y0=19, z0=-788, x1=-3460, y1=22, z1=-786} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3458, y0=20, z0=-786, x1=-3458, y1=21, z1=-786} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3458, y0=20, z0=-788, x1=-3458, y1=21, z1=-788} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3459, y0=19, z0=-788, x1=-3457, y1=22, z1=-786} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3455, y0=20, z0=-771, x1=-3455, y1=21, z1=-771} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3456, y0=19, z0=-773, x1=-3454, y1=22, z1=-771} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3459, y0=20, z0=-772, x1=-3459, y1=21, z1=-772} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-3458, y0=20, z0=-771, x1=-3458, y1=21, z1=-771} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazePath' in StructureBoundingBox{x0=-3459, y0=19, z0=-773, x1=-3457, y1=22, z1=-771} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeEndChest' in StructureBoundingBox{x0=-3456, y0=19, z0=-788, x1=-3454, y1=22, z1=-786} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMazeEndChest' in StructureBoundingBox{x0=-3444, y0=19, z0=-785, x1=-3442, y1=22, z1=-783} (0)
+[17:05:48] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneMaze' in StructureBoundingBox{x0=-3468, y0=18, z0=-788, x1=-3433, y1=23, z1=-753} (0)
+[17:05:48] [Server thread/TRACE] [RLTweaker]: Structure Generated: StoneMaze
+[17:05:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:06:08] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 195 times.
+
+[17:06:08] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 195 times.
+
+[17:06:08] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 195 times.
+
+[17:06:29] [Server thread/TRACE] [RLTweaker]: StoneBoulder failed to spawn at [-3499, -576] (incompatible biome edge)
+[17:06:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:06:58] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 200 times.
+
+[17:06:58] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 200 times.
+
+[17:06:58] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 200 times.
+
+[17:07:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:07:48] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 205 times.
+
+[17:07:48] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 205 times.
+
+[17:07:48] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 205 times.
+
+[17:08:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:08:38] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 210 times.
+
+[17:08:38] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 210 times.
+
+[17:08:38] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 210 times.
+
+[17:08:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chicken is 0.001
+[17:08:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chicken is 0.001
+[17:08:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:09:28] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 215 times.
+
+[17:09:28] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 215 times.
+
+[17:09:28] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 215 times.
+
+[17:09:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:09:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[17:10:18] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 220 times.
+
+[17:10:18] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 220 times.
+
+[17:10:18] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 220 times.
+
+[17:10:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:10:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[17:11:08] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 225 times.
+
+[17:11:08] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 225 times.
+
+[17:11:08] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 225 times.
+
+[17:11:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:11:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:11:58] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 230 times.
+
+[17:11:58] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 230 times.
+
+[17:11:58] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 230 times.
+
+[17:12:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:12:48] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 235 times.
+
+[17:12:48] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 235 times.
+
+[17:12:48] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 235 times.
+
+[17:13:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:13:38] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 240 times.
+
+[17:13:38] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 240 times.
+
+[17:13:38] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 240 times.
+
+[17:14:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[17:14:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:14:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 died from parasites
+[17:14:19] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[17:14:20] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[17:14:21] [Thread-87/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5d715e32-995d-33dc-af6d-a80ee555a961.
+[17:14:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[17:14:28] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 245 times.
+
+[17:14:28] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 245 times.
+
+[17:14:28] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 245 times.
+
+[17:14:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:15:18] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 250 times.
+
+[17:15:18] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 250 times.
+
+[17:15:18] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 250 times.
+
+[17:15:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:16:08] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 255 times.
+
+[17:16:08] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 255 times.
+
+[17:16:08] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 255 times.
+
+[17:16:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:16:58] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 260 times.
+
+[17:16:58] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 260 times.
+
+[17:16:58] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 260 times.
+
+[17:17:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:17:48] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 265 times.
+
+[17:17:48] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 265 times.
+
+[17:17:48] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 265 times.
+
+[17:17:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:18:38] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 270 times.
+
+[17:18:38] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 270 times.
+
+[17:18:38] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 270 times.
+
+[17:18:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:19:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:19:28] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 275 times.
+
+[17:19:28] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 275 times.
+
+[17:19:28] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 275 times.
+
+[17:20:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:20:18] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 280 times.
+
+[17:20:18] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 280 times.
+
+[17:20:18] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 280 times.
+
+[17:20:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:21:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[17:21:08] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 285 times.
+
+[17:21:08] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 285 times.
+
+[17:21:08] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 285 times.
+
+[17:21:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:21:58] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 290 times.
+
+[17:21:58] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 290 times.
+
+[17:21:58] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 290 times.
+
+[17:22:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Raiko is 0.01
+[17:22:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:22:48] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 295 times.
+
+[17:22:48] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 295 times.
+
+[17:22:48] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 295 times.
+
+[17:23:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World

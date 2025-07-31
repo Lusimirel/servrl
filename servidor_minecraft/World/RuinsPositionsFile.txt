@@ -9,8 +9,10 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-3539 63 -607 -3505 73 -572 UnderwaterBase.tml
 -3486 35 -831 -3460 47 -823 shipwreck.tml
 -3476 63 -823 -3445 103 -793 CastleOcean.tml
+-3436 65 -566 -3426 82 -556 WatchtowerRuined.tml
 -3436 63 -801 -3406 103 -770 CastleOcean.tml
 -3414 31 -788 -3406 43 -762 shipwreck.tml
 -3383 63 -919 -3353 106 -889 SkyCastle.tml
