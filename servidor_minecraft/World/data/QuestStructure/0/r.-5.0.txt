@@ -1,0 +1,8 @@
+RLCraft_DecentCaveSpider,-2848,-2848,-481,-481
+RLCraft_UndergroundRuin3,-2853,-2845,-487,-479
+RLCraft_BasicCaveSpider,-2951,-2951,-418,-418
+RLCraft_UndergroundRuin1,-2957,-2948,-421,-412
+RLCraft_SmallUndergroundSkeleton,-3044,-3036,-400,-392
+SmallWoodenCottage,-2811,-2803,-398,-387
+P_WitchDungeon,-2881,-2847,-381,-364
+RLCraft_PlainsCamp,-2791,-2752,-432,-386

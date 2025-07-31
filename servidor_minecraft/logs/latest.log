@@ -4277,3 +4277,15 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [17:14:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 died from parasites
 [17:14:21] [Thread-87/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5d715e32-995d-33dc-af6d-a80ee555a961.
 [17:14:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[17:24:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [Take Aim]
+[17:25:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Jouste Alpha
+[17:25:13] [Thread-103/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[17:25:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[17:25:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Jouste Alpha
+[17:25:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Jouste Alpha
+[17:26:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 5.670423841449519,1.0,8.2324408865843
+[17:26:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[17:26:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 14126ms behind, skipping 282 tick(s)
+[17:26:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[17:32:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Jouste Alpha
+[17:32:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
