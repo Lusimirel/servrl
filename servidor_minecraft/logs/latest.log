@@ -3711,3 +3711,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [23:27:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was blown up by Creeper
 [23:27:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[23:28:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Darkling  Lvl 2
+[23:28:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was blown up by Creeper
+[23:29:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was blown up by Creeper
+[23:29:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was shot by Skeleton
+[23:30:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was blown up by Creeper
+[23:30:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was shot by Skeleton
+[23:30:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was shot by Skeleton
+[23:30:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was shot by Skeleton
+[23:31:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was shot by Skeleton
+[23:31:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[23:31:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Russet Darkling  Lvl 2
+[23:31:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Russet Darkling  Lvl 2
+[23:32:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Russet Darkling  Lvl 2
+[23:32:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Russet Darkling  Lvl 2
+[23:34:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Grue  Lvl 2
+[23:37:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Feradon  Lvl 2
+[23:37:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Feradon  Lvl 2
+[23:37:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Feradon  Lvl 2
+[23:37:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:37:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was shot by Skeleton
+[23:38:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Spider
