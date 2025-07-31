@@ -1,3 +1,5 @@
 ShrineSmallFire,-3122,-3112,-483,-473
 MeteorSite,-3163,-3148,-440,-410
 MeteorSite,-3092,-3062,-377,-362
+RLCraft_SmallUndergroundSkeleton,-3200,-3192,-366,-358
+RLCraft_SmallTown,-3238,-3167,-274,-199
