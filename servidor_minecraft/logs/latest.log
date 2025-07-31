@@ -4414,3 +4414,11 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [19:14:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Wraamon  Lvl 2
 [19:14:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Balayang  Lvl 2
 [19:15:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:24:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:24:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:29:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Chupacabra  Lvl 2
+[19:31:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 4f6ca337-238f-4d4e-8d38-167a69ff4e6b
+[19:33:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:33:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was struck by lightning
+[19:33:34] [Thread-323/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5d715e32-995d-33dc-af6d-a80ee555a961.
