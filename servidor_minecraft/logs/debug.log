@@ -22454,3 +22454,109 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 
 [18:43:50] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 780 times.
 
+[18:44:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:44:40] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 785 times.
+
+[18:44:40] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 785 times.
+
+[18:44:40] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 785 times.
+
+[18:45:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:45:30] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 790 times.
+
+[18:45:30] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 790 times.
+
+[18:45:30] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 790 times.
+
+[18:45:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:46:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [Isn't It Iron Pick]
+[18:46:20] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 795 times.
+
+[18:46:20] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 795 times.
+
+[18:46:20] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 795 times.
+
+[18:46:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:47:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Grue is 0.01
+[18:47:10] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 800 times.
+
+[18:47:10] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 800 times.
+
+[18:47:10] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 800 times.
+
+[18:47:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:47:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Balayang is 0.01
+[18:47:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Wraamon
+[18:47:33] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:47:34] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:47:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[18:47:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wraamon is 0.01
+[18:48:00] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 805 times.
+
+[18:48:00] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 805 times.
+
+[18:48:00] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 805 times.
+
+[18:48:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:48:50] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 810 times.
+
+[18:48:50] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 810 times.
+
+[18:48:50] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 810 times.
+
+[18:48:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:49:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:49:40] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 815 times.
+
+[18:49:40] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 815 times.
+
+[18:49:40] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 815 times.
+
+[18:50:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:50:30] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 820 times.
+
+[18:50:30] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 820 times.
+
+[18:50:30] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 820 times.
+
+[18:51:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:51:20] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 825 times.
+
+[18:51:20] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 825 times.
+
+[18:51:20] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 825 times.
+
+[18:51:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:52:10] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 830 times.
+
+[18:52:10] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 830 times.
+
+[18:52:10] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 830 times.
+
+[18:52:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Darkling
+[18:52:31] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:52:32] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:52:32] [Thread-237/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5d715e32-995d-33dc-af6d-a80ee555a961.
+[18:52:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[18:52:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:52:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wraamon is 0.01
+[18:52:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Darkling is 0.01
+[18:53:00] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 835 times.
+
+[18:53:00] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 835 times.
+
+[18:53:00] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 835 times.
+
+[18:53:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 7bb73416-9ba5-414d-b095-b79635f922d8
+[18:53:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:53:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:53:50] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 840 times.
+
+[18:53:50] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 840 times.
+
+[18:53:50] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 840 times.
+
+[18:53:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chupacabra is 0.001
+[18:54:03] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chupacabra is 0.001
+[18:54:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:54:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Grue is 0.01
