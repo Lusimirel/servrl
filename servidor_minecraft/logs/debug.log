@@ -22994,3 +22994,63 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [19:33:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Witch is 0.01
 [19:33:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
 [19:34:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:35:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu has made the advancement [Isn't It Iron Pick]
+[19:35:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:35:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was struck by lightning
+[19:35:34] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:35:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Witch is 0.01
+[19:35:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Erepede  Lvl 2
+[19:35:53] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:36:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Ashen Erepede
+[19:36:04] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:36:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:36:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID bb54e34f-6bc1-418c-846a-6917de4d3439
+[19:36:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Ashen Erepede
+[19:36:38] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:36:38] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:36:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Ashen Erepede is 0.001
+[19:36:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was pummeled by Ashen Erepede
+[19:36:49] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:36:50] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:36:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:36:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Spider
+[19:36:56] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:36:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:37:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was blown up by Creeper
+[19:37:09] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:37:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:37:18] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:37:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:37:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Erepede  Lvl 2 is 0.001
+[19:37:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:37:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was pummeled by Erepede
+[19:37:41] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:37:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Erepede
+[19:37:47] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:37:47] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:37:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Witch is 0.01
+[19:37:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:37:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Erepede is 0.001
+[19:38:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:39:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:39:47] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [81, 629]
+[19:39:47] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [368, -349]
+[19:39:47] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [426, -573]
+[19:39:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:40:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:41:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:42:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:42:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:42:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Erepede  Lvl 2
+[19:42:49] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:42:49] [Thread-346/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[19:42:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:42:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:43:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:43:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Gnekk is 0.001
+[19:43:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Erepede
+[19:43:47] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:43:47] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:43:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:44:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:44:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World

@@ -257,12 +257,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 19:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-07-31 19:25:47 +0000",
       "bread": "2025-07-31 16:48:36 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-31 19:39:33 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -378,6 +390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 19:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-07-31 16:50:31 +0000"
@@ -387,6 +405,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-31 17:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 19:39:32 +0000"
     },
     "done": true
   },
@@ -642,6 +666,7 @@
       "husk": "2025-07-31 17:41:15 +0000",
       "silverfish": "2025-07-31 17:36:32 +0000",
       "zombie": "2025-07-31 16:50:41 +0000",
+      "witch": "2025-07-31 19:37:54 +0000",
       "spider": "2025-07-31 19:26:39 +0000",
       "creeper": "2025-07-31 17:05:28 +0000"
     },
