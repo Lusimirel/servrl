@@ -22560,3 +22560,339 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [18:54:03] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chupacabra is 0.001
 [18:54:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
 [18:54:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Grue is 0.01
+[18:54:24] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wraamon is 0.01
+[18:54:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:54:40] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 845 times.
+
+[18:54:40] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 845 times.
+
+[18:54:40] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 845 times.
+
+[18:54:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:55:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Darkling
+[18:55:15] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:55:16] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:55:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Darkling
+[18:55:19] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:55:20] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:55:30] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 850 times.
+
+[18:55:30] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 850 times.
+
+[18:55:30] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 850 times.
+
+[18:55:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:56:20] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 855 times.
+
+[18:56:20] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 855 times.
+
+[18:56:20] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 855 times.
+
+[18:56:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:57:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:57:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Feradon
+[18:57:09] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:57:10] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:57:10] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 860 times.
+
+[18:57:10] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 860 times.
+
+[18:57:10] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 860 times.
+
+[18:57:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[18:57:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[18:57:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:58:00] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 865 times.
+
+[18:58:00] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 865 times.
+
+[18:58:00] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 865 times.
+
+[18:58:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Feradon is 0.001
+[18:58:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Feradon is 0.001
+[18:58:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:58:50] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 870 times.
+
+[18:58:50] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 870 times.
+
+[18:58:50] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 870 times.
+
+[18:58:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was killed by magic
+[18:58:56] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[18:58:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[18:59:05] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Balayang is 0.01
+[18:59:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[18:59:40] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 875 times.
+
+[18:59:40] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 875 times.
+
+[18:59:40] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 875 times.
+
+[19:00:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:00:30] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 880 times.
+
+[19:00:30] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 880 times.
+
+[19:00:30] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 880 times.
+
+[19:00:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was killed by magic
+[19:00:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:00:51] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:00:51] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:00:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[19:01:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Zombie
+[19:01:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:01:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:01:03] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:01:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:01:20] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 885 times.
+
+[19:01:20] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 885 times.
+
+[19:01:20] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 885 times.
+
+[19:01:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Gnekk is 0.001
+[19:01:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:01:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was killed by magic
+[19:01:37] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:01:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[19:02:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Keppel Balayang
+[19:02:06] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:02:07] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:02:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Keppel Balayang is 0.01
+[19:02:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was killed by magic
+[19:02:10] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:02:10] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 890 times.
+
+[19:02:10] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 890 times.
+
+[19:02:10] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 890 times.
+
+[19:02:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:03:00] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 895 times.
+
+[19:03:00] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 895 times.
+
+[19:03:00] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 895 times.
+
+[19:03:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[19:03:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:03:50] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 900 times.
+
+[19:03:50] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 900 times.
+
+[19:03:50] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 900 times.
+
+[19:03:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:03:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:04:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Balayang
+[19:04:06] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:04:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Balayang is 0.01
+[19:04:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:04:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[19:04:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:04:40] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 905 times.
+
+[19:04:40] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 905 times.
+
+[19:04:40] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 905 times.
+
+[19:05:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:05:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:05:30] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 910 times.
+
+[19:05:30] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 910 times.
+
+[19:05:30] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 910 times.
+
+[19:05:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Balayang
+[19:05:51] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:05:51] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:05:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Balayang is 0.01
+[19:05:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:06:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:06:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was killed by magic
+[19:06:11] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:06:12] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:12] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:12] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:12] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:12] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:12] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:12] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:13] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:14] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[19:06:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Balayang
+[19:06:18] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:06:19] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:06:20] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 915 times.
+
+[19:06:20] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 915 times.
+
+[19:06:20] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 915 times.
+
+[19:06:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:06:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Balayang is 0.01
+[19:06:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:07:10] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 920 times.
+
+[19:07:10] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 920 times.
+
+[19:07:10] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 920 times.
+
+[19:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Balayang
+[19:07:19] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:07:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[19:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Balayang
+[19:07:26] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:07:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Balayang
+[19:07:31] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:07:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:07:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:08:00] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 925 times.
+
+[19:08:00] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 925 times.
+
+[19:08:00] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 925 times.
+
+[19:08:03] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:08:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:08:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:08:50] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 930 times.
+
+[19:08:50] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 930 times.
+
+[19:08:50] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 930 times.
+
+[19:09:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:09:40] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 935 times.
+
+[19:09:40] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 935 times.
+
+[19:09:40] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 935 times.
+
+[19:09:44] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:09:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:09:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was killed by magic
+[19:09:56] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:09:56] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:09:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:10:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Balayang  Lvl 2
+[19:10:11] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:10:11] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:10:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Balayang  Lvl 2
+[19:10:25] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:10:26] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:10:30] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 940 times.
+
+[19:10:30] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 940 times.
+
+[19:10:30] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 940 times.
+
+[19:10:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:11:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:11:20] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 945 times.
+
+[19:11:20] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 945 times.
+
+[19:11:20] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 945 times.
+
+[19:11:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:12:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Zombie
+[19:12:03] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:12:03] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:12:04] [Thread-284/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[19:12:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:12:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:12:10] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 950 times.
+
+[19:12:10] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 950 times.
+
+[19:12:10] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 950 times.
+
+[19:12:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:13:00] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 955 times.
+
+[19:13:00] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 955 times.
+
+[19:13:00] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 955 times.
+
+[19:13:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Balayang  Lvl 2 is 0.01
+[19:13:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was killed by magic
+[19:13:15] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:13:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:13:28] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Balayang  Lvl 2 is 0.01
+[19:13:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Keppel Balayang  Lvl 2
+[19:13:34] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:13:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:13:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:13:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Wraamon  Lvl 2
+[19:13:43] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:13:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:13:50] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 960 times.
+
+[19:13:50] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 960 times.
+
+[19:13:50] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 960 times.
+
+[19:14:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Balayang  Lvl 2
+[19:14:03] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:14:04] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:14:10] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Balayang  Lvl 2 is 0.01
+[19:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:14:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:14:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Gnekk  Lvl 2 is 0.001
