@@ -4263,3 +4263,10 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [16:49:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [16:49:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu has made the advancement [Monster Hunter]
 [16:50:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [Monster Hunter]
+[16:59:19] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[16:59:19] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[16:59:19] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[16:59:19] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[16:59:19] [Server thread/INFO] [Meson ASM]: Patch result: true
+[16:59:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Scarlet Sutiramu
+[16:59:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]

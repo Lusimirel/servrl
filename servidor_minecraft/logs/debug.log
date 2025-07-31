@@ -18036,3 +18036,113 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 
 [16:51:58] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 110 times.
 
+[16:52:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[16:52:48] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 115 times.
+
+[16:52:48] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 115 times.
+
+[16:52:48] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 115 times.
+
+[16:53:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[16:53:38] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 120 times.
+
+[16:53:38] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 120 times.
+
+[16:53:38] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 120 times.
+
+[16:53:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Rabbit is 0.001
+[16:53:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[16:54:28] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 125 times.
+
+[16:54:28] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 125 times.
+
+[16:54:28] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 125 times.
+
+[16:54:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[16:55:18] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 130 times.
+
+[16:55:18] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 130 times.
+
+[16:55:18] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 130 times.
+
+[16:55:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[16:56:08] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 135 times.
+
+[16:56:08] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 135 times.
+
+[16:56:08] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 135 times.
+
+[16:56:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[16:56:11] [Server thread/DEBUG] [RLTweaker]: Removed LootingEnchantBonus for deathworm egg: iceandfire:deathworm_tan
+[16:56:11] [Server thread/DEBUG] [RLTweaker]: Removed LootingEnchantBonus for deathworm egg: iceandfire:deathworm_tan
+[16:56:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[16:56:58] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 140 times.
+
+[16:56:58] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 140 times.
+
+[16:56:58] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 140 times.
+
+[16:57:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Jouste is 0.001
+[16:57:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[16:57:48] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 145 times.
+
+[16:57:48] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 145 times.
+
+[16:57:48] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 145 times.
+
+[16:58:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[16:58:38] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 150 times.
+
+[16:58:38] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 150 times.
+
+[16:58:38] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 150 times.
+
+[16:58:41] [Server thread/DEBUG] [mixin]: Mixing carryon.PickupHandlerEntityMixin from mixins.rlmixins.carryonpig.json into tschipp.carryon.common.handler.PickupHandler
+[16:58:41] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/entity/passive/EntityPig to metadata cache
+[16:58:41] [Server thread/DEBUG] [mixin]: Mixing carryon.PickupHandlerChestMixin from mixins.rlmixins.carryonunlooted.json into tschipp.carryon.common.handler.PickupHandler
+[16:59:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[16:59:19] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[16:59:19] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[16:59:19] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[16:59:19] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[16:59:19] [Server thread/INFO] [Meson ASM]: Patch result: true
+[16:59:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Scarlet Sutiramu
+[16:59:26] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[16:59:26] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[16:59:28] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 155 times.
+
+[16:59:28] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 155 times.
+
+[16:59:28] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 155 times.
+
+[16:59:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[16:59:50] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[16:59:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:00:18] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 160 times.
+
+[17:00:18] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 160 times.
+
+[17:00:18] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 160 times.
+
+[17:00:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:01:08] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 165 times.
+
+[17:01:08] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 165 times.
+
+[17:01:08] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 165 times.
+
+[17:01:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:01:58] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 170 times.
+
+[17:01:58] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 170 times.
+
+[17:01:58] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 170 times.
+
+[17:02:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[17:02:48] [Server thread/DEBUG] [FML]: The world 17b6499b (World) may have leaked: seen 175 times.
+
+[17:02:48] [Server thread/DEBUG] [FML]: The world 229d2169 (World) may have leaked: seen 175 times.
+
+[17:02:48] [Server thread/DEBUG] [FML]: The world 25a92c21 (World) may have leaked: seen 175 times.
+
+[17:02:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
