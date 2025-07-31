@@ -4438,3 +4438,14 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [19:42:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [19:43:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Erepede
 [19:43:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:46:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved wrongly!
+[19:47:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was struck by lightning
+[19:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Grue  Lvl 2
+[19:50:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Erepede  Lvl 2
+[19:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Enderman
+[19:53:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Enderman
+[19:54:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Enderman
+[20:03:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu lost connection: Disconnected
+[20:03:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu left the game
+[20:03:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 lost connection: Disconnected
+[20:03:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 left the game

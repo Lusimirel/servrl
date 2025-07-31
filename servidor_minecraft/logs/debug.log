@@ -23054,3 +23054,90 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.entity.item.EntityItem.fun
 [19:43:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [19:44:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
 [19:44:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:45:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:45:10] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:45:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:46:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved wrongly!
+[19:46:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:47:16] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Witch is 0.01
+[19:47:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:47:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was struck by lightning
+[19:47:57] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:48:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:48:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Witch is 0.01
+[19:48:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Darkling  Lvl 2 is 0.01
+[19:48:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Erepede is 0.001
+[19:48:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Grue  Lvl 2
+[19:49:17] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:49:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Grue  Lvl 2 is 0.01
+[19:49:28] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Erepede is 0.001
+[19:49:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:50:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:50:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:50:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Erepede  Lvl 2
+[19:50:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Erepede  Lvl 2 is 0.001
+[19:50:34] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:51:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:51:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:51:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[19:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Enderman
+[19:51:45] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:51:46] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:51:50] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[19:51:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:52:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:52:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:53:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:53:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:53:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:53:43] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:53:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:53:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Enderman
+[19:54:01] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:54:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Enderman
+[19:54:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:54:05] [Netty Epoll Server IO #2/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:54:12] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[19:54:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[19:54:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:55:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:55:36] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[19:55:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[19:55:43] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[19:55:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:56:05] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[19:56:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:56:16] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[19:56:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[19:56:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:56:24] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chupacabra is 0.001
+[19:56:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Darkling  Lvl 2 is 0.01
+[19:57:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Darkling  Lvl 2 is 0.01
+[19:57:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:57:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:57:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Darkling  Lvl 2 is 0.01
+[19:57:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wraamon  Lvl 2 is 0.01
+[19:57:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:57:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:57:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:57:50] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:57:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:58:33] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[19:58:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:58:36] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[19:59:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:59:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[20:00:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[20:00:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[20:01:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[20:02:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[20:03:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[20:03:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu lost connection: Disconnected
+[20:03:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu left the game
+[20:03:27] [Server thread/TRACE] [RLTweaker]: Removing NetworkHandler UUID
+[20:03:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 lost connection: Disconnected
+[20:03:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 left the game
+[20:03:29] [Server thread/TRACE] [RLTweaker]: Removing NetworkHandler UUID
+[20:03:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[20:04:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
