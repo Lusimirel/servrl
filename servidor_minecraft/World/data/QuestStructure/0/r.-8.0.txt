@@ -19,3 +19,15 @@ StoneMazeSmall,-4265,-4242,-522,-499
 StonePlantMound2,-4324,-4312,-477,-464
 RLCraft_DecentSpider,-4319,-4319,-397,-397
 RLCraft_UndergroundRuin2,-4324,-4314,-399,-392
+RLCraft_DecentCaveSpider,-4418,-4418,-485,-485
+RLCraft_UndergroundRuin3,-4421,-4413,-491,-483
+StoneLeafMound,-4419,-4412,-381,-372
+WoodThorn,-4390,-4379,-354,-343
+StonePlantMound2,-4275,-4263,-319,-306
+MysticalTree,-4292,-4276,-292,-277
+StonePlantMound2,-4337,-4325,-262,-249
+MysticalTree1,-4497,-4484,-241,-230
+StonePlantMound4,-4295,-4288,-232,-225
+RLCraft_DecentWitch,-4228,-4228,-222,-222
+RLCraft_UndergroundRuin2,-4233,-4223,-224,-217
+ElvenPond,-4415,-4386,-231,-201
