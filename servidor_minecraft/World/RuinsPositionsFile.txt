@@ -10,6 +10,7 @@
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
 -4053 70 16 -4043 78 25 GuardHouse.tml
+-3993 73 -457 -3985 83 -449 LargeStoneHouseWBasement.tml
 -3978 66 -32 -3971 73 -25 Outcrop.tml
 -3953 66 49 -3941 73 60 SandstoneHouse1_Intact.tml
 -3942 49 -287 -3906 68 -276 SunkenShip-v2.tml

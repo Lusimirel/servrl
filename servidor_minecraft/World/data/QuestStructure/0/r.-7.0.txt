@@ -96,3 +96,8 @@ DesertWatchtower,-3996,-3986,-38,-28
 ShrineSmallFire,-3983,-3973,37,47
 StonePlantMound,-4035,-4030,21,26
 RLCraft_4Towers,-3860,-3808,-400,-340
+RLCraft_DecentZombie,-3846,-3846,-451,-451
+RLCraft_UndergroundRuin2,-3851,-3844,-456,-446
+UndergroundTreeoid,-3764,-3738,-510,-487
+RLCraft_DecentSpider,-4015,-4015,-495,-495
+RLCraft_UndergroundRuin2,-4020,-4010,-497,-490
