@@ -8,3 +8,17 @@ ClayWaterMound,-3236,-3228,-140,-133
 StoneBoulder,-3282,-3273,-132,-123
 StonePlantMound1,-3395,-3389,-142,-136
 StonePlantBoulder,-3225,-3215,-57,-47
+StonePlantBoulder,-3418,-3408,-149,-139
+StonePlantMound1,-3445,-3439,-100,-94
+StonePlantMound4,-3458,-3451,-99,-92
+StonePlantMound4,-3294,-3287,-19,-12
+StonePlantMound3,-3285,-3276,-2,9
+RLCraft_DecentSkeleton,-3444,-3444,16,16
+RLCraft_UndergroundRuin3,-3446,-3438,13,21
+StonePlantMound2,-3265,-3252,10,22
+StonePlantBoulder,-3487,-3477,-135,-125
+StonePlantBoulder,-3215,-3205,19,29
+UndergroundCrypt,-3380,-3352,42,56
+RLCraft_DecentSpider,-3498,-3498,-216,-216
+RLCraft_UndergroundRuin3,-3504,-3496,-221,-213
+RLCraft_SmallUndergroundSkeleton,-3571,-3563,15,23

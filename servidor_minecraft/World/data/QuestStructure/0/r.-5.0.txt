@@ -7,3 +7,4 @@ SmallWoodenCottage,-2811,-2803,-398,-387
 P_WitchDungeon,-2881,-2847,-381,-364
 RLCraft_PlainsCamp,-2791,-2752,-432,-386
 ClayWaterMound,-2715,-2707,-350,-343
+DesertHut,-2970,-2960,-33,-24

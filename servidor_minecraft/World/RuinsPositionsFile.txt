@@ -9,14 +9,24 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-3589 48 -124 -3578 67 -88 SunkenShip-v2.tml
+-3573 62 98 -3570 68 102 StonePillar.tml
 -3539 63 -607 -3505 73 -572 UnderwaterBase.tml
+-3515 63 -21 -3504 74 -12 ArrowTrapTomb.tml
+-3501 65 -151 -3497 67 -147 EmeraldOreOutcrop.tml
 -3486 35 -831 -3460 47 -823 shipwreck.tml
+-3482 68 66 -3474 74 76 VanillaVillageForge-p.tml
 -3476 63 -823 -3445 103 -793 CastleOcean.tml
+-3463 32 -254 -3437 44 -246 shipwreck.tml
 -3436 63 -801 -3406 103 -770 CastleOcean.tml
 -3436 65 -566 -3426 82 -556 WatchtowerRuined.tml
+-3421 67 -68 -3418 71 -65 StoneGrill.tml
+-3419 68 -163 -3411 76 -152 MinersHut.tml
 -3417 82 -356 -3414 86 -353 StoneGrill.tml
 -3414 31 -788 -3406 43 -762 shipwreck.tml
 -3404 70 -461 -3399 81 -452 VanillaVillageChurch-r.tml
+-3403 66 103 -3396 69 108 PumpkinField.tml
+-3403 63 17 -3391 87 29 Tower-ruined-short.tml
 -3383 63 -919 -3353 106 -889 SkyCastle.tml
 -3351 71 -636 -3344 75 -629 TinyFarmField.tml
 -3342 66 -198 -3334 76 -190 TallTower.tml
@@ -24,12 +34,15 @@
 -3334 68 -274 -3330 73 -268 VanillaVillageHut-p.tml
 -3314 65 -418 -3304 75 -406 Piston-LavaTrap.tml
 -3313 45 -818 -3277 56 -807 SunkenShip-v3.tml
+-3305 69 -26 -3299 74 -22 VanillaVillageHut-r.tml
 -3291 63 -817 -3261 100 -787 PirateShip.tml
 -3261 90 -325 -3258 96 -321 StonePillar.tml
+-3254 72 44 -3247 79 51 Outcrop.tml
 -3230 69 -118 -3221 72 -109 RuinedSmallFountainDiagonal.tml
 -3229 95 -190 -3222 99 -183 TinyFarmField.tml
 -3201 65 -647 -3193 111 -639 SandCastle.tml
 -3198 73 -550 -3193 142 -545 DiamondWell.tml
+-3197 66 -37 -3189 76 -29 LargeStoneHouseWBasement.tml
 -3193 62 -380 -3185 71 -372 LargeStoneTwoStoryHouse.tml
 -3169 63 -946 -3137 76 -914 Floater.tml
 -3168 69 -477 -3154 78 -469 SandstoneBld4_Ruined.tml
@@ -48,6 +61,7 @@
 -3041 67 -508 -3036 72 -501 SandstoneRuin.tml
 -3027 8 -252 -3024 150 -249 Beacon.tml
 -3005 61 -168 -2998 71 -161 BridgePilings-sm2.tml
+-2998 69 -25 -2993 72 -18 Melonfield.tml
 -2984 84 -95 -2980 86 -91 EmeraldOreOutcrop.tml
 -2975 63 -352 -2967 73 -344 TallTower.tml
 -2972 32 -899 -2946 44 -891 shipwreck.tml
