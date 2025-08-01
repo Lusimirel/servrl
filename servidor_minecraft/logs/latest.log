@@ -3755,3 +3755,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [17:30:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [17:31:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Survival Mode]
 [17:42:52] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Lumi_uwu)
+[17:48:10] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair
+[17:48:10] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [updateRepairOutput, func_82848_d, e] Descriptor ()V / ()V)
+[17:48:10] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[17:48:10] [Server thread/INFO] [Meson ASM]: Located target ICONST_0
+[17:48:10] [Server thread/INFO] [Meson ASM]: Patch result: true
+[17:48:10] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair2
+[17:48:10] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [canTakeStack, func_82869_a, a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Z / (Laed;)Z)
+[17:48:10] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[17:48:10] [Server thread/INFO] [Meson ASM]: Located target IFLE L0
+[17:48:10] [Server thread/INFO] [Meson ASM]: Patch result: true
+[17:54:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[17:54:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu fell from a high place
+[17:54:38] [Thread-171/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[17:55:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[17:57:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [Cover Me With Diamonds]
