@@ -1,19 +1,7 @@
 {
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2025-07-31 17:49:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-07-31 18:13:04 +0000"
-    },
-    "done": true
-  },
-  "wolfarmor:recipes/combat/gold_wolf_armor": {
-    "criteria": {
-      "has_the_ingredients": "2025-07-31 17:07:05 +0000"
     },
     "done": true
   },
@@ -26,12 +14,6 @@
   "mujmajnkraftsbettersurvival:wood_nunchaku": {
     "criteria": {
       "has_stick": "2025-07-31 17:49:49 +0000"
-    },
-    "done": true
-  },
-  "defiledlands:recipes/armor/umbrium_boots": {
-    "criteria": {
-      "has_material": "2025-07-31 17:45:20 +0000"
     },
     "done": true
   },
@@ -53,9 +35,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_chestplate": {
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
-      "has_gold_ingot": "2025-07-31 17:07:05 +0000"
+      "has_planks": "2025-08-01 00:38:57 +0000"
     },
     "done": true
   },
@@ -71,27 +53,9 @@
     },
     "done": true
   },
-  "defiledlands:recipes/armor/umbrium_leggings": {
-    "criteria": {
-      "has_material": "2025-07-31 17:45:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2025-07-31 17:57:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 18:18:17 +0000"
-    },
-    "done": true
-  },
-  "defiledlands:main/umbrium": {
-    "criteria": {
-      "umbrium": "2025-07-31 17:45:20 +0000"
     },
     "done": true
   },
@@ -125,21 +89,9 @@
     },
     "done": true
   },
-  "mujmajnkraftsbettersurvival:diamond_battleaxe": {
-    "criteria": {
-      "has_diamond": "2025-07-31 17:57:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-07-31 17:49:49 +0000"
-    },
-    "done": true
-  },
-  "defiledlands:recipes/tools/umbrium_shovel": {
-    "criteria": {
-      "has_material": "2025-07-31 17:45:20 +0000"
     },
     "done": true
   },
@@ -167,21 +119,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_at_least_9_iron_ingot": "2025-07-31 18:31:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-07-31 17:49:49 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:iron_spear": {
-    "criteria": {
-      "has_iron": "2025-07-31 18:18:17 +0000"
     },
     "done": true
   },
@@ -197,45 +137,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-31 19:16:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 18:18:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-07-31 17:41:14 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:stone_nunchaku": {
-    "criteria": {
-      "has_stone": "2025-07-31 18:13:04 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:gold_spear": {
-    "criteria": {
-      "has_gold": "2025-07-31 17:07:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_at_least_9_coal": "2025-07-31 18:30:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-07-31 19:16:39 +0000"
     },
     "done": true
   },
@@ -251,12 +155,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-31 17:07:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-07-31 17:57:45 +0000"
@@ -269,39 +167,9 @@
     },
     "done": true
   },
-  "defiledlands:recipes/tools/umbrium_hoe": {
-    "criteria": {
-      "has_material": "2025-07-31 17:45:20 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:iron_hammer": {
-    "criteria": {
-      "has_iron": "2025-07-31 18:18:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-31 19:38:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-07-31 17:49:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-07-31 18:13:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/wooden_button": {
-    "criteria": {
-      "has_planks": "2025-07-31 19:16:39 +0000"
     },
     "done": true
   },
@@ -311,57 +179,15 @@
     },
     "done": true
   },
-  "familiarfauna:recipes/tools/bug_net": {
-    "criteria": {
-      "has_string": "2025-07-31 18:30:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-07-31 23:24:54 +0000"
     },
     "done": true
   },
-  "mujmajnkraftsbettersurvival:gold_hammer": {
-    "criteria": {
-      "has_gold": "2025-07-31 17:07:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-07-31 17:34:38 +0000"
-    },
-    "done": true
-  },
-  "defiledlands:recipes/storage/umbrium_nugget": {
-    "criteria": {
-      "has_material": "2025-07-31 17:45:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-07-31 17:34:38 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:stone_battleaxe": {
-    "criteria": {
-      "has_stone": "2025-07-31 18:13:04 +0000"
-    },
-    "done": true
-  },
   "mujmajnkraftsbettersurvival:stone_hammer": {
     "criteria": {
       "has_stone": "2025-07-31 18:13:04 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:wood_hammer": {
-    "criteria": {
-      "has_stick": "2025-07-31 17:49:49 +0000"
     },
     "done": true
   },
@@ -377,27 +203,16 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-31 17:07:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-07-31 19:37:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 18:18:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chorus_fruit": "2025-08-01 00:33:32 +0000",
+      "bread": "2025-08-01 00:48:07 +0000",
       "cooked_chicken": "2025-07-31 19:25:13 +0000"
     },
     "done": false
@@ -420,21 +235,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-31 17:07:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-31 18:13:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-07-31 19:01:35 +0000"
     },
     "done": true
   },
@@ -444,21 +247,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-07-31 18:30:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_iron_block": "2025-07-31 17:16:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 18:18:17 +0000"
     },
     "done": true
   },
@@ -468,57 +259,15 @@
     },
     "done": true
   },
-  "reskillable:main/attack_5": {
-    "criteria": {
-      "level_up": "2025-07-31 16:43:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone": {
-    "criteria": {
-      "has_bone": "2025-07-31 16:50:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-07-31 17:34:38 +0000"
-    },
-    "done": true
-  },
   "defiledlands:recipes/tools/ravaging_shovel": {
     "criteria": {
       "has_material": "2025-07-31 19:38:08 +0000"
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
-      "iron_pickaxe": "2025-07-31 19:35:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
-    "criteria": {
-      "has_planks": "2025-07-31 19:16:39 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:wood_spear": {
-    "criteria": {
-      "has_stick": "2025-07-31 17:49:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 18:18:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-07-31 18:30:03 +0000"
+      "has_planks": "2025-08-01 00:38:57 +0000"
     },
     "done": true
   },
@@ -537,24 +286,6 @@
   "mujmajnkraftsbettersurvival:wood_battleaxe": {
     "criteria": {
       "has_stick": "2025-07-31 17:49:49 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:diamond_hammer": {
-    "criteria": {
-      "has_diamond": "2025-07-31 17:57:45 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:gold_battleaxe": {
-    "criteria": {
-      "has_gold": "2025-07-31 17:07:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_the_recipe": "2025-07-31 18:30:46 +0000"
     },
     "done": true
   },
@@ -588,18 +319,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/noteblock": {
-    "criteria": {
-      "has_redstone": "2025-07-31 18:30:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-07-31 17:34:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-07-31 18:30:03 +0000"
@@ -612,27 +331,9 @@
     },
     "done": true
   },
-  "defiledlands:recipes/decoration/ravaging_bricks": {
-    "criteria": {
-      "has_material": "2025-07-31 19:38:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/string_to_wool": {
-    "criteria": {
-      "has_string": "2025-07-31 18:30:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-31 19:38:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-07-31 17:46:22 +0000"
     },
     "done": true
   },
@@ -654,18 +355,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-07-31 18:30:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "skeleton": "2025-07-31 16:49:49 +0000"
-    },
-    "done": true
-  },
   "defiledlands:recipes/decoration/ravaging_stone": {
     "criteria": {
       "has_material": "2025-07-31 19:38:08 +0000"
@@ -675,12 +364,6 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 18:18:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-31 17:07:05 +0000"
     },
     "done": true
   },
@@ -702,12 +385,6 @@
     },
     "done": true
   },
-  "defiledlands:recipes/tools/ravaging_pickaxe": {
-    "criteria": {
-      "has_material": "2025-07-31 19:38:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-07-31 17:57:45 +0000"
@@ -720,33 +397,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-07-31 19:01:35 +0000"
-    },
-    "done": true
-  },
-  "defiledlands:recipes/tools/umbra_blaster": {
-    "criteria": {
-      "has_material": "2025-07-31 17:45:20 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:diamond_spear": {
-    "criteria": {
-      "has_diamond": "2025-07-31 17:57:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-31 18:13:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-07-31 18:03:01 +0000"
     },
     "done": true
   },
@@ -767,19 +420,6 @@
       "has_iron_ingot": "2025-07-31 18:18:17 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "deep_ocean": "2025-07-31 16:41:05 +0000",
-      "beaches": "2025-07-31 16:45:26 +0000",
-      "desert_hills": "2025-07-31 16:54:56 +0000",
-      "savanna": "2025-07-31 17:42:51 +0000",
-      "savanna_rock": "2025-07-31 17:49:37 +0000",
-      "ocean": "2025-07-31 16:54:38 +0000",
-      "river": "2025-07-31 16:42:41 +0000",
-      "desert": "2025-07-31 16:41:27 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
@@ -835,15 +475,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
+  "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
-      "has_cobblestone": "2025-07-31 18:13:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-07-31 18:13:04 +0000"
+      "has_planks": "2025-08-01 00:38:57 +0000"
     },
     "done": true
   },
@@ -859,27 +493,9 @@
     },
     "done": true
   },
-  "defiledlands:recipes/tools/umbrium_sword": {
-    "criteria": {
-      "has_material": "2025-07-31 17:45:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 18:18:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-07-31 19:37:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2025-07-31 18:13:04 +0000"
     },
     "done": true
   },
@@ -889,45 +505,9 @@
     },
     "done": true
   },
-  "defiledlands:recipes/storage/umbrium_nugget_combine": {
-    "criteria": {
-      "has_material": "2025-07-31 17:45:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-07-31 16:41:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2025-07-31 16:41:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-07-31 17:46:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "entered_water": "2025-07-31 16:41:05 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:gold_nunchaku": {
-    "criteria": {
-      "has_gold": "2025-07-31 17:07:05 +0000"
-    },
-    "done": true
-  },
-  "reskillable:main/root": {
-    "criteria": {
-      "level_up": "2025-07-31 16:43:34 +0000"
     },
     "done": true
   },
@@ -943,12 +523,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-31 18:18:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-07-31 18:13:04 +0000"
@@ -958,24 +532,6 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-07-31 18:30:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "entered_water": "2025-07-31 16:41:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-07-31 18:03:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-07-31 18:42:52 +0000"
     },
     "done": true
   },
@@ -1015,27 +571,9 @@
     },
     "done": true
   },
-  "defiledlands:recipes/tools/umbrium_axe": {
-    "criteria": {
-      "has_material": "2025-07-31 17:45:20 +0000"
-    },
-    "done": true
-  },
-  "wolfarmor:recipes/combat/iron_wolf_armor": {
-    "criteria": {
-      "has_the_ingredients": "2025-07-31 18:29:02 +0000"
-    },
-    "done": true
-  },
   "defiledlands:recipes/misc/idol_sorrow": {
     "criteria": {
       "has_material": "2025-07-31 19:38:08 +0000"
-    },
-    "done": true
-  },
-  "astikorcarts:recipes/wheel": {
-    "criteria": {
-      "has_planks": "2025-07-31 19:16:39 +0000"
     },
     "done": true
   },
@@ -1045,45 +583,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-31 17:07:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-07-31 18:30:03 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:iron_battleaxe": {
-    "criteria": {
-      "has_iron": "2025-07-31 18:18:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-31 19:16:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-07-31 18:13:04 +0000"
-    },
-    "done": true
-  },
-  "defiledlands:recipes/material/ravaging_ingot": {
-    "criteria": {
-      "has_material": "2025-07-31 19:38:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-07-31 17:57:45 +0000"
     },
     "done": true
   },
@@ -1105,18 +607,6 @@
     },
     "done": true
   },
-  "defiledlands:recipes/baubles/phytoprostasia_amulet": {
-    "criteria": {
-      "has_material": "2025-07-31 17:45:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-07-31 18:18:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-07-31 17:16:02 +0000"
@@ -1126,12 +616,6 @@
   "defiledlands:recipes/armor/umbrium_chestplate": {
     "criteria": {
       "has_material": "2025-07-31 17:45:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2025-07-31 18:13:04 +0000"
     },
     "done": true
   },
@@ -1162,6 +646,547 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-07-31 17:49:49 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/gold_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/umbrium_boots": {
+    "criteria": {
+      "has_material": "2025-07-31 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/umbrium_leggings": {
+    "criteria": {
+      "has_material": "2025-07-31 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-31 17:57:45 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/umbrium": {
+    "criteria": {
+      "umbrium": "2025-07-31 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:diamond_battleaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-31 17:57:45 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/umbrium_shovel": {
+    "criteria": {
+      "has_material": "2025-07-31 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-07-31 18:31:08 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:iron_spear": {
+    "criteria": {
+      "has_iron": "2025-07-31 18:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-31 19:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-31 17:41:14 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:stone_nunchaku": {
+    "criteria": {
+      "has_stone": "2025-07-31 18:13:04 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:gold_spear": {
+    "criteria": {
+      "has_gold": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-07-31 18:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-31 19:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/umbrium_hoe": {
+    "criteria": {
+      "has_material": "2025-07-31 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:iron_hammer": {
+    "criteria": {
+      "has_iron": "2025-07-31 18:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-31 17:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-07-31 18:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2025-07-31 19:16:39 +0000"
+    },
+    "done": true
+  },
+  "familiarfauna:recipes/tools/bug_net": {
+    "criteria": {
+      "has_string": "2025-07-31 18:30:03 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:gold_hammer": {
+    "criteria": {
+      "has_gold": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-31 17:34:38 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/umbrium_nugget": {
+    "criteria": {
+      "has_material": "2025-07-31 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-31 17:34:38 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:stone_battleaxe": {
+    "criteria": {
+      "has_stone": "2025-07-31 18:13:04 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:wood_hammer": {
+    "criteria": {
+      "has_stick": "2025-07-31 17:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2025-08-01 00:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 18:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-31 19:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-31 18:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 18:18:17 +0000"
+    },
+    "done": true
+  },
+  "reskillable:main/attack_5": {
+    "criteria": {
+      "level_up": "2025-07-31 16:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-07-31 16:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-31 17:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-31 19:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-07-31 19:16:39 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:wood_spear": {
+    "criteria": {
+      "has_stick": "2025-07-31 17:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 18:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-31 18:30:03 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:diamond_hammer": {
+    "criteria": {
+      "has_diamond": "2025-07-31 17:57:45 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:gold_battleaxe": {
+    "criteria": {
+      "has_gold": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-07-31 18:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2025-07-31 18:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-31 17:34:38 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/ravaging_bricks": {
+    "criteria": {
+      "has_material": "2025-07-31 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-07-31 18:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-31 17:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-31 18:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "skeleton": "2025-07-31 16:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/ravaging_pickaxe": {
+    "criteria": {
+      "has_material": "2025-07-31 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-31 19:01:35 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/umbra_blaster": {
+    "criteria": {
+      "has_material": "2025-07-31 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-07-31 17:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-31 18:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "deep_ocean": "2025-07-31 16:41:05 +0000",
+      "beaches": "2025-07-31 16:45:26 +0000",
+      "desert_hills": "2025-07-31 16:54:56 +0000",
+      "savanna": "2025-07-31 17:42:51 +0000",
+      "savanna_rock": "2025-07-31 17:49:37 +0000",
+      "ocean": "2025-07-31 16:54:38 +0000",
+      "river": "2025-07-31 16:42:41 +0000",
+      "desert": "2025-07-31 16:41:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-07-31 18:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-07-31 18:13:04 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/umbrium_sword": {
+    "criteria": {
+      "has_material": "2025-07-31 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-31 19:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-31 18:13:04 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/umbrium_nugget_combine": {
+    "criteria": {
+      "has_material": "2025-07-31 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2025-07-31 16:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-31 17:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2025-07-31 16:41:05 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:gold_nunchaku": {
+    "criteria": {
+      "has_gold": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "reskillable:main/root": {
+    "criteria": {
+      "level_up": "2025-07-31 16:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-31 18:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2025-07-31 16:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-31 18:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-31 18:42:52 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/umbrium_axe": {
+    "criteria": {
+      "has_material": "2025-07-31 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/iron_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2025-07-31 18:29:02 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/wheel": {
+    "criteria": {
+      "has_planks": "2025-07-31 19:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-31 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-31 18:30:03 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:iron_battleaxe": {
+    "criteria": {
+      "has_iron": "2025-07-31 18:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-07-31 18:13:04 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/ravaging_ingot": {
+    "criteria": {
+      "has_material": "2025-07-31 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-31 17:57:45 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/baubles/phytoprostasia_amulet": {
+    "criteria": {
+      "has_material": "2025-07-31 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-31 18:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-31 18:13:04 +0000"
     },
     "done": true
   }
