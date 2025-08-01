@@ -1,2 +1,16 @@
 StoneMazeStudy,-4616,-4602,-90,-82
 StoneMazeEndChest,-4610,-4608,-90,-88
+ClayWaterMound,-4729,-4722,-238,-230
+StonePlantMound2,-4795,-4782,-305,-293
+DinosaurSkull,-4616,-4605,-150,-131
+RLCraft_SmallUndergroundSkeleton,-4824,-4816,-242,-234
+StoneLeafMound,-4836,-4827,-227,-220
+MysticalTree2,-4843,-4833,-172,-162
+StonePlantMound,-4886,-4881,-365,-360
+StonePlantMound2,-4894,-4882,-184,-171
+StonePlantMound1,-4895,-4889,-116,-110
+ShrineSmallAir,-4914,-4906,-192,-184
+StoneBoulder,-4934,-4925,-293,-284
+StonePlantMound1,-4944,-4938,-146,-140
+StoneBoulder,-4962,-4953,-120,-111
+ShrineSmallFire,-4963,-4953,-108,-98

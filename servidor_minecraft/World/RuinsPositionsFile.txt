@@ -9,7 +9,18 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-4943 78 -177 -4935 87 -169 LargeStoneTwoStoryHouse.tml
+-4923 69 -390 -4914 72 -381 RuinedSmallFountainDiagonal.tml
+-4880 61 -267 -4875 69 -262 PillarBase.tml
+-4856 87 -149 -4852 93 -146 StonePillar.tml
+-4836 53 -405 -4800 72 -394 SunkenShip-v2.tml
+-4806 74 -286 -4798 84 -278 LargeStoneHouseWBasement.tml
+-4799 123 -43 -4786 155 -30 OreSpire.tml
+-4783 59 -209 -4772 69 -198 BridgePilings-lg2.tml
+-4744 123 -126 -4737 130 -119 Outcrop.tml
+-4734 63 -511 -4722 104 -499 BaloonLow.tml
 -4662 63 -698 -4627 73 -664 UnderwaterBase.tml
+-4650 54 -84 -4643 63 -77 BridgePilings-small.tml
 -4601 63 -815 -4571 103 -784 CastleOcean.tml
 -4594 62 -381 -4585 70 -366 Archway.tml
 -4574 54 -178 -4567 64 -171 BridgePilings-sm2.tml
