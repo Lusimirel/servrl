@@ -3710,3 +3710,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:40:11] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
 [22:45:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [Take Aim, Chaps!]
 [22:51:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Octlopez04> -5651 -435
+[22:57:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Creative Mode]
+[22:58:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Survival Mode]
+[22:58:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 lost connection: Disconnected
+[22:58:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 left the game
+[22:58:38] [Server thread/INFO] [AUW]: Stopping DS...
+[22:58:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:58:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:58:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:58:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[22:58:38] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[22:58:38] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:58:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:58:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:58:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
