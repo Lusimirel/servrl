@@ -3711,3 +3711,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:56:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [03:59:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -8.801489678508915,4.874559970987917,0.0596653489829464
 [04:00:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Survival Mode]
+[04:09:28] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[04:09:28] [Server thread/INFO] [RB-Transformer]:  - <init>
+[04:09:28] [Server thread/INFO] [RB-Transformer]:  - Done
+[04:09:28] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[04:09:28] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[04:09:28] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[04:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [Backpack Full of Ammo!]
