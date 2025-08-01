@@ -31,3 +31,5 @@ StonePlantMound4,-4295,-4288,-232,-225
 RLCraft_DecentWitch,-4228,-4228,-222,-222
 RLCraft_UndergroundRuin2,-4233,-4223,-224,-217
 ElvenPond,-4415,-4386,-231,-201
+StoneLeafMound,-4416,-4409,-187,-178
+DinosaurSkeleton,-4343,-4297,-159,-150
