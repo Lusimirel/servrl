@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-01 16:50:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-07-31 18:13:04 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-07-31 17:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-01 16:50:56 +0000"
     },
     "done": true
   },
@@ -241,6 +253,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-01 16:55:23 +0000",
       "chorus_fruit": "2025-08-01 00:33:32 +0000",
       "cooked_beef": "2025-08-01 05:37:51 +0000",
       "bread": "2025-08-01 00:48:07 +0000",
