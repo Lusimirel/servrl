@@ -1,0 +1,2 @@
+StoneMazeStudy,-4616,-4602,-90,-82
+StoneMazeEndChest,-4610,-4608,-90,-88

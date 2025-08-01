@@ -11,6 +11,7 @@
 #
 -4594 62 -381 -4585 70 -366 Archway.tml
 -4574 54 -178 -4567 64 -171 BridgePilings-sm2.tml
+-4556 68 -61 -4551 76 -56 PillarBase.tml
 -4535 49 -706 -4499 60 -695 SunkenShip-v3.tml
 -4534 62 -490 -4522 84 -478 BaloonVeryLow.tml
 -4529 48 -691 -4518 59 -655 SunkenShip-v3.tml
@@ -50,6 +51,7 @@
 -4011 70 -561 -4004 74 -554 TinyFarmField.tml
 -3993 73 -457 -3985 83 -449 LargeStoneHouseWBasement.tml
 -3978 66 -32 -3971 73 -25 Outcrop.tml
+-3971 96 138 -3967 98 142 EmeraldOreOutcrop.tml
 -3953 66 49 -3941 73 60 SandstoneHouse1_Intact.tml
 -3942 49 -287 -3906 68 -276 SunkenShip-v2.tml
 -3916 47 -198 -3908 59 -172 shipwreck.tml
