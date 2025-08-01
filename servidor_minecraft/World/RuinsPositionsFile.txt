@@ -9,9 +9,30 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-4053 70 16 -4043 78 25 GuardHouse.tml
+-3978 66 -32 -3971 73 -25 Outcrop.tml
+-3953 66 49 -3941 73 60 SandstoneHouse1_Intact.tml
+-3942 49 -287 -3906 68 -276 SunkenShip-v2.tml
+-3916 47 -198 -3908 59 -172 shipwreck.tml
+-3913 62 -101 -3911 66 -98 SkeletonHeadStatue.tml
+-3865 67 165 -3854 78 176 SandTrap.tml
+-3839 70 87 -3830 73 96 RuinedSmallFountainDiagonal.tml
+-3837 90 -97 -3832 94 -92 CaveSpiderBurrow.tml
+-3836 62 -2 -3833 68 2 StonePillar.tml
+-3809 92 -359 -3804 95 -352 Melonfield.tml
+-3781 92 -189 -3774 97 -184 ZombieHut.tml
+-3765 64 51 -3760 67 58 SandstoneHouse.tml
+-3759 69 169 -3752 74 178 SandstoneStructure2_Intact.tml
+-3716 64 -61 -3703 73 -48 VolcanicVent.tml
+-3703 54 -142 -3692 64 -131 BridgePilings-lg2.tml
+-3690 66 50 -3683 70 57 TinyFarmField.tml
+-3685 50 -306 -3674 61 -270 SunkenShip-v3.tml
+-3666 64 138 -3647 67 149 RuinedDryFountain.tml
+-3599 64 -9 -3584 75 2 Barn-ruined.tml
 -3589 48 -124 -3578 67 -88 SunkenShip-v2.tml
 -3573 62 98 -3570 68 102 StonePillar.tml
 -3539 63 -607 -3505 73 -572 UnderwaterBase.tml
+-3534 69 171 -3526 115 179 SandCastle.tml
 -3515 63 -21 -3504 74 -12 ArrowTrapTomb.tml
 -3501 65 -151 -3497 67 -147 EmeraldOreOutcrop.tml
 -3486 35 -831 -3460 47 -823 shipwreck.tml

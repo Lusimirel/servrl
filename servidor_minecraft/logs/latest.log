@@ -70,3 +70,14 @@
 [00:57:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [00:58:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Sutiramu
 [00:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:59:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:01:48] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-3816, y=41, z=72}
+[01:03:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:08:46] [Server thread/ERROR] [reccomplex]: Error preparing structure: PyramidMazePagoda, Cause: Maze generation timed out: PyramidMaze
+[01:08:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11790ms behind, skipping 235 tick(s)
+[01:08:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved too quickly! -5.364678381086378,-1.0,-8.421786058951966
+[01:08:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -7.316680884184734,-1.3215999984741273,-6.739902309474331
+[01:08:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 experienced kinetic energy
+[01:08:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[01:09:08] [pool-7-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[01:09:08] [pool-7-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[10, 2, 9], dest=[10, 1, 9]}=Wall, MazePassage{source=[10, 1, 8], dest=[10, 1, 9]}=Wall, MazePassage{source=[10, 0, 9], dest=[10, 1, 9]}=Wall, MazePassage{source=[11, 1, 9], dest=[10, 1, 9]}=Path]
