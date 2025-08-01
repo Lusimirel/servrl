@@ -1070,6 +1070,12 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "craft": "2025-08-01 22:45:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-31 16:52:19 +0000"

@@ -3708,3 +3708,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:40:11] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
 [22:40:11] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
 [22:40:11] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[22:45:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [Take Aim, Chaps!]
+[22:51:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Octlopez04> -5651 -435

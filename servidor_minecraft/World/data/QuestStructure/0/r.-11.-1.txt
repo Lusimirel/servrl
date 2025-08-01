@@ -4,3 +4,4 @@ RLCraft_DecentSkeleton,-5644,-5644,-582,-582
 RLCraft_UndergroundRuin3,-5646,-5638,-585,-577
 WoodThornBig,-5788,-5775,-600,-587
 StoneBoulder,-5689,-5680,-604,-595
+StonePlantMound2,-5849,-5837,-574,-561
