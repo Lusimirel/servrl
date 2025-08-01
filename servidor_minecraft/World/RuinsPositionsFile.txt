@@ -9,6 +9,18 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-5794 72 -553 -5790 74 -549 EmeraldOreOutcrop.tml
+-5751 63 -405 -5721 106 -375 SkyCastle.tml
+-5722 62 -510 -5715 69 -503 Outcrop.tml
+-5709 50 -213 -5673 69 -202 SunkenShip-v2.tml
+-5654 63 -393 -5648 76 -386 TP_FishingShack.tml
+-5642 51 -320 -5634 63 -294 shipwreck.tml
+-5620 68 -472 -5613 73 -467 ZombieHut.tml
+-5587 65 -567 -5584 69 -565 SkeletonHeadStatue.tml
+-5540 68 -269 -5537 74 -265 StonePillar.tml
+-5524 63 -363 -5511 95 -350 OreSpire.tml
+-5459 54 -489 -5452 64 -482 BridgePilings-sm2.tml
+-5419 72 -384 -5409 82 -372 Piston-LavaTrap.tml
 -5400 68 -282 -5393 72 -275 TinyFarmField.tml
 -5388 60 -178 -5381 70 -171 BridgePilings-sm2.tml
 -5323 79 -293 -5319 81 -289 EmeraldOreOutcrop.tml

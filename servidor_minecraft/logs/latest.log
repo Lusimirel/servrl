@@ -3694,3 +3694,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:33:20] [Server thread/INFO] [STDOUT]: [levelup2.skills.mining.DiggingTreasureBonus:dirtLooting:57]: ItemStack: 1xtile.dirt@0
 [22:33:22] [Server thread/INFO] [STDOUT]: [levelup2.skills.mining.DiggingTreasureBonus:dirtLooting:57]: ItemStack: 1xtile.dirt@0
 [22:34:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2171ms behind, skipping 43 tick(s)
+[22:35:32] [Server thread/ERROR] [reccomplex]: Error preparing structure: PyramidMazePagoda, Cause: Maze generation timed out: PyramidMaze
+[22:35:32] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11600ms behind, skipping 232 tick(s)
+[22:35:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -3.284016100568806,-10.026757954279176,-0.47666547487961
+[22:36:51] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[22:36:51] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[1, 1, 4], dest=[1, 1, 3]}=Wall, MazePassage{source=[1, 2, 3], dest=[1, 1, 3]}=Wall, MazePassage{source=[1, 1, 2], dest=[1, 1, 3]}=Path, MazePassage{source=[2, 1, 3], dest=[1, 1, 3]}=Wall, MazePassage{source=[0, 1, 3], dest=[1, 1, 3]}=Wall]
+[22:36:51] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[22:36:51] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[8, 0, 3], dest=[8, 1, 3]}=Wall, MazePassage{source=[9, 1, 3], dest=[8, 1, 3]}=Path, MazePassage{source=[8, 2, 3], dest=[8, 1, 3]}=Wall, MazePassage{source=[8, 1, 4], dest=[8, 1, 3]}=Wall]
+[22:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Compass] * 1 to Octlopez04]
+[22:40:11] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[22:40:11] [Server thread/INFO] [RB-Transformer]:  - <init>
+[22:40:11] [Server thread/INFO] [RB-Transformer]:  - Done
+[22:40:11] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[22:40:11] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[22:40:11] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!

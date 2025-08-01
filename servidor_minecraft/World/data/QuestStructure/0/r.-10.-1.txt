@@ -4,3 +4,6 @@ RLCraft_DecentWitch,-5226,-5226,-528,-528
 RLCraft_UndergroundRuin3,-5229,-5221,-534,-526
 DinosaurSkeleton,-5263,-5254,-544,-498
 StonePlantMound,-5326,-5321,-537,-532
+RLCraft_BasicSpider,-5595,-5595,-530,-530
+RLCraft_UndergroundRuin1,-5598,-5589,-536,-527
+StonePlantMound1,-5577,-5571,-553,-547

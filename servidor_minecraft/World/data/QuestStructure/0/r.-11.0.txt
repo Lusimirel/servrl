@@ -1,0 +1,3 @@
+SmallAbandonedMine,-5701,-5676,-513,-498
+RLCraft_DecentZombie,-5759,-5759,-325,-325
+RLCraft_UndergroundRuin3,-5764,-5756,-331,-323

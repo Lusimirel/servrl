@@ -240,3 +240,8 @@ MesoMazePagoda,-5337,-5290,-201,-154
 RLCraft_DecentSkeleton,-5177,-5177,-172,-172
 RLCraft_UndergroundRuin3,-5183,-5175,-175,-167
 RLCraft_SmallUndergroundSkeleton,-5233,-5225,-156,-148
+SmallWoodenCottage1,-5412,-5401,-219,-213
+StonePlantMound2,-5456,-5444,-338,-325
+StonePlantMound2,-5519,-5507,-246,-233
+StonePlantMound3,-5562,-5553,-463,-452
+StoneLeafMound,-5571,-5564,-395,-386
