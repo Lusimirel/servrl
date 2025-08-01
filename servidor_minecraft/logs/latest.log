@@ -4007,3 +4007,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [18:38:35] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
 [18:38:35] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
 [18:38:35] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[18:51:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[18:55:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 lost connection: Disconnected
+[18:55:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 left the game
+[18:55:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu lost connection: Disconnected
+[18:55:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu left the game
+[18:55:38] [Server thread/INFO] [AUW]: Stopping DS...
+[18:55:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:55:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:55:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:55:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[18:55:38] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[18:55:38] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:55:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:55:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
