@@ -9,6 +9,7 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-4601 63 -815 -4571 103 -784 CastleOcean.tml
 -4594 62 -381 -4585 70 -366 Archway.tml
 -4574 54 -178 -4567 64 -171 BridgePilings-sm2.tml
 -4556 68 -61 -4551 76 -56 PillarBase.tml

@@ -3809,3 +3809,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [18:06:41] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
 [18:06:41] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
 [18:06:41] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[18:10:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set Lumi_uwu's game mode to Survival Mode]
+[18:12:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:12:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:12:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:12:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:12:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:12:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:12:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:12:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:12:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:12:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[18:15:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[18:16:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was turned into KFC by a dragon
+[18:17:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[18:17:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set Lumi_uwu's game mode to Creative Mode]

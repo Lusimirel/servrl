@@ -1088,6 +1088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-08-01 18:08:02 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:gold_spear": {
     "criteria": {
       "has_gold": "2025-07-31 17:32:16 +0000"
@@ -1334,6 +1340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-08-01 18:08:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 16:40:18 +0000"
@@ -1539,6 +1551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-08-01 18:08:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2025-07-31 16:35:21 +0000"
@@ -1662,6 +1680,12 @@
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2025-07-31 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-08-01 18:08:02 +0000"
     },
     "done": true
   },

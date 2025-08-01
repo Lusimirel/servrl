@@ -72,3 +72,5 @@ StoneMazePath,-4339,-4337,-520,-518
 StoneMazePath,-4345,-4343,-520,-518
 StoneMazePath,-4345,-4343,-523,-521
 StoneMazeSmall,-4360,-4337,-541,-518
+RLCraft_DecentWitch,-4432,-4432,-764,-764
+RLCraft_UndergroundRuin2,-4437,-4427,-769,-762
