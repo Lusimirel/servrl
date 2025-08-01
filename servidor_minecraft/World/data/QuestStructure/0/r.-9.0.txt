@@ -14,3 +14,5 @@ StoneBoulder,-4934,-4925,-293,-284
 StonePlantMound1,-4944,-4938,-146,-140
 StoneBoulder,-4962,-4953,-120,-111
 ShrineSmallFire,-4963,-4953,-108,-98
+StonePlantMound4,-4978,-4971,-299,-292
+StonePlantMound2,-4667,-4655,0,13
