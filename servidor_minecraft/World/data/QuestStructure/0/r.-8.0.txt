@@ -55,3 +55,7 @@ StonePlantMound,-4234,-4229,100,105
 RLCraft_DecentWitch,-4377,-4377,137,137
 RLCraft_UndergroundRuin3,-4380,-4372,131,139
 StonePlantMound2,-4182,-4170,123,136
+StoneLeafMound,-4199,-4192,134,143
+RLCraft_DecentWitch,-4209,-4209,141,141
+RLCraft_UndergroundRuin2,-4214,-4204,136,143
+ShrineSmallFire,-4246,-4236,132,142
