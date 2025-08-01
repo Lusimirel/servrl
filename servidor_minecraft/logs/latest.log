@@ -3763,3 +3763,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:25:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given 100000 experience to Octlopez04]
 [06:25:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given 100000 experience to Octlopez04]
 [06:25:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Creative Mode]
+[06:27:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 died
+[06:27:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Killed Octlopez04]
+[06:27:23] [Thread-148/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5d715e32-995d-33dc-af6d-a80ee555a961.
+[06:31:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Survival Mode]
+[06:31:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given 100000 experience to Octlopez04]
+[06:31:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given 100000 experience to Octlopez04]
+[06:31:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given 100000 experience to Octlopez04]
+[06:32:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given 100000 experience to Octlopez04]
+[06:32:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given 100000 experience to Octlopez04]
+[06:32:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given 100000 experience to Octlopez04]
+[06:32:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given 100000 experience to Octlopez04]
