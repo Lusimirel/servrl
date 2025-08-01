@@ -1,0 +1,6 @@
+RLCraft_SmallUndergroundSkeleton,-5159,-5151,-584,-576
+StonePlantMound1,-5152,-5146,-630,-624
+RLCraft_DecentWitch,-5226,-5226,-528,-528
+RLCraft_UndergroundRuin3,-5229,-5221,-534,-526
+DinosaurSkeleton,-5263,-5254,-544,-498
+StonePlantMound,-5326,-5321,-537,-532

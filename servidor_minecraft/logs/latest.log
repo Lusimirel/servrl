@@ -3691,3 +3691,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:22:33] [Server thread/INFO] [Meson ASM]: Patch result: true
 [22:24:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Creative Mode]
 [22:24:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Survival Mode]
+[22:33:20] [Server thread/INFO] [STDOUT]: [levelup2.skills.mining.DiggingTreasureBonus:dirtLooting:57]: ItemStack: 1xtile.dirt@0
+[22:33:22] [Server thread/INFO] [STDOUT]: [levelup2.skills.mining.DiggingTreasureBonus:dirtLooting:57]: ItemStack: 1xtile.dirt@0
+[22:34:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2171ms behind, skipping 43 tick(s)
