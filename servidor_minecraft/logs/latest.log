@@ -3715,3 +3715,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [05:13:39] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
 [05:13:39] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
 [05:15:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Octlopez04> uwuu
+[05:16:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Banshee  Lvl 2
+[05:16:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Banshee  Lvl 2
+[05:16:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[05:19:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 withered away
+[05:20:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[05:25:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[05:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was turned into KFC by a dragon
+[05:27:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was turned into KFC by a dragon
+[05:29:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[05:31:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was turned into KFC by a dragon
+[05:31:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[05:31:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[05:34:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
