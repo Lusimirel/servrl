@@ -3740,3 +3740,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [05:59:04] [Thread-108/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
 [05:59:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [05:59:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu has made the advancement [Ice Bucket Challenge]
+[06:15:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Creative Mode]
+[06:15:32] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -255 and chunkZ 0...
+[06:15:32] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_forest_temple at {"x": -4333, "y": 0, "z": -276}...
+[06:15:33] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_forest_temple at {"x": -4333, "y": 0, "z": -276}.
+[06:15:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 5.123501350651168,8.625000342726707,-0.5852328553176136
+[06:15:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[06:16:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Survival Mode]
+[06:16:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Waystone] * 1 to Octlopez04]

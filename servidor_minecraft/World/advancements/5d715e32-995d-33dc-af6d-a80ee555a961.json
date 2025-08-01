@@ -342,6 +342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-08-01 06:13:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 16:40:18 +0000"
@@ -1090,6 +1096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-01 06:13:10 +0000"
+    },
+    "done": true
+  },
   "familiarfauna:recipes/tools/bug_net": {
     "criteria": {
       "has_string": "2025-07-31 16:50:31 +0000"
@@ -1177,6 +1189,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-07-31 19:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-01 06:13:10 +0000"
     },
     "done": true
   },
