@@ -242,6 +242,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chorus_fruit": "2025-08-01 00:33:32 +0000",
+      "cooked_beef": "2025-08-01 05:37:51 +0000",
       "bread": "2025-08-01 00:48:07 +0000",
       "cooked_chicken": "2025-07-31 19:25:13 +0000"
     },
