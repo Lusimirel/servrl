@@ -3,3 +3,4 @@ RLCraft_DecentZombie,-5759,-5759,-325,-325
 RLCraft_UndergroundRuin3,-5764,-5756,-331,-323
 StonePlantBoulder,-5837,-5827,-514,-504
 DinosaurSkeleton,-5880,-5871,-491,-445
+PeacefulCrypt,-5896,-5872,-464,-448

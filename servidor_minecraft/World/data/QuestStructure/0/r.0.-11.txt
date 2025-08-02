@@ -1,0 +1,7 @@
+P_WitchDungeon,82,99,-6075,-6041
+P_WitchDungeon,100,134,-6075,-6058
+StonePlantMound2,188,201,-6021,-6009
+DesertHut,71,81,-6113,-6104
+RLCraft_DecentWitch,123,123,-5882,-5882
+RLCraft_UndergroundRuin2,121,128,-5887,-5877
+StonePlantBoulder,254,264,-6058,-6048

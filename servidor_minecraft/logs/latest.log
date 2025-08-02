@@ -88,3 +88,29 @@
 [00:32:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Octlopez04> pipipipipipipipipi
 [00:33:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao has made the advancement [Stone Age]
 [00:33:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao has made the advancement [Acquire Hardware]
+[00:35:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Kao to Octlopez04]
+[00:36:15] [Server thread/INFO] [Scaling Health]: Blight Skeleton was killed by Octlopez04
+[00:36:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao has made the advancement [Monster Hunter]
+[00:39:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao has made the advancement [Attack!]
+[00:39:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Kao to Octlopez04]
+[00:39:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Octlopez04
+[00:39:42] [Thread-100/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[00:39:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:40:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Kao
+[00:40:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:40:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao was slain by Zombie
+[00:40:16] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.routine.IAFOldDeathWormRoutine$WrappedProximityTaskOldDeathWorm
+[00:40:18] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[00:40:18] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[00:40:18] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[00:40:18] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[00:40:18] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[00:40:18] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[00:40:18] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[00:40:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3122ms behind, skipping 62 tick(s)
+[00:40:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Zombie
+[00:40:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Kao to Octlopez04]
+[00:40:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Kao to Octlopez04]
+[00:43:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao has made the advancement [Take Aim]
+[00:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kao> zzzzzzzzzzzzz
