@@ -1,0 +1,5 @@
+StonePlantMound1,-8202,-8196,9379,9385
+ClayWaterMound,-8272,-8264,9252,9259
+P_AncientTeleporter,-8343,-8308,9270,9303
+SeasonsGreenhouse,-8316,-8304,9250,9260
+P_VillageHouse,-8346,-8337,9246,9257

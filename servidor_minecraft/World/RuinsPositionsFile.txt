@@ -9,6 +9,13 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-8341 64 9304 -8333 70 9312 ShortTower.tml
+-8262 67 9225 -8251 78 9240 Barn-ruined.tml
+-8237 62 9403 -8228 71 9411 HutRuined.tml
+-8219 62 9328 -8216 66 9331 StoneGrill.tml
+-8171 63 9173 -8164 70 9180 Outcrop.tml
+-8142 62 9377 -8137 65 9384 PumpkinField.tml
+-8138 67 9297 -8126 77 9307 Piston-LavaTrap.tml
 -7614 69 1315 -7602 114 1327 TowerEasy.tml
 -5887 70 -522 -5884 74 -520 SkeletonHeadStatue.tml
 -5824 89 -650 -5816 99 -642 LargeStoneHouseWBasement.tml
@@ -225,6 +232,10 @@
 226 72 327 234 78 335 ShortTower.tml
 303 83 142 314 94 151 ArrowTrapTomb.tml
 309 79 40 313 81 44 EmeraldOreOutcrop.tml
+1662 63 2955 1669 76 2961 TP_FishingShack.tml
+1744 64 3046 1754 81 3056 WatchtowerRuined.tml
+1767 64 2939 1779 88 2951 Tower-ruined-short.tml
+1781 65 2961 1794 97 2974 OreSpire.tml
 1786 63 -4714 1799 73 -4702 WaterTrapRoom.tml
 1808 62 -4892 1816 71 -4884 LargeStoneTwoStoryHouse.tml
 1808 61 -4808 1813 69 -4803 PillarBase.tml
