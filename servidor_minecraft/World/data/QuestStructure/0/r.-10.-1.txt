@@ -26,3 +26,11 @@ VillageGuardTower,-5296,-5284,-924,-912
 SeasonsGreenhouse,-5296,-5284,-941,-931
 P_VillageInn,-5324,-5315,-934,-923
 VillageTriplets,-5349,-5335,-938,-924
+StonePlantMound3,-5456,-5445,-831,-822
+P_VillageFarmhouse,-5379,-5367,-938,-926
+VillageMarketplace,-5354,-5340,-974,-960
+StonePlantBoulder,-5534,-5524,-836,-826
+ShrineSmallFire,-5554,-5544,-947,-937
+SmallWoodenCottage1,-5562,-5556,-922,-911
+RLCraft_DecentCaveSpider,-5561,-5561,-826,-826
+RLCraft_UndergroundRuin2,-5566,-5559,-831,-821

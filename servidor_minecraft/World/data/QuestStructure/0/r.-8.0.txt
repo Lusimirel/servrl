@@ -99,3 +99,7 @@ StoneMazePagoda,-4616,-4569,-117,-70
 RLCraft_SmallUndergroundSkeleton,-4152,-4144,188,196
 StonePlantBoulder,-4129,-4119,185,195
 StonePlantBoulder,-4342,-4332,203,213
+RLCraft_DecentSpider,-4451,-4451,95,95
+RLCraft_UndergroundRuin3,-4454,-4446,89,97
+ShrineSmallAir,-4611,-4603,41,49
+MeteorSite,-4214,-4184,374,389
