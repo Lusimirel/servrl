@@ -87,3 +87,4 @@ SmallPyramid,-2148,-2112,695,727
 RLCraft_SmallUndergroundSkeleton,-2135,-2127,702,710
 RLCraft_BasicSpider,-2277,-2277,895,895
 RLCraft_UndergroundRuin1,-2283,-2274,892,901
+MeteorSite,-2412,-2382,997,1012
