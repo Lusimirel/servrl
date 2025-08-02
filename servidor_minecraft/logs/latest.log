@@ -201,3 +201,70 @@
 [02:04:08] [Server thread/INFO] [STDOUT]: [levelup2.skills.mining.DiggingTreasureBonus:dirtLooting:57]: ItemStack: 1xtile.dirt@0
 [02:06:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was shot by Skeleton
 [02:07:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:19:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Zombie
+[02:19:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:19:07] [Thread-255/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[02:19:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:20:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Cave Spider
+[02:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:20:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was burnt to a crisp whilst fighting Skeleton
+[02:20:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:21:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was shot by Skeleton
+[02:21:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:22:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was shot by Skeleton
+[02:22:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:22:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was shot by Skeleton
+[02:22:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:24:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:25:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[02:25:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Cave Spider
+[02:25:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:25:51] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by Octlopez04
+[02:27:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:28:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was burnt to a crisp whilst fighting Skeleton
+[02:28:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:28:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was burnt to a crisp whilst fighting Skeleton
+[02:28:13] [Thread-276/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5d715e32-995d-33dc-af6d-a80ee555a961.
+[02:28:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[02:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Grue  Lvl 2
+[02:29:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:30:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was shot by Skeleton
+[02:30:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:30:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:30:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Grue  Lvl 2
+[02:30:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Chupacabra  Lvl 2
+[02:32:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to -1510.5, -40.0, -559.5]
+[02:32:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2827ms behind, skipping 56 tick(s)
+[02:32:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 fell out of the world
+[02:32:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to -1510.5, -60.0, -559.5]
+[02:32:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 fell out of the world
+[02:32:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to -1510.5, 40.0, -559.5]
+[02:32:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 drowned whilst trying to escape Sea Serpent
+[02:33:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to -1510.5, 50.0, -559.5]
+[02:33:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Creative Mode]
+[02:33:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -8.252109100022835,0.0,-5.938405417292984
+[02:33:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2624ms behind, skipping 52 tick(s)
+[02:33:39] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -102 and chunkZ -51...
+[02:33:39] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_forest_temple at {"x": -1765, "y": 0, "z": -1072}...
+[02:33:41] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_forest_temple at {"x": -1765, "y": 0, "z": -1072}.
+[02:33:41] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[02:33:41] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[02:33:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 3.3259456999148824,3.749998559477632,-9.898712959277304
+[02:33:42] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-1528, y=10, z=-808}
+[02:34:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu died from hypothermia
+[02:34:20] [pool-9-thread-1/WARN] [ivtoolkit]: Maze is not completable!
+[02:34:20] [pool-9-thread-1/WARN] [ivtoolkit]: Switching to flawed mode.
+[02:34:20] [pool-9-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[02:34:20] [pool-9-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[7, 2, 10], dest=[7, 1, 10]}=Wall, MazePassage{source=[8, 1, 10], dest=[7, 1, 10]}=Path]
+[02:34:20] [pool-9-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[02:34:20] [pool-9-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[3, 4, 6], dest=[3, 3, 6]}=Wall, MazePassage{source=[4, 3, 6], dest=[3, 3, 6]}=Path]
+[02:34:20] [pool-9-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[02:34:20] [pool-9-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[5, 1, 8], dest=[5, 1, 9]}=Path, MazePassage{source=[5, 2, 9], dest=[5, 1, 9]}=Wall]
+[02:34:20] [pool-9-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[02:34:20] [pool-9-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[5, 1, 4], dest=[5, 1, 3]}=Path, MazePassage{source=[5, 2, 3], dest=[5, 1, 3]}=Wall]
+[02:34:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6770ms behind, skipping 135 tick(s)
+[02:34:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -4.726294037782964,0.0,9.652109132740748
+[02:35:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 170.37824040150304,-33.11650144888233,-9.033673317931857
+[02:35:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[02:35:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved wrongly!
+[02:35:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]

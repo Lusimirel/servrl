@@ -1,0 +1,6 @@
+P_MayanTemple2,-1729,-1661,-808,-709
+RLCraft_DecentSkeleton,-1624,-1624,-784,-784
+RLCraft_UndergroundRuin2,-1629,-1619,-789,-782
+DinosaurSkull,-1823,-1804,-567,-556
+SmallAbandonedMine,-1828,-1803,-800,-785
+StatueTemple,-1894,-1823,-779,-677

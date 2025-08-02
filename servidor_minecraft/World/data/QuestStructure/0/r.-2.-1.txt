@@ -1,0 +1,3 @@
+UndergroundTreeoid,-1365,-1342,-616,-590
+RLCraft_SmallUndergroundSkeleton,-1489,-1481,-801,-793
+ShrineSmallAir,-1507,-1499,-818,-810
