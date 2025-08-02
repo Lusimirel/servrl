@@ -61,6 +61,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "deep_ocean": "2025-08-02 00:23:25 +0000",
       "beaches": "2025-08-01 23:58:49 +0000",
       "ocean": "2025-08-01 23:58:07 +0000",
       "river": "2025-08-02 00:03:58 +0000"
@@ -88,6 +89,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-02 00:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-02 00:18:48 +0000"
     },
     "done": true
   },
@@ -252,6 +259,12 @@
       "has_planks": "2025-08-02 00:03:46 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-08-02 00:18:48 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {

@@ -29,3 +29,7 @@
 [00:04:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao has made the advancement [Getting an Upgrade]
 [00:05:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao has made the advancement [Sweet dreams]
 [00:08:28] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Octlopez04)
+[00:23:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao was slain by Violet Abaia  Lvl 2
+[00:23:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2365ms behind, skipping 47 tick(s)
+[00:23:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:24:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Kao to Octlopez04]

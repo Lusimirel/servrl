@@ -10,6 +10,7 @@
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
 -7614 69 1315 -7602 114 1327 TowerEasy.tml
+-5887 70 -522 -5884 74 -520 SkeletonHeadStatue.tml
 -5824 89 -650 -5816 99 -642 LargeStoneHouseWBasement.tml
 -5794 72 -553 -5790 74 -549 EmeraldOreOutcrop.tml
 -5751 63 -405 -5721 106 -375 SkyCastle.tml
@@ -191,6 +192,14 @@
 -2681 55 -397 -2655 67 -389 shipwreck.tml
 -2676 76 -4504 -2668 86 -4496 LargeStoneHouseWBasement.tml
 -2662 50 -549 -2626 61 -538 SunkenShip-v3.tml
+-2340 63 -8555 -2310 100 -8525 PirateShip.tml
+-2280 70 -8283 -2262 104 -8272 SpearStatue.tml
+-2267 39 -8375 -2259 51 -8349 shipwreck.tml
+-2190 49 -8397 -2179 60 -8361 SunkenShip-v3.tml
+-2179 63 -8499 -2145 73 -8464 UnderwaterBase.tml
+-2161 63 -8294 -2131 106 -8264 SkyCastle.tml
+-2078 48 -8458 -2042 67 -8447 SunkenShip-v2.tml
+-2041 63 -8242 -2029 104 -8230 BaloonLow.tml
 -441 63 128 -429 117 140 BaloonHigh.tml
 -437 63 138 -407 100 168 PirateShip.tml
 -434 65 263 -423 71 275 SandstoneHouse1_Ruined.tml
