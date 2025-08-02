@@ -1,3 +1,5 @@
 UndergroundTreeoid,-1365,-1342,-616,-590
 RLCraft_SmallUndergroundSkeleton,-1489,-1481,-801,-793
 ShrineSmallAir,-1507,-1499,-818,-810
+P_SmallShip,-1162,-1142,-662,-656
+RLCraft_UndergroundFarm,-1246,-1203,-781,-739

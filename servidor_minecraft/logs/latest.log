@@ -268,3 +268,30 @@
 [02:35:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
 [02:35:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved wrongly!
 [02:35:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[02:37:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lumi_uwu> gamemode c
+[02:37:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lumi_uwu: Set own game mode to Creative Mode]
+[02:37:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to -1510.5, 40.0, -599.5]
+[02:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to -1149.5, 40.0, -599.5]
+[02:39:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2250ms behind, skipping 45 tick(s)
+[02:39:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:40:37] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -1432 | -984 ], underground: false
+[02:40:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 5.796713557889461,0.0,8.447045603600486
+[02:40:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved too quickly! -6.8760563168777935,0.0,7.379008002380374
+[02:40:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5910ms behind, skipping 118 tick(s)
+[02:40:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:41:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to -1499.5, 40.0, -999.5]
+[02:41:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2992ms behind, skipping 59 tick(s)
+[02:42:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to 1500.5, 40.0, -999.5]
+[02:42:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2185ms behind, skipping 43 tick(s)
+[02:42:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:43:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2264ms behind, skipping 45 tick(s)
+[02:43:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved too quickly! -10.153022401002772,0.0,-0.47867973153643106
+[02:43:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -10.26944163368239,-1.0,0.17178950170693952
+[02:43:35] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{rustic:ironwoodbranchx} not valid branch for rustic:ironwood.
+[02:43:57] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 102 and chunkZ -51...
+[02:43:57] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": 1643, "y": 0, "z": -985}...
+[02:43:58] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": 1643, "y": 0, "z": -985}.
+[02:45:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 died
+[02:45:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Killed Octlopez04]
+[02:45:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu died
+[02:45:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Killed Lumi_uwu]

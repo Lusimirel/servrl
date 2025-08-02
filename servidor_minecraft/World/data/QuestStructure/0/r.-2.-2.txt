@@ -1,0 +1,4 @@
+FallenPalmTree,-1250,-1246,-1085,-1075
+StonePlantMound1,-1443,-1437,-1089,-1083
+RLCraft_UndergroundFarm,-1387,-1344,-1140,-1098
+TribalJungleHead,-1478,-1468,-1193,-1183

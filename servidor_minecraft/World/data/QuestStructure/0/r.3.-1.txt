@@ -1,0 +1,6 @@
+RLCraft_DecentCaveSpider,1562,1562,-997,-997
+RLCraft_UndergroundRuin2,1557,1567,-1002,-995
+UndergroundCrypt,1574,1602,-884,-870
+RLCraft_DecentZombie,1572,1572,-848,-848
+RLCraft_UndergroundRuin3,1567,1575,-854,-846
+StoneBoulder,1604,1613,-721,-712

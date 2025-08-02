@@ -1,0 +1,5 @@
+ShrineSmallWater,-998,-990,-707,-699
+P_SmallShip,-1006,-1000,-929,-909
+RLCraft_DecentSkeleton,-880,-880,-668,-668
+RLCraft_UndergroundRuin3,-882,-874,-673,-665
+RLCraft_UndergroundFarm,-859,-816,-552,-510

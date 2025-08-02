@@ -4,3 +4,4 @@ RLCraft_UndergroundRuin2,-1629,-1619,-789,-782
 DinosaurSkull,-1823,-1804,-567,-556
 SmallAbandonedMine,-1828,-1803,-800,-785
 StatueTemple,-1894,-1823,-779,-677
+DinosaurSkeleton,-1624,-1578,-878,-869

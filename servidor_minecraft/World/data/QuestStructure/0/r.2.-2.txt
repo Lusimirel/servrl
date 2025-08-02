@@ -1,0 +1,8 @@
+StonePlantMound4,1514,1521,-1035,-1028
+StonePlantMound1,1521,1527,-1123,-1117
+StoneBoulder,1492,1501,-1134,-1125
+StonePlantMound4,1484,1491,-1140,-1133
+StonePlantMound1,1518,1524,-1143,-1137
+StonePlantMound1,1347,1353,-1032,-1026
+Tree_Oak_TheMushroomOak_v3,1241,1291,-1138,-1079
+BrickHenge,1200,1216,-1080,-1064

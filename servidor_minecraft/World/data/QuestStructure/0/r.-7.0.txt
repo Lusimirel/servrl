@@ -103,3 +103,4 @@ RLCraft_DecentSpider,-4015,-4015,-495,-495
 RLCraft_UndergroundRuin2,-4020,-4010,-497,-490
 ClayWaterMound1,-4049,-4038,83,93
 RLCraft_SmallUndergroundSkeleton,-4042,-4034,98,106
+RLCraft_SmallUndergroundSkeleton,-4064,-4056,198,206

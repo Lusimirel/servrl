@@ -96,3 +96,6 @@ StoneMazeEndChest,-4571,-4569,-81,-79
 StoneMazeEndChest,-4583,-4581,-72,-70
 StoneMazePath,-4571,-4569,-102,-100
 StoneMazePagoda,-4616,-4569,-117,-70
+RLCraft_SmallUndergroundSkeleton,-4152,-4144,188,196
+StonePlantBoulder,-4129,-4119,185,195
+StonePlantBoulder,-4342,-4332,203,213
