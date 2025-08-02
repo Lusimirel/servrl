@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-02 00:45:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-07-31 17:49:49 +0000"
@@ -433,6 +439,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 18:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2025-08-02 00:50:57 +0000"
     },
     "done": true
   },
@@ -1262,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-02 00:49:36 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:gold_nunchaku": {
     "criteria": {
       "has_gold": "2025-07-31 17:07:05 +0000"
@@ -1325,6 +1343,12 @@
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2025-07-31 19:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2025-08-02 00:50:57 +0000"
     },
     "done": true
   },

@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "familiarfauna:recipes/tools/bug_net": {
+    "criteria": {
+      "has_string": "2025-08-02 00:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-02 00:08:30 +0000"
@@ -275,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-02 00:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 00:33:33 +0000"
@@ -317,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-02 00:45:46 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:wood_spear": {
     "criteria": {
       "has_stick": "2025-08-02 00:01:12 +0000"
@@ -332,6 +350,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-02 00:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-02 00:51:05 +0000"
     },
     "done": true
   },
@@ -371,15 +395,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2025-08-02 00:51:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-02 00:08:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-02 00:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-08-02 00:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-02 00:51:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-02 00:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-02 00:51:05 +0000"
     },
     "done": true
   },
@@ -395,9 +449,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2025-08-02 00:50:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-08-02 00:01:56 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/season_clock": {
+    "criteria": {
+      "has_redstone": "2025-08-02 00:51:05 +0000"
     },
     "done": true
   },
@@ -464,6 +530,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-08-02 00:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-02 00:51:05 +0000"
     },
     "done": true
   },
@@ -575,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-02 00:51:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-08-01 23:58:07 +0000"
@@ -603,6 +681,24 @@
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2025-08-02 00:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2025-08-02 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:crossbow": {
+    "criteria": {
+      "has_string": "2025-08-02 00:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-02 00:51:05 +0000"
     },
     "done": true
   },

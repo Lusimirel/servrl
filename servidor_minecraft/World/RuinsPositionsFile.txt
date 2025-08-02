@@ -9,6 +9,13 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-10344 63 -2335 -10314 106 -2305 SkyCastle.tml
+-10339 48 -2210 -10328 59 -2174 SunkenShip-v3.tml
+-10260 47 -2240 -10224 66 -2229 SunkenShip-v2.tml
+-10243 63 -2232 -10212 103 -2202 CastleOcean.tml
+-10234 63 -2346 -10200 73 -2311 UnderwaterBase.tml
+-10230 63 -2353 -10218 104 -2341 BaloonLow.tml
+-10135 35 -2245 -10109 47 -2237 shipwreck.tml
 -8341 64 9304 -8333 70 9312 ShortTower.tml
 -8262 67 9225 -8251 78 9240 Barn-ruined.tml
 -8237 62 9403 -8228 71 9411 HutRuined.tml

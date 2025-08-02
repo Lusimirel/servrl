@@ -543,6 +543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2025-08-02 00:52:21 +0000"
+    },
+    "done": true
+  },
   "craftablechainmail:craft_iron_nugget": {
     "criteria": {
       "iron_nugget": "2025-08-02 00:26:37 +0000"
@@ -1717,6 +1723,12 @@
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2025-07-31 16:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2025-08-02 00:52:21 +0000"
     },
     "done": true
   },
