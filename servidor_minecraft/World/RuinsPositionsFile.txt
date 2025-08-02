@@ -45,8 +45,12 @@
 -5709 50 -213 -5673 69 -202 SunkenShip-v2.tml
 -5654 63 -393 -5648 76 -386 TP_FishingShack.tml
 -5642 51 -320 -5634 63 -294 shipwreck.tml
+-5621 64 -1658 -5617 70 -1655 StonePillar.tml
 -5620 68 -472 -5613 73 -467 ZombieHut.tml
+-5615 65 -1574 -5607 71 -1566 ShortTower.tml
+-5593 64 -1445 -5584 71 -1436 WoodHouse2_Intact.tml
 -5587 65 -567 -5584 69 -565 SkeletonHeadStatue.tml
+-5585 65 -1779 -5577 71 -1771 LargeStoneHouse.tml
 -5562 62 -642 -5554 68 -634 ShortTower.tml
 -5542 65 -1665 -5535 72 -1658 Outcrop.tml
 -5540 68 -269 -5537 74 -265 StonePillar.tml
@@ -80,6 +84,7 @@
 -5288 62 -1345 -5283 70 -1340 PillarBase.tml
 -5284 72 -915 -5279 83 -906 VanillaVillageChurch-r.tml
 -5282 62 -1259 -5276 68 -1250 PortalShrine.tml
+-5258 66 -1716 -5254 68 -1712 EmeraldOreOutcrop.tml
 -5247 66 -1566 -5234 75 -1553 VolcanicVent.tml
 -5242 67 -298 -5235 74 -291 Outcrop.tml
 -5239 74 -530 -5230 77 -521 RuinedSmallFountainDiagonal.tml

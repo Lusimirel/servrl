@@ -31,3 +31,9 @@ VillageLargeLibrary,-5562,-5543,-1520,-1500
 VillageMarketplace,-5544,-5530,-1459,-1445
 VillageWoodMill,-5562,-5546,-1476,-1463
 P_VillageFarmhouse,-5561,-5549,-1459,-1447
+StonePlantMound2,-5580,-5567,-1502,-1490
+RLCraft_DecentSkeleton,-5570,-5570,-1458,-1458
+RLCraft_UndergroundRuin2,-5572,-5565,-1463,-1453
+VillageForgeLarge,-5578,-5562,-1459,-1447
+P_VillageHouse,-5594,-5583,-1482,-1473
+VillageTriplets,-5597,-5583,-1459,-1445
