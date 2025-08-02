@@ -43,11 +43,15 @@
 -5459 54 -489 -5452 64 -482 BridgePilings-sm2.tml
 -5419 72 -384 -5409 82 -372 Piston-LavaTrap.tml
 -5400 68 -282 -5393 72 -275 TinyFarmField.tml
+-5396 68 -581 -5388 78 -573 TallTower.tml
+-5389 66 -689 -5384 74 -684 PillarBase.tml
 -5388 60 -178 -5381 70 -171 BridgePilings-sm2.tml
 -5323 79 -293 -5319 81 -289 EmeraldOreOutcrop.tml
+-5316 70 -638 -5308 76 -630 LargeStoneHouse.tml
 -5242 67 -298 -5235 74 -291 Outcrop.tml
 -5239 74 -530 -5230 77 -521 RuinedSmallFountainDiagonal.tml
 -5238 62 -401 -5223 70 -386 Mausoleum.tml
+-5237 66 -676 -5234 72 -672 StonePillar.tml
 -5163 67 -482 -5155 75 -473 VanillaVillageLibrary-p.tml
 -5157 72 -610 -5152 76 -605 CaveSpiderBurrow.tml
 -5130 65 -213 -5119 73 -205 MinersHut.tml
@@ -299,6 +303,7 @@
 3391 45 7938 3402 56 7974 SunkenShip-v3.tml
 3467 63 8113 3497 106 8143 SkyCastle.tml
 3476 63 7902 3488 117 7914 BaloonHigh.tml
+6121 49 -4768 6132 68 -4732 SunkenShip-v2.tml
 7637 48 -1960 7648 67 -1924 SunkenShip-v2.tml
 7673 63 -1727 7685 117 -1715 BaloonHigh.tml
 7714 35 -1845 7740 47 -1837 shipwreck.tml

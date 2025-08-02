@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-02 01:02:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-08-02 00:03:46 +0000"
@@ -146,6 +152,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-08-02 00:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-02 01:00:39 +0000"
     },
     "done": true
   },
@@ -247,7 +259,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-08-02 00:18:48 +0000"
+      "cooked_mutton": "2025-08-02 00:18:48 +0000",
+      "cooked_chicken": "2025-08-02 01:02:22 +0000"
     },
     "done": false
   },
@@ -377,6 +390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-02 01:02:00 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:iron_nunchaku": {
     "criteria": {
       "has_iron": "2025-08-02 00:33:33 +0000"
@@ -422,6 +441,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-08-02 00:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-02 01:02:00 +0000"
     },
     "done": true
   },
@@ -605,6 +630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-02 01:02:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-08-01 23:58:07 +0000"
@@ -632,6 +663,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-02 00:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-02 01:02:00 +0000"
     },
     "done": true
   },
