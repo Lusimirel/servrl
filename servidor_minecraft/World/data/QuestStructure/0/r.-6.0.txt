@@ -68,3 +68,4 @@ SmallWoodenCottage1,-3185,-3179,242,253
 MeteorSite,-3197,-3167,372,387
 RLCraft_DecentSkeleton,-3148,-3148,495,495
 RLCraft_UndergroundRuin2,-3150,-3143,490,500
+BigClockworkSite,-3162,-3127,122,167

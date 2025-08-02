@@ -6,3 +6,16 @@ WoodThornBig,-5788,-5775,-600,-587
 StoneBoulder,-5689,-5680,-604,-595
 StonePlantMound2,-5849,-5837,-574,-561
 StoneBoulder,-5855,-5846,-544,-535
+MeteorSite,-5833,-5818,-939,-909
+StonePlantMound4,-5894,-5887,-732,-725
+SmallAbandonedMine,-5895,-5870,-692,-677
+StonePlantMound2,-5939,-5926,-753,-741
+StonePlantMound2,-5951,-5939,-671,-658
+StonePlantBoulder,-5977,-5967,-756,-746
+StoneBoulder,-5951,-5942,-646,-637
+P_Deqing,-5980,-5933,-665,-613
+StonePlantMound2,-5870,-5858,-648,-635
+ShrineSmallEarth,-5919,-5907,-638,-626
+PeacefulCrypt,-5890,-5874,-620,-596
+StonePlantMound3,-5984,-5973,-758,-749
+ShrineSmallFire,-5985,-5975,-766,-756

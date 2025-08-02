@@ -8,3 +8,14 @@ P_WitchDungeon,-2881,-2847,-381,-364
 RLCraft_PlainsCamp,-2791,-2752,-432,-386
 ClayWaterMound,-2715,-2707,-350,-343
 DesertHut,-2970,-2960,-33,-24
+RLCraft_SmallUndergroundSkeleton,-2927,-2919,166,174
+BigClockworkSite,-3037,-3002,91,136
+RLCraft_SmallUndergroundSkeleton,-3040,-3032,113,121
+RLCraft_DecentSkeleton,-2867,-2867,119,119
+RLCraft_UndergroundRuin2,-2869,-2862,114,124
+MeteorSite,-2789,-2774,132,162
+RLCraft_DecentCaveSpider,-2945,-2945,95,95
+RLCraft_UndergroundRuin2,-2947,-2940,90,100
+RLCraft_DecentZombie,-2770,-2770,473,473
+RLCraft_UndergroundRuin3,-2775,-2767,467,475
+P_WizardTower,-2793,-2763,442,472
