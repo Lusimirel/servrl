@@ -1,0 +1,10 @@
+StonePlantMound4,-5219,-5212,-1542,-1535
+RLCraft_SmallUndergroundSkeleton,-5275,-5267,-1596,-1588
+StoneLeafMound,-5240,-5233,-1603,-1594
+UndergroundTreeoid,-5419,-5393,-1602,-1579
+DinosaurSkeleton,-5228,-5219,-1645,-1599
+StonePlantMound,-5421,-5416,-1641,-1636
+StonePlantMound3,-5454,-5445,-1651,-1640
+StoneLeafMound,-5520,-5511,-1561,-1554
+StonePlantBoulder,-5337,-5327,-1702,-1692
+StonePlantMound1,-5295,-5289,-1707,-1701

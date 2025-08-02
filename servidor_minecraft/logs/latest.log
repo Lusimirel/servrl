@@ -173,3 +173,7 @@
 [01:32:39] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": -5127, "y": 0, "z": -779}...
 [01:32:40] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": -5127, "y": 0, "z": -779}.
 [01:32:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved too quickly! 10.056646092802112,0.8699999749660492,-1.4625489473073685
+[01:38:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu experienced kinetic energy
+[01:38:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:38:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu experienced kinetic energy
+[01:38:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
