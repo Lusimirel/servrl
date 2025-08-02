@@ -3794,3 +3794,74 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:02:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Baby Jouste  Lvl 3
 [06:02:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Baby Jouste  Lvl 3
 [06:02:50] [Thread-141/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5d715e32-995d-33dc-af6d-a80ee555a961.
+[06:08:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved wrongly!
+[06:08:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved wrongly!
+[06:08:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved wrongly!
+[06:08:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu died from hypothermia
+[06:14:09] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-2840, y=44, z=680}
+[06:14:09] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:14:09] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:14:09] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:14:10] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:14:10] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:14:10] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:14:10] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:14:14] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:14:14] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:16:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:16:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:16:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:16:20] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:16:22] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:16:22] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:21:06] [Server thread/ERROR] [reccomplex]: Error preparing structure: BigPyramid, Cause: Maze generation timed out: PyramidMaze
+[06:21:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11517ms behind, skipping 230 tick(s)
+[06:21:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -4.522273202608176,-1.0,8.983144549693293
+[06:21:09] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:21:09] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[9, 1, 8], dest=[9, 1, 7]}=Path, MazePassage{source=[9, 2, 7], dest=[9, 1, 7]}=Wall, MazePassage{source=[9, 0, 7], dest=[9, 1, 7]}=Wall, MazePassage{source=[9, 1, 6], dest=[9, 1, 7]}=Wall, MazePassage{source=[10, 1, 7], dest=[9, 1, 7]}=Wall]
+[06:21:09] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:21:09] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[3, 0, 5], dest=[3, 1, 5]}=Wall, MazePassage{source=[2, 1, 5], dest=[3, 1, 5]}=Wall, MazePassage{source=[3, 1, 4], dest=[3, 1, 5]}=Wall, MazePassage{source=[3, 1, 6], dest=[3, 1, 5]}=Path, MazePassage{source=[4, 1, 5], dest=[3, 1, 5]}=Wall]
+[06:21:09] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:21:09] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[9, 2, 7], dest=[8, 2, 7]}=Wall, MazePassage{source=[7, 2, 7], dest=[8, 2, 7]}=Wall, MazePassage{source=[8, 2, 8], dest=[8, 2, 7]}=Path]
+[06:21:09] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:21:09] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[6, 3, 8], dest=[5, 3, 8]}=Path, MazePassage{source=[5, 4, 8], dest=[5, 3, 8]}=Wall, MazePassage{source=[5, 3, 9], dest=[5, 3, 8]}=Wall]
+[06:25:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[06:26:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:26:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[06:29:30] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -153 and chunkZ 51...
+[06:29:30] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_villager_house_sandy at {"x": -2784, "y": 0, "z": 938}...
+[06:29:31] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_villager_house_sandy at {"x": -2784, "y": 0, "z": 938}.
+[06:29:35] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:29:35] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:29:35] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:29:35] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:29:51] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:29:51] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:30:05] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:30:05] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:30:05] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:30:05] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:30:05] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[06:30:05] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[06:30:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu walked into a cactus whilst trying to escape Death Worm
+[06:30:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[06:30:59] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[06:32:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was burnt to a crisp whilst fighting Octlopez04
+[06:33:04] [Thread-186/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[06:33:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]

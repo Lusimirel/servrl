@@ -1,0 +1,7 @@
+DesertHut,-2546,-2536,594,603
+P_TempleOfErolith,-2529,-2436,845,927
+P_Village2Story,-2414,-2408,734,747
+VillageMarketplace,-2378,-2364,705,719
+VillageMarketplace,-2378,-2364,705,719
+RLCraft_Vineyard,-2376,-2348,726,746
+P_VillageFarmhouse,-2355,-2343,705,717

@@ -1,3 +1,16 @@
 DesertBeacon,-2829,-2823,528,534
 RLCraft_DecentSpider,-2795,-2795,634,634
 RLCraft_UndergroundRuin2,-2800,-2790,632,639
+RLCraft_BasicCaveSpider,-2853,-2853,646,646
+RLCraft_UndergroundRuin1,-2859,-2850,643,652
+P_Village2Story,-2774,-2768,681,694
+P_VillageFarmhouse,-2746,-2734,685,697
+VillageInn,-2716,-2689,690,710
+SeasonsGreenhouse,-2770,-2760,710,722
+VillageHouseRich,-2746,-2727,715,730
+RLCraft_Vineyard,-2716,-2696,712,740
+P_VillageHouse2,-2728,-2711,745,762
+RLCraft_SmallUndergroundSkeleton,-2758,-2750,807,815
+RLCraft_UndergroundFarm,-3062,-3019,698,740
+RLCraft_DecentCaveSpider,-2583,-2583,860,860
+RLCraft_UndergroundRuin2,-2588,-2581,855,865
