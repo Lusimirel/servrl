@@ -1,0 +1,4 @@
+SpiderPit,1867,1876,-4876,-4866
+StonePlantBoulder,1774,1784,-4730,-4720
+StonePlantBoulder,1894,1904,-4922,-4912
+StoneLeafMound,1860,1867,-4918,-4909

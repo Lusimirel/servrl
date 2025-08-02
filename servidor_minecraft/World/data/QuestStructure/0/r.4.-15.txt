@@ -1,0 +1,2 @@
+StonePlantMound4,2334,2341,-7685,-7678
+P_RuinedHouse,2236,2261,-7691,-7674

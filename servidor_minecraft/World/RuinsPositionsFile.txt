@@ -9,6 +9,7 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-7614 69 1315 -7602 114 1327 TowerEasy.tml
 -5824 89 -650 -5816 99 -642 LargeStoneHouseWBasement.tml
 -5794 72 -553 -5790 74 -549 EmeraldOreOutcrop.tml
 -5751 63 -405 -5721 106 -375 SkyCastle.tml
@@ -21,6 +22,7 @@
 -5562 62 -642 -5554 68 -634 ShortTower.tml
 -5540 68 -269 -5537 74 -265 StonePillar.tml
 -5524 63 -363 -5511 95 -350 OreSpire.tml
+-5477 73 -608 -5469 83 -600 LargeStoneHouseWBasement.tml
 -5459 54 -489 -5452 64 -482 BridgePilings-sm2.tml
 -5419 72 -384 -5409 82 -372 Piston-LavaTrap.tml
 -5400 68 -282 -5393 72 -275 TinyFarmField.tml
@@ -73,8 +75,8 @@
 -4354 68 135 -4346 78 143 LargeStoneHouseWBasement.tml
 -4352 72 -569 -4343 75 -560 RuinedSmallFountainDiagonal.tml
 -4328 63 -814 -4298 106 -784 SkyCastle.tml
--4325 63 -108 -4320 68 -101 ZombieHut.tml
 -4325 61 -182 -4322 67 -178 StonePillar.tml
+-4325 63 -108 -4320 68 -101 ZombieHut.tml
 -4321 62 -687 -4310 111 -676 LightHouse.tml
 -4309 64 -30 -4296 75 -17 BlockHenge.tml
 -4303 66 50 -4294 74 65 Archway.tml
@@ -85,8 +87,8 @@
 -4220 65 -75 -4212 71 -67 ShortTower.tml
 -4219 68 112 -4207 113 124 TowerMedium.tml
 -4202 67 32 -4197 75 37 PillarBase.tml
--4132 60 -488 -4125 70 -481 BridgePilings-sm2.tml
 -4132 66 -602 -4127 74 -597 PillarBase.tml
+-4132 60 -488 -4125 70 -481 BridgePilings-sm2.tml
 -4130 75 -116 -4122 81 -108 LargeStoneHouse.tml
 -4097 63 -413 -4090 76 -407 TP_FishingShack.tml
 -4084 66 -745 -4071 75 -732 VolcanicVent.tml
@@ -99,8 +101,8 @@
 -3971 96 138 -3967 98 142 EmeraldOreOutcrop.tml
 -3953 66 49 -3941 73 60 SandstoneHouse1_Intact.tml
 -3942 49 -287 -3906 68 -276 SunkenShip-v2.tml
--3916 48 -636 -3908 60 -610 shipwreck.tml
 -3916 47 -198 -3908 59 -172 shipwreck.tml
+-3916 48 -636 -3908 60 -610 shipwreck.tml
 -3913 62 -101 -3911 66 -98 SkeletonHeadStatue.tml
 -3865 67 165 -3854 78 176 SandTrap.tml
 -3839 70 87 -3830 73 96 RuinedSmallFountainDiagonal.tml
@@ -126,15 +128,15 @@
 -3482 68 66 -3474 74 76 VanillaVillageForge-p.tml
 -3476 63 -823 -3445 103 -793 CastleOcean.tml
 -3463 32 -254 -3437 44 -246 shipwreck.tml
--3436 63 -801 -3406 103 -770 CastleOcean.tml
 -3436 65 -566 -3426 82 -556 WatchtowerRuined.tml
+-3436 63 -801 -3406 103 -770 CastleOcean.tml
 -3421 67 -68 -3418 71 -65 StoneGrill.tml
 -3419 68 -163 -3411 76 -152 MinersHut.tml
 -3417 82 -356 -3414 86 -353 StoneGrill.tml
 -3414 31 -788 -3406 43 -762 shipwreck.tml
 -3404 70 -461 -3399 81 -452 VanillaVillageChurch-r.tml
--3403 66 103 -3396 69 108 PumpkinField.tml
 -3403 63 17 -3391 87 29 Tower-ruined-short.tml
+-3403 66 103 -3396 69 108 PumpkinField.tml
 -3383 63 -919 -3353 106 -889 SkyCastle.tml
 -3351 71 -636 -3344 75 -629 TinyFarmField.tml
 -3342 66 -198 -3334 76 -190 TallTower.tml
@@ -214,6 +216,26 @@
 226 72 327 234 78 335 ShortTower.tml
 303 83 142 314 94 151 ArrowTrapTomb.tml
 309 79 40 313 81 44 EmeraldOreOutcrop.tml
+1786 63 -4714 1799 73 -4702 WaterTrapRoom.tml
+1808 62 -4892 1816 71 -4884 LargeStoneTwoStoryHouse.tml
+1808 61 -4808 1813 69 -4803 PillarBase.tml
+1883 63 -4602 1914 103 -4572 CastleOcean.tml
+1884 62 -4687 1896 84 -4675 BaloonVeryLow.tml
+1885 62 -4889 1888 68 -4885 StonePillar.tml
+1885 51 -4778 1921 62 -4767 SunkenShip-v3.tml
+1886 52 -4770 1922 63 -4759 SunkenShip-v3.tml
+1963 49 -4879 1999 68 -4868 SunkenShip-v2.tml
+1970 45 -4693 1996 57 -4685 shipwreck.tml
+2004 63 -4775 2016 104 -4763 BaloonLow.tml
+2245 63 -7489 2257 117 -7477 BaloonHigh.tml
+2265 47 -7617 2276 66 -7581 SunkenShip-v2.tml
+2343 36 -7531 2369 48 -7523 shipwreck.tml
+2354 63 -7446 2389 73 -7412 UnderwaterBase.tml
+2434 63 -7547 2464 103 -7516 CastleOcean.tml
+2458 64 -7632 2462 66 -7628 EmeraldOreOutcrop.tml
+2513 63 -7451 2543 106 -7421 SkyCastle.tml
+2533 63 -7582 2540 76 -7576 TP_FishingShack.tml
+2536 102 -7660 2539 108 -7656 StonePillar.tml
 3091 77 8312 3098 81 8319 TinyFarmField.tml
 3109 61 7946 3120 71 7957 BridgePilings-lg2.tml
 3118 67 8236 3123 72 8242 VanillaVillageCobbleHouse-r.tml
@@ -229,8 +251,8 @@
 3315 61 8025 3319 69 8029 SmallWell.tml
 3322 91 8298 3330 101 8306 LargeStoneHouseWBasement.tml
 3362 62 7851 3365 68 7855 StonePillar.tml
-3375 62 7851 3385 79 7861 WatchtowerRuined.tml
 3375 63 8221 3382 76 8227 TP_FishingShack.tml
+3375 62 7851 3385 79 7861 WatchtowerRuined.tml
 3384 36 8039 3410 48 8047 shipwreck.tml
 3391 45 7938 3402 56 7974 SunkenShip-v3.tml
 3467 63 8113 3497 106 8143 SkyCastle.tml

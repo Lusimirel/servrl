@@ -280,6 +280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-01 23:59:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-31 18:13:04 +0000"
@@ -670,6 +676,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-31 19:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-01 23:59:04 +0000"
     },
     "done": true
   },
@@ -1253,6 +1265,12 @@
   "reskillable:main/root": {
     "criteria": {
       "level_up": "2025-07-31 16:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-01 23:59:04 +0000"
     },
     "done": true
   },
