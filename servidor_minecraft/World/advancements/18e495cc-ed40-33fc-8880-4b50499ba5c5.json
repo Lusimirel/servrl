@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-08-02 05:00:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 18:18:17 +0000"

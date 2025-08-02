@@ -37,3 +37,10 @@ RLCraft_UndergroundRuin2,-5572,-5565,-1463,-1453
 VillageForgeLarge,-5578,-5562,-1459,-1447
 P_VillageHouse,-5594,-5583,-1482,-1473
 VillageTriplets,-5597,-5583,-1459,-1445
+StonePlantMound4,-5399,-5392,-1198,-1191
+StonePlantMound4,-5404,-5397,-1143,-1136
+StonePlantMound2,-5469,-5456,-1114,-1102
+StonePlantBoulder,-5493,-5483,-1133,-1123
+StoneBoulder,-5498,-5489,-1208,-1199
+StonePlantMound3,-5493,-5484,-1163,-1152
+StonePlantMound1,-5486,-5480,-1053,-1047
