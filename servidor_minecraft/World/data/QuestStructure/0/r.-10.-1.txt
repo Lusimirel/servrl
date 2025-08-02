@@ -21,3 +21,8 @@ RLCraft_DecentWitch,-5132,-5132,-726,-726
 RLCraft_UndergroundRuin3,-5135,-5127,-728,-720
 StonePlantMound3,-5173,-5164,-769,-758
 MysticalTree,-5242,-5227,-835,-819
+VillageLargeLibrary,-5323,-5303,-903,-884
+VillageGuardTower,-5296,-5284,-924,-912
+SeasonsGreenhouse,-5296,-5284,-941,-931
+P_VillageInn,-5324,-5315,-934,-923
+VillageTriplets,-5349,-5335,-938,-924

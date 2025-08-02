@@ -1,0 +1,6 @@
+StonePlantMound1,-577,-571,-8839,-8833
+RLCraft_DecentCaveSpider,-601,-601,-8732,-8732
+RLCraft_UndergroundRuin2,-606,-599,-8737,-8727
+StoneBoulder,-656,-647,-8899,-8890
+StonePlantMound,-700,-695,-8910,-8905
+StonePlantMound2,-684,-672,-8915,-8902

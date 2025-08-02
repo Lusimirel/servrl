@@ -132,3 +132,21 @@
 [01:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lumi_uwu> tp tp tp tp
 [01:11:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
 [01:13:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Kao to Octlopez04]
+[01:17:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Ioray  Lvl 3
+[01:17:48] [Thread-159/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5d715e32-995d-33dc-af6d-a80ee555a961.
+[01:17:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[01:17:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu died from hypothermia
+[01:17:57] [Thread-161/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[01:18:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was pummeled by Ioray  Lvl 3
+[01:18:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Kao]
+[01:18:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:18:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:18:19] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:18:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:18:28] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:18:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:20:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao was slain by Sea Serpent
+[01:21:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3461ms behind, skipping 69 tick(s)
+[01:21:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Opped Lumi_uwu]
+[01:22:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Kao to Lumi_uwu]
+[01:23:34] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Lumi_uwu)
