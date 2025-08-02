@@ -27,3 +27,5 @@
 [00:03:29] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
 [00:03:29] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
 [00:04:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao has made the advancement [Getting an Upgrade]
+[00:05:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao has made the advancement [Sweet dreams]
+[00:08:28] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Octlopez04)
