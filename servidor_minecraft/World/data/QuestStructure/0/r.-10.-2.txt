@@ -29,3 +29,5 @@ RLCraft_Vineyard,-5539,-5519,-1502,-1474
 StoneBoulder,-5559,-5550,-1523,-1514
 VillageLargeLibrary,-5562,-5543,-1520,-1500
 VillageMarketplace,-5544,-5530,-1459,-1445
+VillageWoodMill,-5562,-5546,-1476,-1463
+P_VillageFarmhouse,-5561,-5549,-1459,-1447
