@@ -19,3 +19,5 @@ RLCraft_UndergroundRuin2,-5409,-5399,-716,-709
 StonePlantMound2,-5286,-5274,-727,-714
 RLCraft_DecentWitch,-5132,-5132,-726,-726
 RLCraft_UndergroundRuin3,-5135,-5127,-728,-720
+StonePlantMound3,-5173,-5164,-769,-758
+MysticalTree,-5242,-5227,-835,-819

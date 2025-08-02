@@ -1,1 +1,5 @@
 ShrineSmallWater,-4652,-4644,-535,-527
+StonePlantMound1,-5121,-5115,-673,-667
+RLCraft_PlainsCamp,-5119,-5073,-693,-654
+RLCraft_BasicSkeleton,-4991,-4991,-670,-670
+RLCraft_UndergroundRuin1,-4997,-4988,-673,-664
