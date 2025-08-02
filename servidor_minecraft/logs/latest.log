@@ -3729,3 +3729,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [05:01:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao was slain by Sea Serpent
 [05:01:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3117ms behind, skipping 62 tick(s)
 [05:02:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Survival Mode]
+[05:02:42] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[05:02:42] [Server thread/INFO] [RB-Transformer]:  - <init>
+[05:02:42] [Server thread/INFO] [RB-Transformer]:  - Done
+[05:02:42] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[05:02:42] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[05:02:42] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[05:03:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao was pummeled by Jengu  Lvl 3
+[05:03:17] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2075ms behind, skipping 41 tick(s)
+[05:03:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao was slain by Hippogryph
+[05:03:26] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -6712 | -8728 ], underground: false
+[05:03:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lumi_uwu: Set own game mode to Adventure Mode]
+[05:03:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lumi_uwu: Set own game mode to Survival Mode]
+[05:03:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao was slain by Sea Serpent
+[05:03:58] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:03:58] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:03:58] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:03:58] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:04:00] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3095ms behind, skipping 61 tick(s)
+[05:04:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [XP Tome] * 1 to Octlopez04]
+[05:04:16] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 2408 | -344 ], underground: true
+[05:04:23] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:04:23] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:04:23] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:04:23] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:05:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Kao]
+[05:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[05:14:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Reaper  Lvl 4
+[05:15:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3664ms behind, skipping 73 tick(s)
+[05:15:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[05:16:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Reaper  Lvl 5
+[05:16:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[05:17:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Reaper  Lvl 4
+[05:17:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[05:19:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao has made the advancement [Best Friends Forever]
+[05:21:53] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair
+[05:21:53] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [updateRepairOutput, func_82848_d, e] Descriptor ()V / ()V)
+[05:21:53] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[05:21:53] [Server thread/INFO] [Meson ASM]: Located target ICONST_0
+[05:21:53] [Server thread/INFO] [Meson ASM]: Patch result: true
+[05:21:53] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair2
+[05:21:53] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [canTakeStack, func_82869_a, a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Z / (Laed;)Z)
+[05:21:53] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[05:21:53] [Server thread/INFO] [Meson ASM]: Located target IFLE L0
+[05:21:53] [Server thread/INFO] [Meson ASM]: Patch result: true
+[05:23:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 died from hypothermia

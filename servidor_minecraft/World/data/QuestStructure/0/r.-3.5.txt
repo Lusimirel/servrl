@@ -1,0 +1,5 @@
+RLCraft_SmallUndergroundSkeleton,-1849,-1841,3024,3032
+RLCraft_4Towers,-1980,-1928,3022,3082
+StoneIceBoulder1,-1981,-1971,2967,2977
+ShrineSmallAir,-1742,-1734,2917,2925
+StoneIceBoulder,-1711,-1702,2934,2944

@@ -5,3 +5,13 @@ DesertHut,71,81,-6113,-6104
 RLCraft_DecentWitch,123,123,-5882,-5882
 RLCraft_UndergroundRuin2,121,128,-5887,-5877
 StonePlantBoulder,254,264,-6058,-6048
+StoneLeafMound,-372,-365,-6010,-6001
+ShrineSmallAir,-382,-374,-6103,-6095
+MeteorSite,-397,-382,-6007,-5977
+StoneLeafMound,-298,-289,-6006,-5999
+MysticalTree,-402,-387,-5958,-5942
+ClayWaterMound1,-426,-416,-5964,-5953
+UndergroundTreeoid,-283,-257,-5975,-5952
+StonePlantMound2,-451,-438,-6146,-6134
+PeacefulCrypt,-234,-218,-5938,-5914
+StonePlantMound4,-226,-219,-5905,-5898
