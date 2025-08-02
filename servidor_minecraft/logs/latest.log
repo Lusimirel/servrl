@@ -150,3 +150,26 @@
 [01:21:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Opped Lumi_uwu]
 [01:22:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Kao to Lumi_uwu]
 [01:23:34] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Lumi_uwu)
+[01:26:21] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-5041, y=67, z=-636}
+[01:26:21] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-5041, y=67, z=-636}
+[01:26:21] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-6043, y=64, z=5727}
+[01:26:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kao moved too quickly! -1001.6825721891819,-3.0,6363.131095857781
+[01:26:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3140ms behind, skipping 62 tick(s)
+[01:27:12] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:27:12] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:27:12] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:27:12] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:27:12] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:27:12] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:27:12] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[01:27:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Kao to Lumi_uwu]
+[01:27:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:29:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Kao to Lumi_uwu]
+[01:29:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kao lost connection: Disconnected
+[01:29:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kao left the game
+[01:29:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Jengu  Lvl 3
+[01:30:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:32:38] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -306 and chunkZ -51...
+[01:32:39] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": -5127, "y": 0, "z": -779}...
+[01:32:40] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": -5127, "y": 0, "z": -779}.
+[01:32:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved too quickly! 10.056646092802112,0.8699999749660492,-1.4625489473073685

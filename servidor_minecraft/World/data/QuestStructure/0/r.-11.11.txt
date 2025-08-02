@@ -1,0 +1,11 @@
+StonePlantMound2,-5969,-5957,5755,5768
+RLCraft_SwampHut,-6027,-5995,5782,5822
+DinosaurSkull,-6120,-6109,5836,5855
+VillageMarketplace,-5914,-5900,5878,5892
+StonePlantMound,-5887,-5882,5832,5837
+VillageWoodMill,-5882,-5866,5840,5853
+RLCraft_DecentSkeleton,-5992,-5992,5905,5905
+RLCraft_UndergroundRuin2,-5994,-5987,5900,5910
+VillageLargeLibrary,-5913,-5893,5901,5920
+P_VillageFarmhouse,-5878,-5866,5878,5890
+P_VillageHouse,-5879,-5868,5901,5910

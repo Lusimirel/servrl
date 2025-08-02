@@ -1,0 +1,13 @@
+RLCraft_BasicWitch,-5078,-5078,-1035,-1035
+RLCraft_UndergroundRuin1,-5084,-5075,-1041,-1032
+StonePlantBoulder,-4912,-4902,-1093,-1083
+StonePlantMound,-4794,-4789,-1030,-1025
+ForestBeacon,-5002,-4994,-1115,-1107
+StonePlantMound4,-4745,-4738,-1062,-1055
+ClayWaterMound,-4728,-4721,-1048,-1040
+RLCraft_BasicCaveSpider,-5004,-5004,-1146,-1146
+RLCraft_UndergroundRuin1,-5010,-5001,-1149,-1140
+RLCraft_SmallUndergroundSkeleton,-4991,-4983,-1143,-1135
+BrickHenge,-4992,-4976,-1148,-1132
+StonePlantBoulder,-4940,-4930,-1152,-1142
+ShrineSmallAir,-4622,-4614,-1188,-1180
