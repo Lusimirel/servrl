@@ -199,3 +199,5 @@
 [02:00:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [02:00:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [02:04:08] [Server thread/INFO] [STDOUT]: [levelup2.skills.mining.DiggingTreasureBonus:dirtLooting:57]: ItemStack: 1xtile.dirt@0
+[02:06:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was shot by Skeleton
+[02:07:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
