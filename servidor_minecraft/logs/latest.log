@@ -3846,3 +3846,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [02:47:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Ender Queen's Crown] * 1 to Octlopez04]
 [02:52:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Darkling  Lvl 3
 [02:52:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[03:01:58] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Lumi_uwu)
+[03:06:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[03:07:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Wraamon  Lvl 3
+[03:07:34] [Thread-312/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[03:07:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Violet Chupacabra  Lvl 3
+[03:07:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Grave Scroll] * 1 to Octlopez04]
+[03:08:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Grave Scroll] * 1 to Octlopez04]
+[03:08:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -103.17318447004891,-175.0,208.27611366628662
+[03:08:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:08:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved too quickly! -100.5,-171.0,197.5
+[03:08:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu walked into fire whilst fighting Octlopez04
+[03:09:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[03:10:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Spectre  Lvl 3
+[03:10:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[03:10:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Spectre  Lvl 3
+[03:11:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[03:16:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Recall Potion] * 1 to Octlopez04]
+[03:16:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Recall Potion] * 1 to Octlopez04]
+[03:16:11] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-4288, y=19, z=171}
+[03:16:11] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-4288, y=19, z=171}
+[03:16:12] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-4187, y=194, z=-33}
+[03:16:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved too quickly! 101.19999998807907,175.0,-203.94262698049423
+[03:16:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[03:17:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu lost connection: Disconnected
+[03:17:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu left the game
+[03:17:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 lost connection: Disconnected
+[03:17:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 left the game
