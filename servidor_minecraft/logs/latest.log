@@ -3743,3 +3743,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [01:19:26] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
 [01:24:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was shot by Skeleton
 [01:24:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:39:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:45:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Enderman
+[01:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]

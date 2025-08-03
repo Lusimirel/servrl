@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-03 01:46:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-07-31 17:32:16 +0000"
@@ -886,6 +892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-03 01:46:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "wither_skeleton": "2025-08-01 04:44:14 +0000",
@@ -1416,6 +1428,12 @@
   "mujmajnkraftsbettersurvival:wood_hammer": {
     "criteria": {
       "has_stick": "2025-07-31 16:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2025-08-03 01:46:21 +0000"
     },
     "done": true
   },
