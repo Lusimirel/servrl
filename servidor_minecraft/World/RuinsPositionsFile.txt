@@ -233,6 +233,7 @@
 -4408 64 -242 -4398 74 -230 Piston-LavaTrap.tml
 -4403 50 -743 -4395 62 -717 shipwreck.tml
 -4399 65 -365 -4394 73 -360 PillarBase.tml
+-4371 65 262 -4364 68 267 Melonfield.tml
 -4368 64 -459 -4360 70 -451 LargeStoneHouse.tml
 -4354 68 135 -4346 78 143 LargeStoneHouseWBasement.tml
 -4352 72 -569 -4343 75 -560 RuinedSmallFountainDiagonal.tml
