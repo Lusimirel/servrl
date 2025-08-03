@@ -3752,3 +3752,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [01:55:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [01:56:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Zombie
 [01:56:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:57:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Banshee  Lvl 3
+[01:57:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:02:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Darkling  Lvl 3
+[02:02:33] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[02:02:33] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[02:02:34] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[02:02:34] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[02:02:34] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[02:02:35] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[02:02:35] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[02:02:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:04:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:05:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved wrongly!
+[02:06:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Grue  Lvl 3
+[02:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
