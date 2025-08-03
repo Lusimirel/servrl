@@ -3720,3 +3720,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [00:43:02] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Lumi_uwu
 [00:43:02] [Server thread/INFO] [XAT]: Syncing Config to Lumi_uwu
 [00:43:03] [Thread-75/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[00:56:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:59:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Zephyr  Lvl 3
+[01:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 died to water while wearing an Ender Queen's Crown
+[01:01:48] [Thread-103/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5d715e32-995d-33dc-af6d-a80ee555a961.
+[01:02:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:04:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Creative Mode]
