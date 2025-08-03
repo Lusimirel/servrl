@@ -3825,3 +3825,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [02:36:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Verdant Volcan  Lvl 3
 [02:37:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Verdant Volcan  Lvl 3
 [02:37:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set Lumi_uwu's game mode to Creative Mode]
+[02:37:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Creative Mode]
+[02:37:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved too quickly! -69.5,-174.0,158.5
+[02:37:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -66.4476371516621,-172.5625,150.12190615898027
+[02:37:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Survival Mode]
+[02:39:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Arrow] * 64 to Octlopez04]
+[02:39:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Arrow] * 64 to Octlopez04]
+[02:39:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Arrow] * 64 to Octlopez04]
+[02:39:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lumi_uwu: Set own game mode to Survival Mode]
+[02:42:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Darkling  Lvl 3
+[02:42:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 was slain by Darkling  Lvl 3
+[02:42:10] [Thread-274/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5d715e32-995d-33dc-af6d-a80ee555a961.
+[02:42:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Grave Scroll] * 1 to Octlopez04]
+[02:42:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Grave Scroll] * 1 to Octlopez04]
+[02:42:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved too quickly! -51.616876762987886,-167.5625,142.8389864240122
+[02:42:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -54.82027557878973,-173.0,147.67816926089242
+[02:44:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:45:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Violet Gnekk  Lvl 3
+[02:45:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[02:47:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Ender Queen's Crown] * 1 to Octlopez04]
