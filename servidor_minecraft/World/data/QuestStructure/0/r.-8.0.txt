@@ -300,3 +300,4 @@ PyramidMazePath,-4347,-4345,249,251
 PyramidMazeStairCorridor,-4353,-4348,249,251
 PyramidMazePath,-4356,-4354,249,251
 PyramidMazePagoda,-4380,-4333,243,290
+RLCraft_SmallUndergroundSkeleton,-4416,-4408,184,192
