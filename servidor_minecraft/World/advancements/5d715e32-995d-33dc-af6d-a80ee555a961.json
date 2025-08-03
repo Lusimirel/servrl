@@ -1641,6 +1641,12 @@
     },
     "done": true
   },
+  "qualitytools:recipes/qualitytools/reforging_station": {
+    "criteria": {
+      "has_anvil": "2025-08-03 20:22:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2025-07-31 19:33:39 +0000"

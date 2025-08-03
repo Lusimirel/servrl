@@ -15,3 +15,4 @@ RLCraft_UndergroundFarm,-3062,-3019,698,740
 RLCraft_DecentCaveSpider,-2583,-2583,860,860
 RLCraft_UndergroundRuin2,-2588,-2581,855,865
 ShrineSmallEarth,-2625,-2613,994,1006
+RLCraft_SmallUndergroundSkeleton,-2733,-2725,1001,1009
