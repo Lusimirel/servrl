@@ -1,1 +1,9 @@
 VillageHouseRich,2578,2593,-190,-171
+SmallWoodenCottage1,2607,2613,-345,-334
+VillageGuardTower,2609,2621,-190,-178
+RLCraft_PlainsCamp,2597,2636,-474,-428
+StonePlantMound1,2642,2648,-318,-312
+SeasonsGreenhouse,2630,2642,-243,-233
+P_VillageFarmhouse,2630,2642,-202,-190
+RLCraft_SmallUndergroundSkeleton,2627,2635,-196,-188
+VillageWoodMill,2631,2644,-181,-165

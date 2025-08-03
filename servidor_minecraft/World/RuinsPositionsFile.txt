@@ -681,6 +681,7 @@
 2545 61 -196 2556 76 -183 StoneHouseM.tml
 2565 67 -352 2572 71 -345 TinyFarmField.tml
 2568 70 -470 2579 81 -455 Barn-intact.tml
+2632 69 -251 2640 79 -243 LargeStoneHouseWBasement.tml
 3091 77 8312 3098 81 8319 TinyFarmField.tml
 3109 61 7946 3120 71 7957 BridgePilings-lg2.tml
 3118 67 8236 3123 72 8242 VanillaVillageCobbleHouse-r.tml
