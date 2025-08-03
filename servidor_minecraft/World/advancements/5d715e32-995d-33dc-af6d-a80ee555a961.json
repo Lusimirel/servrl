@@ -915,6 +915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-08-03 00:38:47 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/misc/idol_sorrow": {
     "criteria": {
       "has_material": "2025-07-31 19:32:22 +0000"
@@ -954,6 +960,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-02 05:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-08-03 00:38:47 +0000"
     },
     "done": true
   },
