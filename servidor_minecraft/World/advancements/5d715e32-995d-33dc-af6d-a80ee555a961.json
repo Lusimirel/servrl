@@ -933,6 +933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-03 02:48:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-08-03 00:38:47 +0000"
@@ -1731,6 +1737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-03 02:48:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-08-02 01:10:30 +0000",
@@ -2079,6 +2091,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_the_recipe": "2025-07-31 17:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-03 02:48:27 +0000"
     },
     "done": true
   },
