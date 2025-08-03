@@ -3732,3 +3732,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [01:10:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lumi_uwu: Set own game mode to Survival Mode]
 [01:14:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3802ms behind, skipping 76 tick(s)
 [01:14:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved too quickly! 4.257562293199044,0.0,9.166861577772323
+[01:16:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Zombie
+[01:16:39] [Thread-125/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[01:16:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:19:23] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[01:19:23] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[01:19:25] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[01:19:25] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[01:19:26] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[01:19:26] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[01:24:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was shot by Skeleton
+[01:24:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
