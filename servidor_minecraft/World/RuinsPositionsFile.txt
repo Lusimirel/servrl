@@ -322,12 +322,14 @@
 -3482 68 66 -3474 74 76 VanillaVillageForge-p.tml
 -3482 69 329 -3479 73 332 StoneGrill.tml
 -3476 63 -823 -3445 103 -793 CastleOcean.tml
+-3468 72 813 -3465 78 817 StonePillar.tml
 -3466 64 426 -3459 68 433 TinyFarmField.tml
 -3463 32 -254 -3437 44 -246 shipwreck.tml
 -3446 55 572 -3435 65 583 BridgePilings-lg2.tml
 -3436 63 -801 -3406 103 -770 CastleOcean.tml
 -3436 65 -566 -3426 82 -556 WatchtowerRuined.tml
 -3429 62 244 -3421 71 252 LargeStoneTwoStoryHouse.tml
+-3424 87 727 -3417 94 734 Outcrop.tml
 -3421 67 -68 -3418 71 -65 StoneGrill.tml
 -3419 68 -163 -3411 76 -152 MinersHut.tml
 -3417 82 -356 -3414 86 -353 StoneGrill.tml
@@ -349,8 +351,11 @@
 -3296 64 353 -3291 69 359 VanillaVillageCobbleHouse-r.tml
 -3291 63 -817 -3261 100 -787 PirateShip.tml
 -3282 63 464 -3271 74 479 Barn-ruined.tml
+-3278 87 650 -3274 89 654 EmeraldOreOutcrop.tml
 -3261 90 -325 -3258 96 -321 StonePillar.tml
 -3254 72 44 -3247 79 51 Outcrop.tml
+-3253 73 725 -3245 79 733 LargeStoneHouse.tml
+-3252 68 560 -3243 76 568 VanillaVillageLibrary-p.tml
 -3235 64 170 -3230 69 177 SandstoneRuin.tml
 -3230 69 -118 -3221 72 -109 RuinedSmallFountainDiagonal.tml
 -3229 95 -190 -3222 99 -183 TinyFarmField.tml
@@ -362,6 +367,7 @@
 -3193 62 -380 -3185 71 -372 LargeStoneTwoStoryHouse.tml
 -3169 63 -946 -3137 76 -914 Floater.tml
 -3168 69 -477 -3154 78 -469 SandstoneBld4_Ruined.tml
+-3166 85 646 -3163 89 648 SkeletonHeadStatue.tml
 -3163 71 -735 -3156 75 -726 SandstoneStructure2_Ruined.tml
 -3163 62 208 -3155 68 216 ShortTower.tml
 -3148 68 -815 -3144 70 -811 EmeraldOreOutcrop.tml
