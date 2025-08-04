@@ -308,12 +308,15 @@
 -3653 70 385 -3644 78 400 Archway.tml
 -3635 71 496 -3622 79 503 SandstoneBld2_Ruined.tml
 -3623 67 580 -3615 113 588 SandCastle.tml
+-3621 65 655 -3606 74 670 littlepyramid.tml
 -3599 64 -9 -3584 75 2 Barn-ruined.tml
 -3590 65 282 -3583 144 287 Monolith.tml
 -3589 48 -124 -3578 67 -88 SunkenShip-v2.tml
 -3573 62 98 -3570 68 102 StonePillar.tml
 -3573 69 355 -3565 74 364 SandstoneHouse3_Ruined.tml
 -3539 63 -607 -3505 73 -572 UnderwaterBase.tml
+-3536 64 730 -3525 75 745 Barn-intact.tml
+-3536 62 648 -3530 73 654 Obelisk.tml
 -3534 69 171 -3526 115 179 SandCastle.tml
 -3533 64 552 -3526 69 563 SandstoneBld5_Ruined.tml
 -3515 63 -21 -3504 74 -12 ArrowTrapTomb.tml
