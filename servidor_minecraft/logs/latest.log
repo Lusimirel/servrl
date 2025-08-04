@@ -3736,3 +3736,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [02:28:56] [Server thread/INFO] [antiqueatlas]: Created new marker #1"Base LusiMirel"@(-4186, -27)
 [02:28:57] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player Octlopez04
 [02:29:33] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[02:36:23] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Octlopez04)
+[02:38:11] [Server thread/INFO] [antiqueatlas]: Created new marker #2"Base Octoplez"@(-2778, 457)
+[02:38:33] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[02:40:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [En Garde!]
+[02:41:57] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair
+[02:41:57] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [updateRepairOutput, func_82848_d, e] Descriptor ()V / ()V)
+[02:41:57] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[02:41:57] [Server thread/INFO] [Meson ASM]: Located target ICONST_0
+[02:41:57] [Server thread/INFO] [Meson ASM]: Patch result: true
+[02:41:57] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair2
+[02:41:57] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [canTakeStack, func_82869_a, a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Z / (Laed;)Z)
+[02:41:57] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[02:41:57] [Server thread/INFO] [Meson ASM]: Located target IFLE L0
+[02:41:57] [Server thread/INFO] [Meson ASM]: Patch result: true
