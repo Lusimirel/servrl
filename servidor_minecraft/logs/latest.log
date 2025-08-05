@@ -3825,3 +3825,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:45:42] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [22:52:44] [Server thread/INFO] [antiqueatlas]: Created new marker #8"cofre"@(-3284, -811)
 [22:53:12] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:59:12] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:01:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [Enchanter]
