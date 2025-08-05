@@ -43,3 +43,7 @@ StonePlantBoulder,-5093,-5083,190,200
 Tree_Oak_TheMushroomOak_v3,-5046,-4996,163,222
 StonePlantMound1,-5011,-5005,269,275
 P_RuinedHouse,-5006,-4989,280,305
+StonePlantMound1,-4755,-4749,254,260
+StonePlantMound3,-4805,-4796,238,249
+StonePlantMound1,-4839,-4833,254,260
+StonePlantMound3,-4798,-4789,259,270

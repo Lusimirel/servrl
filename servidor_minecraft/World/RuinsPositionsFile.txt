@@ -208,6 +208,7 @@
 -4783 59 -209 -4772 69 -198 BridgePilings-lg2.tml
 -4776 62 -1118 -4768 72 -1110 LargeStoneHouseWBasement.tml
 -4758 66 149 -4756 70 152 SkeletonHeadStatue.tml
+-4757 69 242 -4740 96 259 StoneHenge.tml
 -4744 123 -126 -4737 130 -119 Outcrop.tml
 -4734 63 -511 -4722 104 -499 BaloonLow.tml
 -4734 68 53 -4717 101 70 SpiralTree.tml
@@ -220,10 +221,12 @@
 -4594 62 -381 -4585 70 -366 Archway.tml
 -4581 63 78 -4572 74 83 VanillaVillageChurch-r.tml
 -4574 54 -178 -4567 64 -171 BridgePilings-sm2.tml
+-4563 72 215 -4558 80 220 PillarBase.tml
 -4556 68 -61 -4551 76 -56 PillarBase.tml
 -4535 49 -706 -4499 60 -695 SunkenShip-v3.tml
 -4534 62 -490 -4522 84 -478 BaloonVeryLow.tml
 -4529 48 -691 -4518 59 -655 SunkenShip-v3.tml
+-4492 53 172 -4481 62 183 BridgePilings2_river.tml
 -4485 63 -230 -4482 67 -227 StoneGrill.tml
 -4481 67 20 -4469 112 32 TowerEasy.tml
 -4478 70 -57 -4469 78 -49 WoodHouse_Intact.tml

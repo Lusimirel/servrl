@@ -3705,3 +3705,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:08:58] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
 [21:08:58] [Server thread/INFO] [Meson ASM]: Patch result: true
 [21:10:28] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.routine.IAFOldDeathWormRoutine$WrappedProximityTaskOldDeathWorm
+[21:21:15] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[21:21:15] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[21:26:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Creative Mode]
+[21:26:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Survival Mode]
+[21:28:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 lost connection: Disconnected
+[21:28:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 left the game
