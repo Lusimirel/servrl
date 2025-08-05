@@ -3821,3 +3821,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:43:45] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
 [22:43:45] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
 [22:43:45] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[22:45:12] [Server thread/INFO] [antiqueatlas]: Created new marker #7"lucatrest river"@(-3177, -778)
+[22:45:42] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:52:44] [Server thread/INFO] [antiqueatlas]: Created new marker #8"cofre"@(-3284, -811)
+[22:53:12] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
