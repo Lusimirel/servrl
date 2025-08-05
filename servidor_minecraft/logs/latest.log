@@ -3799,3 +3799,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:32:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [22:32:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [22:32:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Survival Mode]
+[22:34:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Disenchantment Table] * 1 to Octlopez04]
+[22:34:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given 10000 experience to Octlopez04]
+[22:35:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given 10000 experience to Octlopez04]
+[22:42:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Lapis Lazuli Block] * 1 to Octlopez04]
+[22:42:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Lapis Lazuli Block] * 1 to Octlopez04]
+[22:42:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Lapis Lazuli Block] * 1 to Octlopez04]
+[22:42:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Lapis Lazuli Block] * 1 to Octlopez04]
+[22:42:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Lapis Lazuli Block] * 1 to Octlopez04]
+[22:42:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Lapis Lazuli Block] * 1 to Octlopez04]
+[22:42:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Lapis Lazuli Block] * 1 to Octlopez04]
+[22:42:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Lapis Lazuli Block] * 1 to Octlopez04]
+[22:42:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Lapis Lazuli Block] * 1 to Octlopez04]
+[22:42:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Lapis Lazuli Block] * 1 to Octlopez04]
+[22:42:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Lapis Lazuli Block] * 1 to Octlopez04]
+[22:42:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given 10000 experience to Octlopez04]
+[22:43:45] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[22:43:45] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[22:43:45] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[22:43:45] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[22:43:45] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[22:43:45] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[22:43:45] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
