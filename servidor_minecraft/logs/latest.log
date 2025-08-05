@@ -3683,3 +3683,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [20:52:30] [Server thread/INFO] [Meson ASM]: Located method, patching...
 [20:52:30] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
 [20:52:30] [Server thread/INFO] [Meson ASM]: Patch result: true
+[20:55:28] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair
+[20:55:28] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [updateRepairOutput, func_82848_d, e] Descriptor ()V / ()V)
+[20:55:28] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[20:55:28] [Server thread/INFO] [Meson ASM]: Located target ICONST_0
+[20:55:28] [Server thread/INFO] [Meson ASM]: Patch result: true
+[20:55:28] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair2
+[20:55:28] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [canTakeStack, func_82869_a, a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Z / (Laed;)Z)
+[20:55:28] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[20:55:28] [Server thread/INFO] [Meson ASM]: Located target IFLE L0
+[20:55:28] [Server thread/INFO] [Meson ASM]: Patch result: true
+[20:56:06] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[20:56:06] [Server thread/INFO] [RB-Transformer]:  - <init>
+[20:56:06] [Server thread/INFO] [RB-Transformer]:  - Done
+[20:56:06] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[20:56:06] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[20:56:06] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
