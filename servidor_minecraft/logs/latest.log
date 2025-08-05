@@ -3827,3 +3827,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:53:12] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [22:59:12] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [23:01:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [Enchanter]
+[23:05:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Anvil] * 1 to Octlopez04]
+[23:06:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Diamond Rapier] * 1 to Octlopez04]
+[23:06:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Diamond Rapier] * 1 to Octlopez04]
+[23:11:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Iron Tower Shield] * 1 to Octlopez04]
