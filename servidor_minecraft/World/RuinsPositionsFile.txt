@@ -53,9 +53,11 @@
 -6139 93 5717 -6137 97 5720 SkeletonHeadStatue.tml
 -6139 92 5631 -6135 100 5635 SmallWell.tml
 -6135 62 5912 -6132 66 5915 StoneGrill.tml
+-6089 46 -352 -6063 58 -344 shipwreck.tml
 -6058 93 5705 -6051 97 5712 TinyFarmField.tml
 -6056 63 5828 -6026 92 5858 Sphere.tml
 -6023 174 5632 -6020 178 5635 StoneGrill.tml
+-6019 60 -572 -6012 70 -565 BridgePilings-sm2.tml
 -5970 102 -934 -5959 110 -926 MinersHut.tml
 -5960 68 5735 -5951 71 5744 RuinedSmallFountainDiagonal.tml
 -5957 67 -806 -5945 71 -794 AncientFountain.tml

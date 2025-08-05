@@ -19,3 +19,4 @@ ShrineSmallEarth,-5919,-5907,-638,-626
 PeacefulCrypt,-5890,-5874,-620,-596
 StonePlantMound3,-5984,-5973,-758,-749
 ShrineSmallFire,-5985,-5975,-766,-756
+StonePlantMound3,-6012,-6001,-639,-630
