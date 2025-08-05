@@ -20,3 +20,17 @@ PeacefulCrypt,-5890,-5874,-620,-596
 StonePlantMound3,-5984,-5973,-758,-749
 ShrineSmallFire,-5985,-5975,-766,-756
 StonePlantMound3,-6012,-6001,-639,-630
+StoneBoulder,-6113,-6104,-624,-615
+BrickHenge,-6136,-6120,-662,-646
+RLCraft_SmallUndergroundSkeleton,-6082,-6074,-652,-644
+StonePlantMound4,-6026,-6019,-654,-647
+StonePlantMound1,-6120,-6114,-731,-725
+StonePlantMound1,-6140,-6134,-739,-733
+StonePlantBoulder,-6019,-6009,-765,-755
+StonePlantMound,-6081,-6076,-806,-801
+RLCraft_UndergroundRuin1,-6147,-6138,-823,-814
+StoneLeafMound,-6058,-6051,-874,-865
+StonePlantMound2,-6121,-6108,-922,-910
+StonePlantBoulder,-6145,-6135,-910,-900
+StonePlantMound3,-6145,-6134,-930,-921
+StonePlantBoulder,-6041,-6031,-941,-931

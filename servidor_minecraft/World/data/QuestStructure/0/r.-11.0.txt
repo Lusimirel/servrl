@@ -8,3 +8,4 @@ StoneLeafMound,-5975,-5968,-511,-502
 ElvenPond,-6059,-6030,-522,-492
 RLCraft_DecentWitch,-6083,-6083,-359,-359
 RLCraft_UndergroundRuin2,-6088,-6078,-361,-354
+ShrineSmallAir,-6111,-6103,-393,-385
