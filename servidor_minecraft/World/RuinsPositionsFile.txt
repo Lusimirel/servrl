@@ -41,6 +41,7 @@
 -7073 142 7909 -7069 148 7912 StonePillar.tml
 -7043 65 7860 -7039 73 7864 SmallWell.tml
 -6787 47 -8713 -6751 66 -8702 SunkenShip-v2.tml
+-6784 86 -1266 -6776 92 -1258 LargeStoneHouse.tml
 -6763 48 -8724 -6752 67 -8688 SunkenShip-v2.tml
 -6745 53 -8587 -6734 64 -8551 SunkenShip-v3.tml
 -6744 62 -8474 -6732 84 -8462 BaloonVeryLow.tml
@@ -52,6 +53,7 @@
 -6629 63 -8717 -6599 106 -8687 SkyCastle.tml
 -6572 46 -998 -6536 57 -987 SunkenShip-v3.tml
 -6567 100 -1320 -6563 106 -1317 StonePillar.tml
+-6565 82 -1394 -6557 92 -1386 LargeStoneHouseWBasement.tml
 -6557 129 -1066 -6553 137 -1062 SmallWell.tml
 -6535 64 -1212 -6531 69 -1206 VanillaVillageHut-r.tml
 -6533 63 -8659 -6499 73 -8624 UnderwaterBase.tml

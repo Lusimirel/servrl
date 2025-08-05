@@ -59,3 +59,6 @@ RLCraft_BasicSkeleton,-6675,-6675,-1288,-1288
 RLCraft_BasicSpider,-6685,-6685,-1280,-1280
 RLCraft_MegaBattleTower,-6713,-6657,-1326,-1270
 ShrineSmallEarth,-6704,-6692,-1189,-1177
+StonePlantMound,-6770,-6765,-1174,-1169
+StonePlantMound1,-6774,-6768,-1243,-1237
+StonePlantMound3,-6770,-6761,-1390,-1379

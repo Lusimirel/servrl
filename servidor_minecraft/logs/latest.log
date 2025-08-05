@@ -3760,3 +3760,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:11:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -4.132728779075478,-3.5292231891187384,-8.453472582105519
 [22:11:14] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3610ms behind, skipping 72 tick(s)
 [22:12:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:13:56] [Server thread/INFO] [antiqueatlas]: Created new marker #6"pueblito"@(-6556, -1157)
+[22:14:12] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:17:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Creative Mode]
+[22:20:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Survival Mode]
