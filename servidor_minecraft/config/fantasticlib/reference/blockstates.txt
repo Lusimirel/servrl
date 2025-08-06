@@ -2681,10 +2681,6 @@ rustic:leaves0:12
 rustic:leaves0:13
 rustic:leaves0:14
 rustic:leaves0:15
-quark:glowstone_dust_block:0
-quark:gunpowder_block:0
-quark:gunpowder_block:1
-quark:black_ash:0
 quark:roots:0
 quark:roots:1
 quark:roots:2
@@ -4286,6 +4282,10 @@ quark:rain_detector:0
 quark:rain_detector:1
 quark:rain_detector:2
 quark:rain_detector:3
+quark:glowstone_dust_block:0
+quark:gunpowder_block:0
+quark:gunpowder_block:1
+quark:black_ash:0
 iceandfire:lectern:0
 iceandfire:lectern:1
 iceandfire:lectern:2
