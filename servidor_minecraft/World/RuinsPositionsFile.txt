@@ -261,6 +261,7 @@
 -4535 49 -706 -4499 60 -695 SunkenShip-v3.tml
 -4534 62 -490 -4522 84 -478 BaloonVeryLow.tml
 -4529 48 -691 -4518 59 -655 SunkenShip-v3.tml
+-4527 64 467 -4519 70 475 ShortTower.tml
 -4492 53 172 -4481 62 183 BridgePilings2_river.tml
 -4485 63 -230 -4482 67 -227 StoneGrill.tml
 -4481 67 20 -4469 112 32 TowerEasy.tml

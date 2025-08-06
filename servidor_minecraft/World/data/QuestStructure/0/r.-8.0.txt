@@ -306,3 +306,9 @@ StonePlantMound3,-4564,-4553,164,173
 StonePlantMound2,-4573,-4560,185,197
 RLCraft_PhilbosaurusRex,-4346,-4272,410,443
 StonePlantMound2,-4459,-4446,464,476
+MysticalTree2,-4477,-4467,324,334
+DinosaurSkull,-4486,-4467,267,278
+StonePlantMound1,-4483,-4477,264,270
+StonePlantMound,-4479,-4474,486,491
+StonePlantMound1,-4497,-4491,281,287
+StonePlantMound,-4518,-4513,395,400
