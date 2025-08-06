@@ -3706,3 +3706,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:34:10] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
 [23:34:10] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
 [23:35:08] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -3928 | -1048 ], underground: false
+[23:35:51] [Server thread/INFO] [antiqueatlas]: Created new marker #9"mazmorra"@(-4022, -888)
+[23:36:26] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:38:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Creative Mode]
+[23:40:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -4.596332562610314,-8.682274975600336,-4.211290730894575
+[23:41:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Survival Mode]
+[23:44:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [XP Tome] * 1 to Octlopez04]
+[23:44:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [XP Tome] * 1 to Octlopez04]
+[23:44:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [XP Tome] * 1 to Octlopez04]
