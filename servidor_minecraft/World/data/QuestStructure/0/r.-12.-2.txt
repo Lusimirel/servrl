@@ -22,3 +22,6 @@ StoneBoulder,-6651,-6642,-1148,-1139
 StonePlantMound2,-6655,-6642,-1196,-1184
 StonePlantBoulder,-6458,-6448,-1318,-1308
 StoneBoulder,-6419,-6410,-1321,-1312
+StonePlantMound2,-6230,-6218,-1208,-1195
+RLCraft_BasicSpider,-6212,-6212,-1356,-1356
+RLCraft_UndergroundRuin1,-6215,-6206,-1359,-1350

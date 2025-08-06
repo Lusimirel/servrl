@@ -67,12 +67,15 @@
 -6376 64 -792 -6372 66 -788 EmeraldOreOutcrop.tml
 -6366 66 -1062 -6362 68 -1058 EmeraldOreOutcrop.tml
 -6364 64 -1148 -6352 135 -1136 GateUnderGlass.tml
+-6362 73 -1389 -6355 76 -1384 Melonfield.tml
 -6338 65 -890 -6327 76 -875 Barn-intact.tml
 -6311 80 -1234 -6307 85 -1228 VanillaVillageHut-p.tml
 -6297 62 -970 -6288 71 -962 HutRuined.tml
+-6279 70 -1330 -6266 117 -1317 Orthanc.tml
 -6252 126 -506 -6248 128 -502 EmeraldOreOutcrop.tml
 -6244 73 -826 -6231 105 -813 OreSpire.tml
 -6244 70 -1067 -6239 78 -1062 PillarBase.tml
+-6234 94 -1200 -6225 105 -1189 ArrowTrapTomb.tml
 -6222 64 -973 -6214 74 -965 TallTower.tml
 -6210 66 -729 -6203 69 -724 Melonfield.tml
 -6191 46 -378 -6180 57 -342 SunkenShip-v3.tml
