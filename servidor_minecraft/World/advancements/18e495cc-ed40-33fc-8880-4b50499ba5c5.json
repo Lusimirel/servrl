@@ -1220,6 +1220,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-08-06 01:43:58 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:diamond_hammer": {
     "criteria": {
       "has_diamond": "2025-07-31 17:57:45 +0000"
@@ -1247,6 +1253,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-08-01 05:59:28 +0000"
+    },
+    "done": true
+  },
+  "qualitytools:recipes/qualitytools/reforging_station": {
+    "criteria": {
+      "has_anvil": "2025-08-06 01:59:04 +0000"
     },
     "done": true
   },
