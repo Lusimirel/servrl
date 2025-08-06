@@ -3685,3 +3685,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [20:02:24] [Server thread/INFO] [Meson ASM]: Located method, patching...
 [20:02:24] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
 [20:02:24] [Server thread/INFO] [Meson ASM]: Patch result: true
+[20:03:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[20:04:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[20:04:10] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair
+[20:04:10] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [updateRepairOutput, func_82848_d, e] Descriptor ()V / ()V)
+[20:04:10] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[20:04:10] [Server thread/INFO] [Meson ASM]: Located target ICONST_0
+[20:04:10] [Server thread/INFO] [Meson ASM]: Patch result: true
+[20:04:10] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair2
+[20:04:10] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [canTakeStack, func_82869_a, a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Z / (Laed;)Z)
+[20:04:10] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[20:04:10] [Server thread/INFO] [Meson ASM]: Located target IFLE L0
+[20:04:10] [Server thread/INFO] [Meson ASM]: Patch result: true
+[20:05:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[20:06:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[20:07:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[20:07:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[20:07:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given 10000 experience to Octlopez04]
+[20:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[20:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[20:12:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[20:12:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
