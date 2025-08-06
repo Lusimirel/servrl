@@ -1,1 +1,4 @@
 P_WitchDungeon,-4171,-4154,592,626
+StonePlantMound4,-4363,-4356,511,518
+RLCraft_DecentWitch,-4401,-4401,527,527
+RLCraft_UndergroundRuin3,-4407,-4399,524,532

@@ -304,3 +304,5 @@ RLCraft_SmallUndergroundSkeleton,-4416,-4408,184,192
 StonePlantMound1,-4438,-4432,108,114
 StonePlantMound3,-4564,-4553,164,173
 StonePlantMound2,-4573,-4560,185,197
+RLCraft_PhilbosaurusRex,-4346,-4272,410,443
+StonePlantMound2,-4459,-4446,464,476
