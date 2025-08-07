@@ -309,6 +309,7 @@
 -4129 70 427 -4120 73 436 RuinedSmallFountainDiagonal.tml
 -4120 66 300 -4107 75 313 VolcanicVent.tml
 -4102 67 199 -4097 70 206 PumpkinField.tml
+-4098 48 -1098 -4087 67 -1062 SunkenShip-v2.tml
 -4097 63 -413 -4090 76 -407 TP_FishingShack.tml
 -4084 66 -745 -4071 75 -732 VolcanicVent.tml
 -4068 67 -879 -4065 73 -875 StonePillar.tml
