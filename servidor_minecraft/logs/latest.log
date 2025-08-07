@@ -145,3 +145,20 @@
 [00:46:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Argus  Lvl 3
 [00:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [00:54:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved wrongly!
+[00:57:24] [Server thread/INFO] [antiqueatlas]: Created new marker #12"gui.antiqueatlas.marker.tomb Lumi_uwu"@(-3831, -373)
+[00:57:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Vindicator
+[00:57:26] [Thread-154/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[00:57:26] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[00:57:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:57:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Vindicator
+[00:58:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was struck by lightning
+[00:58:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:58:45] [Server thread/INFO] [Scaling Health]: Blight Witch was killed by Octlopez04
+[00:58:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Vindicator
+[00:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:59:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:59:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[01:02:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:03:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:05:26] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Lumi_uwu)
