@@ -1,2 +1,7 @@
 BigClockworkSite,-2578,-2543,1032,1077
 RLCraft_UndergroundFarm,-2766,-2724,1050,1093
+P_DesertTemple,-2980,-2930,1143,1192
+PirateChest,-2958,-2954,1283,1287
+UnnaturalCrater,-3059,-3019,1092,1132
+P_DesertDungeon,-2860,-2807,1248,1300
+ShrineSmallFire,-2701,-2691,1214,1224

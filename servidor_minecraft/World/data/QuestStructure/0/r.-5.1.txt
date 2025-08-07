@@ -17,3 +17,4 @@ RLCraft_UndergroundRuin2,-2588,-2581,855,865
 ShrineSmallEarth,-2625,-2613,994,1006
 RLCraft_SmallUndergroundSkeleton,-2733,-2725,1001,1009
 RLCraft_SmallUndergroundSkeleton,-2968,-2960,1000,1008
+RLCraft_SmallUndergroundSkeleton,-3029,-3021,966,974

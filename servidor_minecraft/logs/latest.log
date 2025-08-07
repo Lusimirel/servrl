@@ -3811,3 +3811,58 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:10:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [23:12:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [23:12:56] [Server thread/INFO] [Scaling Health]: Blight Skeleton was killed by Octlopez04
+[23:16:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:19:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:29:22] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id MinecartCommandBlock
+[23:29:23] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id MinecartCommandBlock
+[23:30:51] [Server thread/INFO] [antiqueatlas]: Created new marker #19"Templo"@(-2825, 1269)
+[23:31:16] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:36:41] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:41] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:41] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:41] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id MinecartCommandBlock
+[23:36:42] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:42] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:42] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:42] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:38:57] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -255 and chunkZ 51...
+[23:38:57] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_villager_house_sandy at {"x": -3875, "y": 0, "z": 907}...
+[23:38:58] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_villager_house_sandy at {"x": -3875, "y": 0, "z": 907}.
+[23:38:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -3.8230527772602727,-9.358193650248424,-2.3309883830103217
+[23:39:04] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-4216, y=44, z=1064}
+[23:41:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! -5.9546736095489905,0.9215999984741217,-8.166134382193036
+[23:41:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3189ms behind, skipping 63 tick(s)
+[23:41:07] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:07] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:07] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:07] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:09] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:09] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:09] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:09] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:11] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:11] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:11] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:11] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:11] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:11] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:11] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:11] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:15] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:15] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:15] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:15] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:41:15] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:42:29] [Server thread/INFO] [antiqueatlas]: Created new marker #20""@(-4488, 736)
+[23:42:33] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:44:24] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -306 and chunkZ 51...
+[23:44:25] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_forest_temple at {"x": -4911, "y": 0, "z": 774}...
+[23:44:27] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_forest_temple at {"x": -4911, "y": 0, "z": 774}.
+[23:44:27] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2589ms behind, skipping 51 tick(s)

@@ -6,3 +6,11 @@ RLCraft_UndergroundRuin3,-3600,-3592,716,724
 RLCraft_SmallUndergroundSkeleton,-3640,-3632,607,615
 RLCraft_DecentZombie,-3686,-3686,593,593
 RLCraft_UndergroundRuin3,-3688,-3680,590,598
+RLCraft_SmallUndergroundSkeleton,-3686,-3678,963,971
+StonePlantMound4,-3650,-3643,801,808
+RLCraft_DecentCaveSpider,-3754,-3754,867,867
+RLCraft_UndergroundRuin3,-3760,-3752,864,872
+SmallClockworkSite,-3915,-3896,892,914
+ThreeTowers,-3948,-3917,994,1026
+P_VillageFarmhouse,-3978,-3966,992,1004
+RLCraft_PlainsCamp,-4059,-4013,886,925

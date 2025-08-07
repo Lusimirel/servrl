@@ -1,0 +1,8 @@
+BigClockworkSite,-3656,-3621,1063,1108
+MeteorSite,-3822,-3792,1029,1044
+RLCraft_DecentSpider,-3881,-3881,1065,1065
+RLCraft_UndergroundRuin3,-3887,-3879,1062,1070
+VillageMarketplace,-3963,-3949,1030,1044
+SeasonsGreenhouse,-3978,-3966,1050,1060
+P_VillageHouse,-3978,-3969,1032,1043
+P_Village2Story,-4000,-3994,1038,1051

@@ -7,3 +7,5 @@ RLCraft_DecentZombie,-3288,-3288,714,714
 RLCraft_UndergroundRuin3,-3293,-3285,708,716
 BigClockworkSite,-3517,-3472,609,644
 ShrineSmallEarth,-3225,-3213,827,839
+RLCraft_DecentSpider,-3541,-3541,826,826
+RLCraft_UndergroundRuin3,-3543,-3535,823,831
