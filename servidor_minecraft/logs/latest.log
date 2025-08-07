@@ -102,3 +102,43 @@
 [00:24:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [00:24:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lumi_uwu: Set own game mode to Survival Mode]
 [00:31:56] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[00:35:55] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by Octlopez04
+[00:36:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:36:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:38:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:39:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: Winged Venom In Dimension: 0 Duration: 60secs
+[00:40:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 10.745273985618951,19.0,-9.17340752851851
+[00:40:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 10.632159117449646,19.0,-9.263286683101
+[00:40:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 10.372855396167779,19.0,-9.443508368480082
+[00:40:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 10.238197036861493,19.0,-9.527866661408211
+[00:40:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 10.104102555979352,19.0,-9.610883238149029
+[00:40:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 9.837537252654329,19.0,-9.773324100263949
+[00:40:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 9.576795065154329,19.0,-9.923389204430634
+[00:40:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 9.446342591195844,19.0,-9.998421756513949
+[00:40:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 9.185437643279329,19.0,-10.148486860680634
+[00:40:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 8.924695455779329,19.0,-10.298714725264006
+[00:40:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 8.663953268279329,19.0,-10.448861209638949
+[00:40:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 8.403336498265162,19.0,-10.598990601140315
+[00:40:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Octlopez04 moved too quickly! 7.9382782231423334,19.5,-10.886253555611233
+[00:40:34] [Server thread/INFO] [antiqueatlas]: Created new marker #10"gui.antiqueatlas.marker.tomb Lumi_uwu"@(-3819, -304)
+[00:40:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Zombie
+[00:40:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[00:40:56] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[00:40:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Finished: Winged Venom
+[00:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was pummeled by Remobra  Lvl 6
+[00:41:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:41:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:41:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:41:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:41:28] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:41:28] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:42:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Dark Eechetik  Lvl 12
+[00:43:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:43:55] [Server thread/INFO] [Scaling Health]: Blight Remobra  Lvl 9 was killed by Octlopez04
+[00:44:20] [Server thread/INFO] [antiqueatlas]: Created new marker #11"gui.antiqueatlas.marker.tomb Lumi_uwu"@(-3823, -301)
+[00:44:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Dark Eechetik  Lvl 12
+[00:44:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[00:44:41] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[00:44:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was slain by Dark Eechetik  Lvl 12
+[00:44:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[00:45:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
