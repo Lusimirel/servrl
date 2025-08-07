@@ -1935,6 +1935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-08-07 19:39:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-07-31 17:42:09 +0000"

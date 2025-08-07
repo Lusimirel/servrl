@@ -3722,3 +3722,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [19:35:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 475ede68-7fd8-4ecb-9f60-51386ea27ea0
 [19:35:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
 [19:37:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:37:38] [Server thread/INFO] [antiqueatlas]: Created new marker #18"gui.antiqueatlas.marker.tomb Lumi_uwu"@(-3800, -26)
+[19:37:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was blown up by Creeper
+[19:37:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[19:38:15] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:45:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lumi_uwu was shot by Skeleton
+[19:45:21] [Thread-78/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 18e495cc-ed40-33fc-8880-4b50499ba5c5.
+[19:45:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
