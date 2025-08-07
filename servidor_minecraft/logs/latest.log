@@ -1,1 +1,11 @@
 [00:01:09] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by Octlopez04
+[00:11:24] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair
+[00:11:24] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [updateRepairOutput, func_82848_d, e] Descriptor ()V / ()V)
+[00:11:24] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[00:11:24] [Server thread/INFO] [Meson ASM]: Located target ICONST_0
+[00:11:24] [Server thread/INFO] [Meson ASM]: Patch result: true
+[00:11:24] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair2
+[00:11:24] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [canTakeStack, func_82869_a, a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Z / (Laed;)Z)
+[00:11:24] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[00:11:24] [Server thread/INFO] [Meson ASM]: Located target IFLE L0
+[00:11:24] [Server thread/INFO] [Meson ASM]: Patch result: true
