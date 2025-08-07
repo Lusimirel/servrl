@@ -187,3 +187,6 @@
 [01:36:12] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Lumi_uwu)
 [01:36:13] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Octlopez04)
 [01:36:13] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Octlopez04)
+[01:43:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[01:43:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[01:46:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lumi_uwu moved wrongly!
