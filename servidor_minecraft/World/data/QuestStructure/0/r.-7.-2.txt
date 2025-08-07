@@ -1,1 +1,2 @@
 ShrineSmallFire,-3943,-3933,-1046,-1036
+StonePlantBoulder,-3861,-3851,-1033,-1023

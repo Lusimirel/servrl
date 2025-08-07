@@ -334,6 +334,7 @@
 -3913 62 -101 -3911 66 -98 SkeletonHeadStatue.tml
 -3912 60 252 -3904 106 260 SandCastle.tml
 -3865 67 165 -3854 78 176 SandTrap.tml
+-3857 70 -1035 -3854 74 -1032 StoneGrill.tml
 -3854 63 549 -3835 66 560 RuinedDryFountain.tml
 -3845 73 394 -3838 80 401 Outcrop.tml
 -3839 70 87 -3830 73 96 RuinedSmallFountainDiagonal.tml
