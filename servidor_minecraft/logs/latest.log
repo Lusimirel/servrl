@@ -3966,3 +3966,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:58:48] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.routine.IAFOldDeathWormRoutine$WrappedProximityTaskOldDeathWorm
 [05:00:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has reached the goal [Maximum Capacity]
 [05:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [What a Deal!]
+[05:04:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Octlopez04 to Lumi_uwu]
+[05:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[05:07:54] [Server thread/INFO] [Scaling Health]: Blight Zombie has died
+[05:09:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lumi_uwu: Set own game mode to Creative Mode]
+[05:11:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[05:12:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[05:12:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[05:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[05:12:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[05:12:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[05:12:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Given    [Enchanted Book] * 1 to Octlopez04]
+[05:13:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lumi_uwu: Set own game mode to Survival Mode]
