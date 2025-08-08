@@ -79,3 +79,5 @@ RLCraft_BasicSkeleton,-3680,-3680,-611,-611
 RLCraft_BasicCaveSpider,-3690,-3690,-603,-603
 RLCraft_MegaBattleTower_Water,-3718,-3662,-649,-593
 UndergroundCrypt,-3839,-3811,-693,-679
+RLCraft_BasicWitch,-3773,-3773,-699,-699
+RLCraft_UndergroundRuin1,-3779,-3770,-702,-693
