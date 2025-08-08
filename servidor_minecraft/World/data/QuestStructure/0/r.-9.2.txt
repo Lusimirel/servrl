@@ -21,3 +21,6 @@ SeasonsGreenhouse,-4816,-4806,1366,1378
 P_VillageFarmhouse,-4794,-4782,1372,1384
 RLCraft_Vineyard,-4824,-4796,1396,1416
 DesertWatchtower,-4844,-4834,1270,1280
+StonePlantMound4,-4984,-4977,1288,1295
+RLCraft_BasicSpider,-5039,-5039,1275,1275
+RLCraft_UndergroundRuin1,-5045,-5036,1272,1281
