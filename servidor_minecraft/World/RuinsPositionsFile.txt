@@ -185,6 +185,7 @@
 -5237 66 -676 -5234 72 -672 StonePillar.tml
 -5233 66 -1182 -5224 81 -1173 MoaiHead.tml
 -5214 70 -1444 -5210 72 -1440 EmeraldOreOutcrop.tml
+-5211 47 712 -5175 58 723 SunkenShip-v3.tml
 -5205 55 798 -5194 65 809 BridgePilings-lg2.tml
 -5205 69 -1307 -5198 76 -1300 Outcrop.tml
 -5188 68 -970 -5180 78 -962 TallTower.tml
@@ -220,6 +221,7 @@
 -5054 63 1403 -5019 73 1437 UnderwaterBase.tml
 -5053 50 -1352 -5017 69 -1341 SunkenShip-v2.tml
 -5047 82 325 -5043 88 328 StonePillar.tml
+-5042 68 721 -5034 78 729 LargeStoneHouseWBasement.tml
 -5037 63 -1191 -5030 66 -1186 Melonfield.tml
 -5035 64 -127 -5031 66 -123 EmeraldOreOutcrop.tml
 -5031 63 -368 -5027 71 -364 SmallWell.tml
@@ -237,6 +239,7 @@
 -4970 65 1176 -4967 69 1179 StoneGrill.tml
 -4967 69 -1038 -4963 71 -1034 EmeraldOreOutcrop.tml
 -4964 74 773 -4956 80 783 VanillaVillageForge-r.tml
+-4946 66 679 -4941 71 686 ZombieHut.tml
 -4944 66 1081 -4934 74 1090 GuardHouse.tml
 -4944 65 1411 -4917 122 1430 GuardianFull.tml
 -4943 78 -177 -4935 87 -169 LargeStoneTwoStoryHouse.tml

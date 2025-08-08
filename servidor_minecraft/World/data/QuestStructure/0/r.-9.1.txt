@@ -299,3 +299,11 @@ PyramidMazePath,-5098,-5096,850,852
 PyramidMazePath,-5086,-5084,826,828
 PyramidMazePath,-5098,-5096,853,855
 PyramidMazePagoda,-5116,-5069,826,873
+StoneLeafMound,-4991,-4984,739,748
+RLCraft_DecentZombie,-5054,-5054,733,733
+RLCraft_UndergroundRuin2,-5059,-5052,728,738
+RLCraft_DecentSkeleton,-5038,-5038,718,718
+RLCraft_UndergroundRuin3,-5043,-5035,712,720
+PeacefulCrypt,-5089,-5065,710,726
+StonePlantBoulder,-4995,-4985,711,721
+StonePlantMound2,-5038,-5025,700,712
