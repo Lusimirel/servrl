@@ -481,6 +481,7 @@
 -3334 68 -274 -3330 73 -268 VanillaVillageHut-p.tml
 -3333 64 869 -3329 72 873 SmallWell.tml
 -3315 89 1069 -3308 93 1076 TinyFarmField.tml
+-3314 62 117 -3307 72 124 BridgePilings-sm2.tml
 -3314 65 -418 -3304 75 -406 Piston-LavaTrap.tml
 -3313 45 -818 -3277 56 -807 SunkenShip-v3.tml
 -3305 69 -26 -3299 74 -22 VanillaVillageHut-r.tml
@@ -560,6 +561,7 @@
 -2935 69 787 -2927 75 795 LargeStoneHouse.tml
 -2931 63 1245 -2923 73 1253 LargeStoneHouseWBasement.tml
 -2920 63 178 -2907 72 191 VolcanicVent.tml
+-2914 71 -11 -2902 78 -1 SandstoneStructure1_Ruined.tml
 -2897 82 696 -2892 87 702 VanillaVillageCobbleHouse-r.tml
 -2895 70 1066 -2891 75 1072 VanillaVillageHut-p.tml
 -2890 69 93 -2883 73 102 SandstoneStructure2_Ruined.tml
@@ -576,6 +578,7 @@
 -2854 38 -729 -2818 57 -718 SunkenShip-v2.tml
 -2847 66 -4608 -2842 69 -4601 PumpkinField.tml
 -2841 63 -402 -2833 69 -394 ShortTower.tml
+-2837 61 -28 -2830 65 -21 TinyFarmField.tml
 -2817 69 972 -2810 72 977 Melonfield.tml
 -2814 75 106 -2811 79 109 StoneGrill.tml
 -2814 62 756 -2807 72 763 BridgePilings-sm2.tml

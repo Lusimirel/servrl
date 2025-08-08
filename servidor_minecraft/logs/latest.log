@@ -23,3 +23,7 @@
 [00:51:17] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player Octlopez04
 [00:51:17] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player Octlopez04
 [00:51:17] [Thread-316/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5d715e32-995d-33dc-af6d-a80ee555a961.
+[01:00:52] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: Arachnophobia In Dimension: 0 Duration: 60secs
+[01:01:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Creative Mode]
+[01:01:52] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Finished: Arachnophobia
+[01:01:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Set own game mode to Survival Mode]
