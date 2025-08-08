@@ -3729,3 +3729,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:59:09] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Lumi_uwu)
 [03:59:09] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Lumi_uwu)
 [03:59:10] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Lumi_uwu)
+[04:04:14] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[04:04:14] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (140 tiles)
+[04:04:14] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player Lumi_uwu
+[04:04:14] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player Lumi_uwu
+[04:08:21] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Octlopez04)
