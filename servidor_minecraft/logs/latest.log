@@ -3963,3 +3963,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:52:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [04:52:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [04:52:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:58:48] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.routine.IAFOldDeathWormRoutine$WrappedProximityTaskOldDeathWorm
+[05:00:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has reached the goal [Maximum Capacity]
+[05:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Octlopez04 has made the advancement [What a Deal!]

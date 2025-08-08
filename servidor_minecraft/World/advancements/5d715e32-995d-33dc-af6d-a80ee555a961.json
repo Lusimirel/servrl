@@ -1489,6 +1489,12 @@
     },
     "done": true
   },
+  "spartanweaponry:upgrade_quiver_max": {
+    "criteria": {
+      "quiver_arrow": "2025-08-08 05:00:43 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_hammer": {
     "criteria": {
       "has_stone": "2025-07-31 17:50:28 +0000"
@@ -1861,6 +1867,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-02 05:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-08 05:02:15 +0000"
     },
     "done": true
   },
