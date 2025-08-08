@@ -3726,3 +3726,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:44:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [03:44:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [03:46:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Octlopez04: Teleported Lumi_uwu to Octlopez04]
+[03:59:09] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Lumi_uwu)
+[03:59:09] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Lumi_uwu)
+[03:59:10] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Lumi_uwu)
