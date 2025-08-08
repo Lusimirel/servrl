@@ -1,1 +1,4 @@
 WoodWallRemains,-5149,-5141,999,1027
+StonePlantMound3,-5181,-5170,610,619
+RLCraft_SmallUndergroundSkeleton,-5209,-5201,525,533
+RLCraft_DecentCaveSpider,-5182,-5182,512,512

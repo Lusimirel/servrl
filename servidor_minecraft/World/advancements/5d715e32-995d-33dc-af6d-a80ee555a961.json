@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "plains_defiled": "2025-08-08 03:41:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-07-31 16:52:19 +0000"
@@ -1102,6 +1108,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-07-31 17:50:28 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/root": {
+    "criteria": {
+      "plains_defiled": "2025-08-08 03:41:28 +0000"
     },
     "done": true
   },

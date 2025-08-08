@@ -160,6 +160,7 @@
 -5367 67 -18 -5346 75 8 GraveyardHaunted.tml
 -5367 51 322 -5331 70 333 SunkenShip-v2.tml
 -5366 70 -959 -5364 74 -956 SkeletonHeadStatue.tml
+-5361 63 489 -5355 76 496 TP_FishingShack.tml
 -5359 69 -106 -5354 80 -97 VanillaVillageChurch-r.tml
 -5345 63 82 -5337 69 90 ShortTower.tml
 -5337 62 -1708 -5329 72 -1700 TallTower.tml
@@ -171,9 +172,11 @@
 -5319 74 -1626 -5316 78 -1624 SkeletonHeadStatue.tml
 -5316 70 -638 -5308 76 -630 LargeStoneHouse.tml
 -5312 75 174 -5309 81 178 StonePillar.tml
+-5306 63 741 -5276 106 771 SkyCastle.tml
 -5291 74 -824 -5274 107 -807 SpiralTree.tml
 -5288 62 -1345 -5283 70 -1340 PillarBase.tml
 -5284 72 -915 -5279 83 -906 VanillaVillageChurch-r.tml
+-5282 48 527 -5274 60 553 shipwreck.tml
 -5282 62 -1259 -5276 68 -1250 PortalShrine.tml
 -5272 61 -53 -5261 71 -42 BridgePilings-lg2.tml
 -5263 65 46 -5260 69 48 SkeletonHeadStatue.tml
@@ -188,6 +191,8 @@
 -5211 47 712 -5175 58 723 SunkenShip-v3.tml
 -5205 55 798 -5194 65 809 BridgePilings-lg2.tml
 -5205 69 -1307 -5198 76 -1300 Outcrop.tml
+-5196 129 601 -5188 135 609 ShortTower.tml
+-5192 64 506 -5183 79 515 MoaiHead.tml
 -5188 68 -970 -5180 78 -962 TallTower.tml
 -5184 66 -103 -5181 70 -100 StoneGrill.tml
 -5184 62 -24 -5176 72 -16 TallTower.tml
@@ -200,6 +205,7 @@
 -5157 72 -610 -5152 76 -605 CaveSpiderBurrow.tml
 -5153 68 -721 -5144 75 -712 WoodHouse2_Ruined.tml
 -5148 62 935 -5139 69 944 WoodHouse2_Intact.tml
+-5141 76 375 -5133 86 383 LargeStoneHouseWBasement.tml
 -5138 66 -897 -5125 75 -884 VolcanicVent.tml
 -5132 62 -1425 -5128 70 -1421 SmallWell.tml
 -5131 66 -1193 -5123 76 -1185 LargeStoneHouseWBasement.tml
@@ -208,6 +214,7 @@
 -5128 69 -1272 -5126 73 -1269 SkeletonHeadStatue.tml
 -5120 65 -374 -5108 71 -365 VanillaVillageEmpty-p.tml
 -5113 63 1202 -5082 103 1232 CastleOcean.tml
+-5111 106 449 -5100 117 458 ArrowTrapTomb.tml
 -5107 63 6 -5100 70 13 Outcrop.tml
 -5106 62 -82 -5100 68 -73 PortalShrine.tml
 -5104 62 -1602 -5101 68 -1598 StonePillar.tml
@@ -218,6 +225,7 @@
 -5082 71 1070 -5075 75 1077 TinyFarmField.tml
 -5075 62 -818 -5068 66 -811 TinyFarmField.tml
 -5067 66 -556 -5058 74 -548 WoodHouse_Intact.tml
+-5060 100 594 -5052 106 602 LargeStoneHouse.tml
 -5054 63 1403 -5019 73 1437 UnderwaterBase.tml
 -5053 50 -1352 -5017 69 -1341 SunkenShip-v2.tml
 -5047 82 325 -5043 88 328 StonePillar.tml
@@ -225,6 +233,7 @@
 -5037 63 -1191 -5030 66 -1186 Melonfield.tml
 -5035 64 -127 -5031 66 -123 EmeraldOreOutcrop.tml
 -5031 63 -368 -5027 71 -364 SmallWell.tml
+-5029 107 518 -5025 109 522 EmeraldOreOutcrop.tml
 -5010 39 1310 -5002 51 1336 shipwreck.tml
 -5010 73 -930 -5007 77 -928 SkeletonHeadStatue.tml
 -5005 54 127 -4998 64 134 BridgePilings-sm2.tml
@@ -236,6 +245,7 @@
 -4984 66 -475 -4981 70 -472 StoneGrill.tml
 -4984 63 -689 -4952 76 -657 Floater.tml
 -4979 125 -1 -4972 129 6 TinyFarmField.tml
+-4975 68 426 -4973 72 429 SkeletonHeadStatue.tml
 -4970 65 1176 -4967 69 1179 StoneGrill.tml
 -4967 69 -1038 -4963 71 -1034 EmeraldOreOutcrop.tml
 -4964 74 773 -4956 80 783 VanillaVillageForge-r.tml
@@ -244,6 +254,8 @@
 -4944 65 1411 -4917 122 1430 GuardianFull.tml
 -4943 78 -177 -4935 87 -169 LargeStoneTwoStoryHouse.tml
 -4936 65 1254 -4932 73 1258 SmallWell.tml
+-4933 63 334 -4926 67 341 TinyFarmField.tml
+-4933 84 595 -4928 89 601 VanillaVillageCobbleHouse-r.tml
 -4923 69 -390 -4914 72 -381 RuinedSmallFountainDiagonal.tml
 -4910 62 152 -4902 71 160 LargeStoneTwoStoryHouse.tml
 -4891 34 -1190 -4865 46 -1182 shipwreck.tml

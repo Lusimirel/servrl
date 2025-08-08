@@ -267,3 +267,8 @@ SmallWoodenCottage,-5203,-5192,162,170
 MonolythHoly,-5236,-5222,271,285
 RLCraft_BasicZombie,-5235,-5235,293,293
 RLCraft_UndergroundRuin1,-5238,-5229,287,296
+StonePlantBoulder,-5261,-5251,499,509
+RLCraft_UndergroundRuin3,-5184,-5176,507,515
+StonePlantMound3,-5156,-5145,476,485
+DinosaurSkeleton,-5167,-5121,442,451
+StonePlantMound4,-5144,-5137,353,360
