@@ -755,9 +755,6 @@ quark:polished_netherrack_bricks_slab
 quark:polished_netherrack_bricks_slab_double
 quark:polished_netherrack_bricks_wall
 quark:quilted_wool
-quark:glowstone_dust_block
-quark:gunpowder_block
-quark:black_ash
 quark:roots
 quark:roots_blue_flower
 quark:roots_black_flower
@@ -848,6 +845,9 @@ quark:glowcelium
 quark:glowshroom
 quark:glowshroom_block
 quark:smoker
+quark:glowstone_dust_block
+quark:gunpowder_block
+quark:black_ash
 quark:spruce_trapdoor
 quark:birch_trapdoor
 quark:jungle_trapdoor
@@ -1205,12 +1205,12 @@ notreepunching:pottery/flower_pot
 notreepunching:ceramic_large_vessel
 notreepunching:fire_pit
 scalinghealth:crystalore
-simpledifficulty:purifiedwater
 simpledifficulty:campfire
 simpledifficulty:rain_collector
 simpledifficulty:heater
 simpledifficulty:chiller
 simpledifficulty:spit
+simpledifficulty:purifiedwater
 xat:moon_rose
 xat:teddy_bear
 xat:teddy_bear_rembo

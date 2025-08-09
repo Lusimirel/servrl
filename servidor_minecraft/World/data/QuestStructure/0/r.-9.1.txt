@@ -316,3 +316,9 @@ StonePlantBoulder,-4923,-4913,575,585
 StonePlantMound4,-4933,-4926,545,552
 RLCraft_DecentWitch,-5100,-5100,533,533
 RLCraft_UndergroundRuin2,-5105,-5098,528,538
+StoneLeafMound,-4632,-4625,509,518
+ShrineSmallAir,-4668,-4660,520,528
+StonePlantMound2,-4694,-4682,574,587
+StoneBoulder,-4768,-4759,548,557
+StoneBoulder,-4831,-4822,586,595
+StonePlantMound4,-4908,-4901,529,536

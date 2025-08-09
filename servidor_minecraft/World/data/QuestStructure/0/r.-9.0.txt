@@ -140,3 +140,9 @@ StoneMazeEndChest,-4909,-4907,337,339
 StoneMazePath,-4888,-4886,334,336
 StoneMazeEndChest,-4888,-4886,331,333
 StoneMazePagoda,-4933,-4886,331,378
+StoneLeafMound,-4615,-4608,507,516
+StonePlantBoulder,-4676,-4666,313,323
+StonePlantMound,-4683,-4678,283,288
+StonePlantMound4,-4791,-4784,380,387
+StonePlantMound1,-4788,-4782,490,496
+MysticalTree,-4884,-4869,365,381

@@ -312,3 +312,7 @@ StonePlantMound1,-4483,-4477,264,270
 StonePlantMound,-4479,-4474,486,491
 StonePlantMound1,-4497,-4491,281,287
 StonePlantMound,-4518,-4513,395,400
+StonePlantBoulder,-4537,-4527,318,328
+WoodThornBig,-4569,-4556,342,355
+MysticalTree2,-4568,-4558,268,278
+WitchPillars,-4573,-4556,381,398
